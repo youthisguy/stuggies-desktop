@@ -1,26 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=Share+Tech+Mono&display=swap');
 @import "tailwindcss";
 
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --win-gray: #c0c0c0;
+  --win-dark: #808080;
+  --win-darker: #404040;
+  --win-white: #ffffff;
+  --win-black: #000000;
+  --win-blue: #000080;
+  --win-title-start: #000080;
+  --win-title-end: #1084d0;
+  --taskbar-h: 40px;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+* { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Tahoma', Arial, sans-serif;
+  font-size: 11px;
+  background: #008080;
+  overflow: hidden;
+  user-select: none;
+  cursor: default;
+}
+
+.desktop {
+  position: fixed;
+  inset: 0;
+  bottom: var(--taskbar-h);
+  overflow: hidden;
+}
+
+.desktop-bg {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse at 50% 0%, #3b0764 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 30%, #1e1b4b 0%, transparent 50%),
+    linear-gradient(180deg, #0d0221 0%, #1a0533 25%, #2e1065 50%, #1e3a5f 75%, #0c1a2e 100%);
+}
+
+.desktop-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    radial-gradient(1px 1px at 5% 8%,  rgba(255,255,255,.9) 0%,transparent 100%),
+    radial-gradient(1px 1px at 12% 3%, rgba(255,255,255,.7) 0%,transparent 100%),
+    radial-gradient(2px 2px at 20% 12%,rgba(255,255,255,1) 0%,transparent 100%),
+    radial-gradient(1px 1px at 28% 6%, rgba(255,255,255,.6) 0%,transparent 100%),
+    radial-gradient(1px 1px at 35% 18%,rgba(255,255,255,.8) 0%,transparent 100%),
+    radial-gradient(2px 2px at 45% 4%, rgba(255,255,255,.9) 0%,transparent 100%),
+    radial-gradient(1px 1px at 53% 14%,rgba(255,255,255,.5) 0%,transparent 100%),
+    radial-gradient(1px 1px at 62% 9%, rgba(255,255,255,.7) 0%,transparent 100%),
+    radial-gradient(2px 2px at 70% 5%, rgba(255,255,255,1) 0%,transparent 100%),
+    radial-gradient(1px 1px at 78% 16%,rgba(255,255,255,.6) 0%,transparent 100%),
+    radial-gradient(1px 1px at 85% 3%, rgba(255,255,255,.8) 0%,transparent 100%),
+    radial-gradient(1px 1px at 92% 11%,rgba(255,255,255,.5) 0%,transparent 100%),
+    radial-gradient(1px 1px at 8%  25%,rgba(255,255,255,.4) 0%,transparent 100%),
+    radial-gradient(2px 2px at 18% 32%,rgba(255,255,255,.6) 0%,transparent 100%),
+    radial-gradient(1px 1px at 40% 28%,rgba(255,255,255,.5) 0%,transparent 100%),
+    radial-gradient(1px 1px at 60% 22%,rgba(255,255,255,.7) 0%,transparent 100%),
+    radial-gradient(1px 1px at 75% 35%,rgba(255,255,255,.4) 0%,transparent 100%),
+    radial-gradient(1px 1px at 90% 29%,rgba(255,255,255,.6) 0%,transparent 100%);
+  animation: twinkle 4s ease-in-out infinite alternate;
+}
+
+.desktop-bg::after {
+  content: '';
+  position: absolute;
+  top: 4%; right: 18%;
+  width: 65px; height: 65px;
+  background: radial-gradient(circle at 35% 35%, #fffde7 0%, #ffd54f 40%, transparent 70%);
+  border-radius: 50%;
+  box-shadow: 0 0 30px 10px rgba(255,220,100,.3), 0 0 60px 20px rgba(200,160,80,.15);
+  clip-path: ellipse(100% 100% at 100% 0%);
+}
+
+@keyframes twinkle { 0%{opacity:.7} 100%{opacity:1} }
+
+.desktop-icons {
+  position: absolute;
+  top: 14px; left: 14px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 6px;
+  max-height: calc(100% - 28px);
+  align-content: flex-start;
+}
+
+.desktop-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 76px;
+  padding: 5px 4px 4px;
+  cursor: pointer;
+  border: 1px solid transparent;
+  text-decoration: none;
+  color: white;
+  text-shadow: 1px 1px 3px black, 0 0 6px rgba(0,0,0,.9);
+  border-radius: 2px;
+  gap: 4px;
+}
+.desktop-icon:hover   { background: rgba(0,0,160,.45); border: 1px dotted rgba(255,255,255,.7); }
+.desktop-icon.active  { background: rgba(0,0,160,.7);  border: 1px dotted #fff; }
+.desktop-icon-img     { font-size: 34px; line-height:1; filter: drop-shadow(0 2px 4px rgba(0,0,0,.9)); }
+.desktop-icon .label  {
+  font-size: 11px; text-align: center; line-height: 1.25;
+  word-break: break-word; max-width: 72px;
+  font-family: 'Tahoma', Arial, sans-serif;
+}
+
+/* Windows */
+.win-window {
+  position: absolute;
+  background: var(--win-gray);
+  border-top: 2px solid var(--win-white);
+  border-left: 2px solid var(--win-white);
+  border-right: 2px solid var(--win-dark);
+  border-bottom: 2px solid var(--win-dark);
+  min-width: 260px;
+  box-shadow: 3px 3px 0 var(--win-darker);
+  z-index: 100;
+  animation: winPop .12s ease-out;
+}
+@keyframes winPop { from{opacity:0;transform:scale(.97)} to{opacity:1;transform:scale(1)} }
+
+.win-titlebar {
+  display: flex; align-items: center;
+  padding: 2px 3px;
+  background: linear-gradient(90deg, var(--win-title-start) 0%, var(--win-title-end) 100%);
+  gap: 3px; cursor: default;
+}
+.win-titlebar-icon  { font-size: 13px; }
+.win-titlebar-title {
+  flex: 1; color: white; font-size: 11px; font-weight: bold;
+  font-family: 'Tahoma', Arial, sans-serif;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-left: 2px;
+}
+
+.win-btn {
+  width: 17px; height: 15px;
+  background: var(--win-gray);
+  border-top: 1.5px solid var(--win-white); border-left: 1.5px solid var(--win-white);
+  border-right: 1.5px solid var(--win-dark); border-bottom: 1.5px solid var(--win-dark);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 9px; cursor: pointer; color: black; flex-shrink: 0;
+}
+.win-btn:active {
+  border-top: 1.5px solid var(--win-dark); border-left: 1.5px solid var(--win-dark);
+  border-right: 1.5px solid var(--win-white); border-bottom: 1.5px solid var(--win-white);
+}
+
+.win-menubar { display:flex; padding:1px 2px; border-bottom:1px solid var(--win-dark); }
+.win-menubar span { padding:1px 6px; font-size:11px; cursor:pointer; font-family:'Tahoma',Arial,sans-serif; }
+.win-menubar span:hover { background:var(--win-blue); color:white; }
+
+.win-content { padding:10px; font-size:12px; font-family:'Tahoma',Arial,sans-serif; color:black; }
+
+.win98-btn {
+  padding: 3px 14px; font-size:11px; font-family:'Tahoma',Arial,sans-serif;
+  background: var(--win-gray);
+  border-top: 2px solid var(--win-white); border-left: 2px solid var(--win-white);
+  border-right: 2px solid var(--win-dark); border-bottom: 2px solid var(--win-dark);
+  cursor:pointer; white-space:nowrap;
+}
+.win98-btn:active {
+  border-top: 2px solid var(--win-dark); border-left: 2px solid var(--win-dark);
+  border-right: 2px solid var(--win-white); border-bottom: 2px solid var(--win-white);
+}
+
+/* Taskbar */
+.taskbar {
+  position: fixed; bottom:0; left:0; right:0;
+  height: var(--taskbar-h);
+  background: var(--win-gray);
+  border-top: 2px solid var(--win-white);
+  display: flex; align-items: center;
+  padding: 0 4px; gap: 4px; z-index:1000;
+}
+
+.start-btn {
+  display:flex; align-items:center; gap:5px;
+  padding: 3px 10px 3px 7px;
+  font-weight:bold; font-size:12px; font-family:'Tahoma',Arial,sans-serif;
+  background:var(--win-gray); cursor:pointer; white-space:nowrap;
+  border-top:2px solid var(--win-white); border-left:2px solid var(--win-white);
+  border-right:2px solid var(--win-dark); border-bottom:2px solid var(--win-dark);
+}
+.start-btn:active {
+  border-top:2px solid var(--win-dark); border-left:2px solid var(--win-dark);
+  border-right:2px solid var(--win-white); border-bottom:2px solid var(--win-white);
+}
+
+.taskbar-divider { width:2px; height:28px; border-left:1px solid var(--win-dark); border-right:1px solid var(--win-white); margin:0 2px; }
+
+.taskbar-win-btn {
+  display:flex; align-items:center; gap:4px;
+  padding:2px 8px; font-size:11px; font-family:'Tahoma',Arial,sans-serif;
+  background:var(--win-gray);
+  border-top:2px solid var(--win-dark); border-left:2px solid var(--win-dark);
+  border-right:2px solid var(--win-white); border-bottom:2px solid var(--win-white);
+  cursor:pointer; max-width:150px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; flex-shrink:0;
+}
+
+.taskbar-clock {
+  margin-left:auto; padding:3px 10px; font-size:11px; font-family:'Tahoma',Arial,sans-serif;
+  border-top:2px solid var(--win-dark); border-left:2px solid var(--win-dark);
+  border-right:2px solid var(--win-white); border-bottom:2px solid var(--win-white);
+  min-width:60px; text-align:center; flex-shrink:0;
+}
+
+/* Stuggies logo font */
+.stuggies-logo {
+  font-family: 'VT323', monospace;
+  font-size: 28px;
+  color: white;
+  text-shadow: 0 0 10px #a855f7, 0 0 20px #7c3aed;
+  letter-spacing: 2px;
+}
+
+.win-sunken {
+  border-top:2px solid var(--win-dark); border-left:2px solid var(--win-dark);
+  border-right:2px solid var(--win-white); border-bottom:2px solid var(--win-white);
+}
+
+::-webkit-scrollbar { width:16px; }
+::-webkit-scrollbar-track { background:var(--win-gray); }
+::-webkit-scrollbar-thumb {
+  background:var(--win-gray);
+  border-top:2px solid var(--win-white); border-left:2px solid var(--win-white);
+  border-right:2px solid var(--win-dark); border-bottom:2px solid var(--win-dark);
 }
