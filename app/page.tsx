@@ -6,7 +6,7 @@ import { useTraitFarmer } from "./hooks/useTraitFarmer";
 interface WinState {
   id: string;
   title: string;
-  icon: string;
+  icon: React.ReactNode;  
   content: React.ReactNode;
   x: number;
   y: number;
@@ -79,21 +79,472 @@ const Sunken = ({
   </div>
 );
 
-function formatCountdown(seconds: number): string {
-  const h = Math.floor(seconds / 3600);
-  const m = Math.floor((seconds % 3600) / 60);
-  const s = seconds % 60;
-  return `${h}h ${m.toString().padStart(2, "0")}m ${s
-    .toString()
-    .padStart(2, "0")}s`;
+// ── GOOGLE FORM URL — replace with your actual form link ──────────────────
+// The form should accept a "X Post Link" field.
+// To pre-fill the URL into the form, map your field entry ID below.
+// e.g. https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?usp=pp_url&entry.123456789=POSTURL
+const GOOGLE_FORM_BASE =
+  "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform?usp=pp_url&entry.YOUR_ENTRY_ID=";
+
+// ── Guardian Quest Window ─────────────────────────────────────────────────
+function QuestContent() {
+  const [step, setStep] = useState<1 | 2 | 3>(1);
+  const [postUrl, setPostUrl] = useState("");
+  const [localError, setLocalError] = useState("");
+
+  const handleSubmit = () => {
+    setLocalError("");
+    if (!postUrl.trim()) {
+      setLocalError("Paste your X post link first.");
+      return;
+    }
+    if (
+      !postUrl.startsWith("https://x.com/") &&
+      !postUrl.startsWith("https://twitter.com/")
+    ) {
+      setLocalError("Must be an x.com or twitter.com link.");
+      return;
+    }
+    // Redirect to Google Form with the URL pre-filled
+    const target = GOOGLE_FORM_BASE + encodeURIComponent(postUrl.trim());
+    window.open(target, "_blank");
+    setStep(3);
+  };
+
+  return (
+    <div
+      style={{
+        fontFamily: "'Tahoma', Arial, sans-serif",
+        fontSize: 12,
+        minWidth: 340,
+        maxWidth: 420,
+      }}
+    >
+      {/* Header */}
+      <div
+        style={{
+          background: "linear-gradient(90deg, #000080, #1084d0)",
+          color: "white",
+          padding: "8px 12px",
+          marginBottom: 12,
+          display: "flex",
+          alignItems: "center",
+          gap: 8,
+        }}
+      >
+        <span style={{ fontSize: 22 }}>🛡️</span>
+        <div>
+          <div
+            style={{
+              fontFamily: "'VT323', monospace",
+              fontSize: 18,
+              letterSpacing: 2,
+            }}
+          >
+            STUGGIES GUARDIAN QUEST
+          </div>
+          <div style={{ fontSize: 10, opacity: 0.85 }}>
+            choose your favorite Stuggy
+          </div>
+        </div>
+      </div>
+
+      {/* Step indicators */}
+      <div
+        style={{
+          display: "flex",
+          gap: 4,
+          marginBottom: 14,
+          alignItems: "center",
+        }}
+      >
+        {[1, 2, 3].map((n) => (
+          <div
+            key={n}
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: 4,
+            }}
+          >
+            <div
+              style={{
+                width: 22,
+                height: 22,
+                borderRadius: "50%",
+                background: step >= n ? "#000080" : "#c0c0c0",
+                color: step >= n ? "white" : "#555",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                fontWeight: "bold",
+                fontSize: 11,
+                border: step >= n ? "2px solid #000080" : "2px solid #808080",
+              }}
+            >
+              {step > n ? "✓" : n}
+            </div>
+            {n < 3 && (
+              <div
+                style={{
+                  width: 30,
+                  height: 2,
+                  background: step > n ? "#000080" : "#c0c0c0",
+                }}
+              />
+            )}
+          </div>
+        ))}
+        <span style={{ fontSize: 10, color: "#555", marginLeft: 6 }}>
+          {step === 1
+            ? "Screenshot"
+            : step === 2
+            ? "Post on X"
+            : "Submitted!"}
+        </span>
+      </div>
+
+      {/* Step 1 */}
+      <div
+        style={{
+          marginBottom: 12,
+          padding: "8px 10px",
+          background: step === 1 ? "#e8f0ff" : "#f0f0f0",
+          borderTop: "2px solid #808080",
+          borderLeft: "2px solid #808080",
+          borderRight: "2px solid #fff",
+          borderBottom: "2px solid #fff",
+        }}
+      >
+        <div style={{ fontWeight: "bold", marginBottom: 4 }}>
+          📸 Step 1 — Screenshot your favorite Stuggy
+        </div>
+        <p style={{ color: "#444", lineHeight: 1.6, margin: "0 0 8px" }}>
+          Open the <strong>Collection</strong> gallery, find the Stuggy you love
+          most, and take a screenshot. Make it your own — crop it, frame it,
+          show your style.
+        </p>
+        <W98Btn onClick={() => setStep(2)}>Got my screenshot →</W98Btn>
+      </div>
+
+      {/* Step 2 */}
+      <div
+        style={{
+          marginBottom: 12,
+          padding: "8px 10px",
+          background: step === 2 ? "#e8f0ff" : step > 2 ? "#f0f0f0" : "#f8f8f8",
+          borderTop: "2px solid #808080",
+          borderLeft: "2px solid #808080",
+          borderRight: "2px solid #fff",
+          borderBottom: "2px solid #fff",
+          opacity: step < 2 ? 0.5 : 1,
+        }}
+      >
+        <div style={{ fontWeight: "bold", marginBottom: 4 }}>
+          𝕏 Step 2 — Post it on X &amp; submit the link
+        </div>
+        <p style={{ color: "#444", lineHeight: 1.6, margin: "0 0 8px" }}>
+          Post your screenshot on X (Twitter) — tag{" "}
+          <a
+            href="https://x.com/TheStuggies"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: "#000080" }}
+          >
+            @TheStuggies
+          </a>{" "}
+          and use <strong>#StuggiesGuardian</strong>. Then paste your post link
+          below:
+        </p>
+        <input
+          type="text"
+          value={postUrl}
+          onChange={(e) => {
+            setPostUrl(e.target.value);
+            setLocalError("");
+          }}
+          placeholder="https://x.com/yourhandle/status/..."
+          disabled={step < 2 || step > 2}
+          style={{
+            width: "100%",
+            padding: "3px 6px",
+            fontSize: 11,
+            fontFamily: "'Tahoma', Arial, sans-serif",
+            borderTop: "2px solid #808080",
+            borderLeft: "2px solid #808080",
+            borderRight: "2px solid #fff",
+            borderBottom: "2px solid #fff",
+            background: step === 2 ? "white" : "#e8e8e8",
+            marginBottom: 6,
+            boxSizing: "border-box" as const,
+          }}
+        />
+        {localError && (
+          <div style={{ color: "red", fontSize: 10, marginBottom: 6 }}>
+            ⚠ {localError}
+          </div>
+        )}
+        <W98Btn onClick={step === 2 ? handleSubmit : undefined} disabled={step !== 2}>
+          Submit to Guardian Registry →
+        </W98Btn>
+      </div>
+
+      {/* Step 3 — Success */}
+      {step === 3 && (
+        <div
+          style={{
+            padding: "10px 12px",
+            background: "#e8ffe8",
+            borderTop: "2px solid #808080",
+            borderLeft: "2px solid #808080",
+            borderRight: "2px solid #fff",
+            borderBottom: "2px solid #fff",
+            textAlign: "center",
+          }}
+        >
+          <div style={{ fontSize: 28, marginBottom: 4 }}>🏆</div>
+          <div
+            style={{
+              fontFamily: "'VT323', monospace",
+              fontSize: 16,
+              color: "#006600",
+              letterSpacing: 1,
+              marginBottom: 4,
+            }}
+          >
+            GUARDIAN QUEST SUBMITTED!
+          </div>
+          <p style={{ color: "#444", fontSize: 11, lineHeight: 1.5, margin: 0 }}>
+            Your entry has been logged. The Stuggies team will review and verify
+            your Guardian status. Follow{" "}
+            <a
+              href="https://x.com/TheStuggies"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#000080" }}
+            >
+              @TheStuggies
+            </a>{" "}
+            for updates.
+          </p>
+        </div>
+      )}
+
+      {/* Footer note */}
+      <div
+        style={{
+          marginTop: 10,
+          fontSize: 10,
+          color: "#777",
+          borderTop: "1px solid #ccc",
+          paddingTop: 6,
+        }}
+      >
+        🛡️ Guardians get priority consideration for mint whitelist. One
+        submission per wallet address.
+      </div>
+    </div>
+  );
 }
 
-function shortenAddr(addr: string) {
-  return `${addr.slice(0, 6)}...${addr.slice(-4)}`;
-}
+// ── NFT Gallery (Collection) ───────────────────────────────────────────────
+// Replace the placeholder URLs below with real Stuggies NFT image URLs.
+const NFT_GALLERY = [
+  {
+    id: 1,
+    name: "Stuggy #001",
+    rarity: "Legendary",
+    img: "https://placehold.co/120x120/1a1a2e/ffffff?text=Stuggy+%231",
+  },
+  {
+    id: 2,
+    name: "Stuggy #042",
+    rarity: "Rare",
+    img: "https://placehold.co/120x120/16213e/00ff88?text=Stuggy+%2342",
+  },
+  {
+    id: 3,
+    name: "Stuggy #077",
+    rarity: "Epic",
+    img: "https://placehold.co/120x120/0f3460/ffcc00?text=Stuggy+%2377",
+  },
+  {
+    id: 4,
+    name: "Stuggy #128",
+    rarity: "Common",
+    img: "https://placehold.co/120x120/533483/ffffff?text=Stuggy+%23128",
+  },
+  {
+    id: 5,
+    name: "Stuggy #256",
+    rarity: "Rare",
+    img: "https://placehold.co/120x120/2b2d42/ef233c?text=Stuggy+%23256",
+  },
+  {
+    id: 6,
+    name: "Stuggy #333",
+    rarity: "Legendary",
+    img: "https://placehold.co/120x120/000080/00ffff?text=Stuggy+%23333",
+  },
+  {
+    id: 7,
+    name: "Stuggy #512",
+    rarity: "Epic",
+    img: "https://placehold.co/120x120/4a0e8f/ffffff?text=Stuggy+%23512",
+  },
+  {
+    id: 8,
+    name: "Stuggy #777",
+    rarity: "Legendary",
+    img: "https://placehold.co/120x120/003366/ffd700?text=Stuggy+%23777",
+  },
+  {
+    id: 9,
+    name: "Stuggy #999",
+    rarity: "Common",
+    img: "https://placehold.co/120x120/2d6a4f/ffffff?text=Stuggy+%23999",
+  },
+];
 
-// ── Static Window Contents ─────────────────────────────────────────────────
+const RARITY_COLOR: Record<string, string> = {
+  Legendary: "#ffd700",
+  Epic: "#9b59b6",
+  Rare: "#000080",
+  Common: "#555",
+};
 
+const CollectionContent = () => {
+  const [hovered, setHovered] = useState<number | null>(null);
+
+  return (
+    <div
+      style={{
+        fontFamily: "'Tahoma', Arial, sans-serif",
+        fontSize: 12,
+        minWidth: 380,
+        maxWidth: 460,
+      }}
+    >
+      {/* Header */}
+      <div
+        style={{
+          background: "linear-gradient(90deg, #000080, #1084d0)",
+          color: "white",
+          padding: "6px 10px",
+          marginBottom: 10,
+          display: "flex",
+          alignItems: "center",
+          gap: 8,
+        }}
+      >
+        <span style={{ fontSize: 18 }}>🖼️</span>
+        <div>
+          <div
+            style={{
+              fontFamily: "'VT323', monospace",
+              fontSize: 16,
+              letterSpacing: 2,
+            }}
+          >
+            STUGGIES NFT GALLERY
+          </div>
+          <div style={{ fontSize: 10, opacity: 0.85 }}>
+            Screenshot your favorite — use it in the Guardian Quest!
+          </div>
+        </div>
+      </div>
+
+      {/* Gallery grid */}
+      <div
+        style={{
+          display: "grid",
+          gridTemplateColumns: "repeat(3, 1fr)",
+          gap: 8,
+          marginBottom: 10,
+        }}
+      >
+        {NFT_GALLERY.map((nft) => (
+          <div
+            key={nft.id}
+            onMouseEnter={() => setHovered(nft.id)}
+            onMouseLeave={() => setHovered(null)}
+            style={{
+              background: hovered === nft.id ? "#e8f0ff" : "#f0f0f0",
+              borderTop: "2px solid #fff",
+              borderLeft: "2px solid #fff",
+              borderRight: "2px solid #808080",
+              borderBottom: "2px solid #808080",
+              padding: 6,
+              textAlign: "center",
+              cursor: "default",
+              transition: "background 0.1s",
+            }}
+          >
+            <img
+              src={nft.img}
+              alt={nft.name}
+              style={{
+                width: "100%",
+                aspectRatio: "1/1",
+                objectFit: "cover",
+                display: "block",
+                marginBottom: 4,
+                imageRendering: "pixelated",
+              }}
+            />
+            <div
+              style={{
+                fontWeight: "bold",
+                fontSize: 10,
+                color: "#000",
+                marginBottom: 2,
+              }}
+            >
+              {nft.name}
+            </div>
+            <div
+              style={{
+                fontSize: 9,
+                fontWeight: "bold",
+                color: RARITY_COLOR[nft.rarity] || "#555",
+              }}
+            >
+              ★ {nft.rarity}
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* Instructions */}
+      <Sunken
+        style={{
+          fontSize: 11,
+          lineHeight: 1.6,
+          color: "#333",
+          padding: "6px 10px",
+        }}
+      >
+        📸 <strong>How to screenshot:</strong> Right-click any Stuggy →
+        &quot;Save image&quot;, or use your OS screenshot tool. Then head to the{" "}
+        <strong>Guardian Quest</strong> window and post it on X!
+      </Sunken>
+
+      <div
+        style={{
+          marginTop: 8,
+          fontSize: 10,
+          color: "#777",
+          borderTop: "1px solid #ccc",
+          paddingTop: 5,
+        }}
+      >
+        3,333 unique Stuggies · MegaETH · More NFTs revealed soon
+      </div>
+    </div>
+  );
+};
+
+// ── About ─────────────────────────────────────────────────────────────────
 const AboutContent = () => (
   <div style={{ fontFamily: "'Tahoma', Arial, sans-serif", fontSize: 12 }}>
     <div
@@ -134,90 +585,13 @@ const AboutContent = () => (
     >
       <W98Btn href="https://x.com/TheStuggies">𝕏 Twitter</W98Btn>
       <W98Btn href="https://discord.gg/UuRb2cJ3Zn">Discord</W98Btn>
-      <W98Btn href="https://megaeth.com">MegaETH</W98Btn>
     </div>
   </div>
 );
 
-const RoadmapContent = () => {
-  const items = [
-    {
-      icon: "✅",
-      phase: "Phase 1",
-      desc: "Project announcement & Twitter launch",
-      done: true,
-    },
-    {
-      icon: "✅",
-      phase: "Phase 2",
-      desc: "Discord community opens",
-      done: true,
-    },
-    {
-      icon: "🔄",
-      phase: "Phase 3",
-      desc: "3D character reveals & trait previews",
-      done: false,
-    },
-    {
-      icon: "⬜",
-      phase: "Phase 4",
-      desc: "Trait farming — claim every 5 hours",
-      done: false,
-    },
-    {
-      icon: "⬜",
-      phase: "Phase 5",
-      desc: "Whitelist reservation & mint on MegaETH",
-      done: false,
-    },
-    {
-      icon: "⬜",
-      phase: "Phase 6",
-      desc: "Full 3,333 collection launch",
-      done: false,
-    },
-  ];
-  return (
-    <div
-      style={{
-        fontFamily: "'Tahoma', Arial, sans-serif",
-        fontSize: 12,
-        minWidth: 300,
-      }}
-    >
-      <div style={{ fontWeight: "bold", marginBottom: 8, fontSize: 13 }}>
-        📍 Stuggies Roadmap
-      </div>
-      {items.map(({ icon, phase, desc, done }) => (
-        <div
-          key={phase}
-          style={{
-            display: "flex",
-            gap: 8,
-            marginBottom: 6,
-            alignItems: "flex-start",
-          }}
-        >
-          <span style={{ flexShrink: 0 }}>{icon}</span>
-          <span
-            style={{
-              color: done ? "#000080" : "#666",
-              minWidth: 64,
-              fontWeight: done ? "bold" : "normal",
-            }}
-          >
-            {phase}
-          </span>
-          <span style={{ color: done ? "#000" : "#444" }}>{desc}</span>
-        </div>
-      ))}
-    </div>
-  );
-};
-
+// ── FAQ ───────────────────────────────────────────────────────────────────
 const FAQContent = () => {
-  const qs = [
+  const qs: [string, string][] = [
     [
       "What are Stuggies?",
       "3,333 fully rigged 3D NFT characters launching on MegaETH.",
@@ -227,21 +601,25 @@ const FAQContent = () => {
       "A real-time EVM chain with sub-millisecond latency and 100k+ TPS.",
     ],
     [
-      "How do I farm traits?",
-      "Connect wallet, post about Stuggies on X, submit your post link. Claim once every 5 hours. Get 9 verified traits to reserve your NFT.",
+      "What is the Guardian Quest?",
+      "Screenshot your favorite Stuggy from the gallery, post it on X tagging @TheStuggies with #StuggiesGuardian, then submit your post link. Guardians get priority consideration for the mint whitelist.",
     ],
     [
-      "What is trait farming?",
-      "You claim a trait every 5 hours by posting on X. Once verified by the team, it counts toward your reservation.",
+      "How do I participate?",
+      "Open the Guardian Quest window, take a screenshot from the Collection gallery, post on X, paste your link, and submit. That's it!",
     ],
     ["What is the supply?", "Exactly 3,333 unique Stuggies will ever exist."],
+    [
+      "Where do I follow updates?",
+      "Follow @TheStuggies on X and join the Discord community.",
+    ],
   ];
   return (
     <div
       style={{
         fontFamily: "'Tahoma', Arial, sans-serif",
         fontSize: 12,
-        maxWidth: 340,
+        maxWidth: 360,
       }}
     >
       {qs.map(([q, a]) => (
@@ -254,456 +632,16 @@ const FAQContent = () => {
   );
 };
 
-const CollectionContent = () => {
-  const traits = [
-    { name: "Backgrounds", count: "24 types" },
-    { name: "Body Types", count: "Fully rigged 3D" },
-    { name: "Outfits", count: "100+" },
-    { name: "Accessories", count: "200+" },
-    { name: "Expressions", count: "Shape keys" },
-    { name: "Total Supply", count: "3,333" },
-  ];
-  return (
-    <div style={{ fontFamily: "'Tahoma', Arial, sans-serif", fontSize: 12 }}>
-      <div style={{ fontWeight: "bold", marginBottom: 8, fontSize: 13 }}>
-        🎨 Collection Details
-      </div>
-      <table
-        style={{
-          width: "100%",
-          borderCollapse: "collapse" as const,
-          marginBottom: 10,
-        }}
-      >
-        <thead>
-          <tr style={{ background: "#000080", color: "white" }}>
-            <th style={{ padding: "3px 8px", textAlign: "left" as const }}>
-              Trait
-            </th>
-            <th style={{ padding: "3px 8px", textAlign: "left" as const }}>
-              Details
-            </th>
-          </tr>
-        </thead>
-        <tbody>
-          {traits.map(({ name, count }, i) => (
-            <tr
-              key={name}
-              style={{ background: i % 2 === 0 ? "#e8e8e8" : "white" }}
-            >
-              <td style={{ padding: "3px 8px" }}>{name}</td>
-              <td
-                style={{
-                  padding: "3px 8px",
-                  color: "#000080",
-                  fontWeight: "bold",
-                }}
-              >
-                {count}
-              </td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </div>
-  );
-};
-
-const TeamContent = () => (
-  <div style={{ fontFamily: "'Tahoma', Arial, sans-serif", fontSize: 12 }}>
-    <div style={{ fontWeight: "bold", marginBottom: 8, fontSize: 13 }}>
-      👥 The Team
-    </div>
-    {[
-      { role: "Founder", handle: "@TheStuggies", emoji: "🐾" },
-      { role: "3D Artists", handle: "Anonymous crew", emoji: "🎨" },
-      { role: "Devs", handle: "MegaETH builders", emoji: "⚡" },
-      { role: "Community", handle: "Discord fam", emoji: "🏘️" },
-    ].map(({ role, handle, emoji }) => (
-      <div
-        key={role}
-        style={{
-          display: "flex",
-          gap: 10,
-          marginBottom: 8,
-          alignItems: "center",
-        }}
-      >
-        <span style={{ fontSize: 22 }}>{emoji}</span>
-        <div>
-          <div style={{ fontWeight: "bold" }}>{role}</div>
-          <div style={{ color: "#555" }}>{handle}</div>
-        </div>
-      </div>
-    ))}
-    <div style={{ borderTop: "1px solid #aaa", paddingTop: 8, marginTop: 4 }}>
-      <W98Btn href="https://x.com/TheStuggies">See updates on 𝕏</W98Btn>
-    </div>
-  </div>
-);
-
-const LinksContent = () => (
-  <div style={{ fontFamily: "'Tahoma', Arial, sans-serif", fontSize: 12 }}>
-    <div style={{ fontWeight: "bold", marginBottom: 10, fontSize: 13 }}>
-      🔗 Official Links
-    </div>
-    {[
-      {
-        label: "𝕏  Twitter / X",
-        url: "https://x.com/TheStuggies",
-        desc: "Latest news & announcements",
-      },
-      {
-        label: "💬 Discord",
-        url: "https://discord.gg/UuRb2cJ3Zn",
-        desc: "Join the community",
-      },
-      {
-        label: "⚡ MegaETH",
-        url: "https://megaeth.com",
-        desc: "The chain we're building on",
-      },
-      {
-        label: "📄 Medium Blog",
-        url: "https://medium.com/@thestuggies1",
-        desc: "Long-form project updates",
-      },
-    ].map(({ label, url, desc }) => (
-      <div key={url} style={{ marginBottom: 10 }}>
-        <a
-          href={url}
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            fontWeight: "bold",
-            color: "#000080",
-            textDecoration: "underline",
-            cursor: "pointer",
-          }}
-        >
-          {label}
-        </a>
-        <div style={{ color: "#555", fontSize: 11 }}>{desc}</div>
-      </div>
-    ))}
-  </div>
-);
-
-// ── Farm Window (live contract interaction) ────────────────────────────────
-
-function FarmContent() {
-  const {
-    isConnected,
-    address,
-    connect,
-    cooldownRemaining,
-    totalClaimCount,
-    verifiedClaims,
-    reservedTokenId,
-    reservationsOpen,
-    requiredCount,
-    totalReserved,
-    claimTrait,
-    isClaimPending,
-    isClaimSuccess,
-    claimError,
-    resetClaim,
-    refetchStatus,
-  } = useTraitFarmer();
-
-  const [postUrl, setPostUrl] = useState("");
-  const [countdown, setCountdown] = useState(cooldownRemaining);
-  const [localError, setLocalError] = useState("");
-
-  // Live countdown ticker
-  useEffect(() => {
-    setCountdown(cooldownRemaining);
-  }, [cooldownRemaining]);
-
-  useEffect(() => {
-    if (countdown <= 0) return;
-    const id = setInterval(() => setCountdown((c) => Math.max(0, c - 1)), 1000);
-    return () => clearInterval(id);
-  }, [countdown]);
-
-  // Refresh status after successful claim
-  useEffect(() => {
-    if (isClaimSuccess) {
-      setPostUrl("");
-      resetClaim();
-      refetchStatus();
-    }
-  }, [isClaimSuccess, resetClaim, refetchStatus]);
-
-  const handleClaim = () => {
-    setLocalError("");
-    if (!postUrl.trim()) {
-      setLocalError("Paste your X post URL first.");
-      return;
-    }
-    if (
-      !postUrl.startsWith("https://x.com/") &&
-      !postUrl.startsWith("https://twitter.com/")
-    ) {
-      setLocalError("Must be an x.com or twitter.com link.");
-      return;
-    }
-    claimTrait(postUrl.trim());
-  };
-
-  const canClaim = countdown === 0 && isConnected;
-  const progressPct = Math.min(
-    100,
-    Math.round((verifiedClaims / requiredCount) * 100)
-  );
-
-  // ── Not connected ──────────────────────────────────────────────────────────
-  if (!isConnected) {
-    return (
-      <div
-        style={{
-          fontFamily: "'Tahoma', Arial, sans-serif",
-          fontSize: 12,
-          textAlign: "center",
-          minWidth: 280,
-        }}
-      >
-        <div style={{ fontSize: 36, marginBottom: 8 }}>🌾</div>
-        <div
-          style={{
-            fontWeight: "bold",
-            fontSize: 14,
-            marginBottom: 6,
-            fontFamily: "'VT323', monospace",
-            letterSpacing: 1,
-          }}
-        >
-          CLAIM TRAITS
-        </div>
-        <p style={{ color: "#555", marginBottom: 14, lineHeight: 1.5 }}>
-          Connect your wallet to claim your stuggies traits. Post on X every 5
-          hours, get verified, reserve your Stuggy.
-        </p>
-        <W98Btn onClick={connect}>Connect Wallet</W98Btn>
-      </div>
-    );
-  }
-
-  // ── Reserved ───────────────────────────────────────────────────────────────
-  if (reservedTokenId > 0) {
-    return (
-      <div
-        style={{
-          fontFamily: "'Tahoma', Arial, sans-serif",
-          fontSize: 12,
-          minWidth: 300,
-        }}
-      >
-        <div style={{ textAlign: "center", marginBottom: 12 }}>
-          <div style={{ fontSize: 36 }}>🎟️</div>
-          <div
-            style={{
-              fontWeight: "bold",
-              fontSize: 14,
-              fontFamily: "'VT323', monospace",
-              letterSpacing: 1,
-            }}
-          >
-            NFT RESERVED
-          </div>
-        </div>
-        <Sunken style={{ marginBottom: 8, textAlign: "center" }}>
-          Token #{reservedTokenId} is reserved for your wallet
-        </Sunken>
-        <div style={{ color: "#555", lineHeight: 1.5 }}>
-          Your reservation is locked on-chain. When mint opens you will be able
-          to mint token #{reservedTokenId}. Follow{" "}
-          <a
-            href="https://x.com/TheStuggies"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ color: "#000080" }}
-          >
-            @TheStuggies
-          </a>{" "}
-          for the mint date.
-        </div>
-      </div>
-    );
-  }
-
-  // ── Active farming ─────────────────────────────────────────────────────────
-  return (
-    <div
-      style={{
-        fontFamily: "'Tahoma', Arial, sans-serif",
-        fontSize: 12,
-        minWidth: 320,
-      }}
-    >
-      {/* Stats row */}
-      <div style={{ display: "flex", gap: 6, marginBottom: 10 }}>
-        <Sunken style={{ flex: 1, textAlign: "center" }}>
-          <div style={{ color: "#555", fontSize: 10 }}>TOTAL CLAIMS</div>
-          <div style={{ fontWeight: "bold", fontSize: 14 }}>
-            {totalClaimCount}
-          </div>
-        </Sunken>
-        <Sunken style={{ flex: 1, textAlign: "center" }}>
-          <div style={{ color: "#555", fontSize: 10 }}>VERIFIED</div>
-          <div style={{ fontWeight: "bold", fontSize: 14, color: "#000080" }}>
-            {verifiedClaims}
-          </div>
-        </Sunken>
-        <Sunken style={{ flex: 1, textAlign: "center" }}>
-          <div style={{ color: "#555", fontSize: 10 }}>NEEDED</div>
-          <div style={{ fontWeight: "bold", fontSize: 14 }}>
-            {requiredCount}
-          </div>
-        </Sunken>
-      </div>
-
-      {/* Progress bar */}
-      <div style={{ marginBottom: 10 }}>
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-            marginBottom: 3,
-            fontSize: 10,
-            color: "#555",
-          }}
-        >
-          <span>Verification progress</span>
-          <span>
-            {verifiedClaims}/{requiredCount}
-          </span>
-        </div>
-        <div
-          style={{
-            height: 12,
-            background: "white",
-            borderTop: "2px solid #808080",
-            borderLeft: "2px solid #808080",
-            borderRight: "2px solid #fff",
-            borderBottom: "2px solid #fff",
-          }}
-        >
-          <div
-            style={{
-              height: "100%",
-              width: `${progressPct}%`,
-              background: progressPct >= 100 ? "#008000" : "#000080",
-              transition: "width 0.3s",
-            }}
-          />
-        </div>
-      </div>
-
-      {/* Cooldown */}
-      {countdown > 0 && (
-        <div
-          style={{
-            background: "#000080",
-            color: "#00ff88",
-            padding: "4px 10px",
-            fontFamily: "'VT323', monospace",
-            fontSize: 16,
-            letterSpacing: 2,
-            marginBottom: 10,
-            textAlign: "center",
-            border: "2px solid #808080",
-          }}
-        >
-          NEXT CLAIM: {formatCountdown(countdown)}
-        </div>
-      )}
-
-      {/* Claim form */}
-      <div style={{ marginBottom: 8 }}>
-        <div style={{ marginBottom: 4, fontSize: 11 }}>
-          1. Post about Stuggies on{" "}
-          <a
-            href="https://x.com/TheStuggies"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ color: "#000080" }}
-          >
-            𝕏 Twitter
-          </a>{" "}
-          and paste the link:
-        </div>
-        <input
-          type="text"
-          value={postUrl}
-          onChange={(e) => {
-            setPostUrl(e.target.value);
-            setLocalError("");
-          }}
-          placeholder="https://x.com/yourhandle/status/..."
-          style={{
-            width: "100%",
-            padding: "3px 6px",
-            fontSize: 11,
-            fontFamily: "'Tahoma', Arial, sans-serif",
-            borderTop: "2px solid #808080",
-            borderLeft: "2px solid #808080",
-            borderRight: "2px solid #fff",
-            borderBottom: "2px solid #fff",
-            background: canClaim ? "white" : "#e8e8e8",
-            marginBottom: 6,
-          }}
-          disabled={!canClaim || isClaimPending}
-        />
-        {localError && (
-          <div style={{ color: "red", fontSize: 10, marginBottom: 6 }}>
-            {localError}
-          </div>
-        )}
-        {claimError && (
-          <div style={{ color: "red", fontSize: 10, marginBottom: 6 }}>
-            {(claimError as Error).message?.includes("CooldownActive")
-              ? "Cooldown still active — wait for the timer."
-              : "Transaction failed. Check console."}
-          </div>
-        )}
-        <W98Btn onClick={handleClaim} disabled={!canClaim || isClaimPending}>
-          {isClaimPending
-            ? "Submitting..."
-            : countdown > 0
-            ? "Cooldown active"
-            : "2. Submit Claim"}
-        </W98Btn>
-      </div>
-
-      {/* Supply ticker */}
-      <div
-        style={{
-          borderTop: "1px solid #808080",
-          paddingTop: 6,
-          fontSize: 10,
-          color: "#555",
-        }}
-      >
-        {totalReserved}/3333 spots reserved
-        {reservationsOpen
-          ? " · Reservations OPEN"
-          : " · Reservations not yet open"}
-      </div>
-    </div>
-  );
-}
-
 // ── Icon config ────────────────────────────────────────────────────────────
 type IconDef = {
   id: string;
   label: string;
-  emoji: string;
+  emoji: any;
   href?: string;
-  winConfig?: Omit<WinState, "x" | "y">;
+  winConfig?: any;
 };
 
-// ── Wallet Button (taskbar) ────────────────────────────────────────────────
+
 function WalletButton() {
   const {
     isConnected,
@@ -861,7 +799,7 @@ function WalletButton() {
               {isWrongNetwork ? (
                 <span style={{ color: "#cc0000" }}>Wrong Network ⚠</span>
               ) : (
-                <span style={{ color: "#008000" }}>MegaETH ✓</span>
+                <span style={{ color: "#008000" }}>MegaETH</span>
               )}
             </div>
             <div
@@ -979,6 +917,15 @@ function WalletButton() {
     </div>
   );
 }
+
+const Icon = ({ src, size = 32 }: { src: string; size?: number }) => (
+  <img
+    src={src}
+    style={{ width: size, height: size, objectFit: "contain" }}
+    alt=""
+  />
+);
+
 // ── Main Page ──────────────────────────────────────────────────────────────
 export default function Home() {
   const [clock, setClock] = useState("");
@@ -1011,82 +958,40 @@ export default function Home() {
   const closeWin = (id: string) =>
     setWins((prev) => prev.filter((w) => w.id !== id));
 
+
+  
   const icons: IconDef[] = [
     {
-      id: "farm",
-      label: "Claim Traits",
-      emoji: "🌾",
+      id: "quest",
+      label: "Guardian Quest",
+      emoji: <Icon src="/fwindoes_folder.png" size={68} />,
       winConfig: {
-        id: "farm",
-        title: "Claim Your Stuggies",
-        icon: "🌾",
-        content: <FarmContent />,
+        id: "quest",
+        title: "Stuggies Guardian Quest",
+        icon: <Icon src="/fwindoes_folder.png" size={40} />,
+        content: <QuestContent />,
+      },
+    },
+    {
+      id: "collection",
+      label: "NFT Gallery",
+      emoji: <Icon src="/b_windows_images.png" size={68} />,
+      winConfig: {
+        id: "collection",
+        title: "Stuggies NFT Gallery",
+        icon: <Icon src="/b_windows_images.png" size={60} />,
+        content: <CollectionContent />,
       },
     },
     {
       id: "about",
       label: "About",
-      emoji: "🐾",
+      emoji: <Icon src="/profile.png" size={68} />,
       winConfig: {
         id: "about",
         title: "About Stuggies",
-        icon: "🐾",
+        icon: <Icon src="/profile.png" size={60} />,
         content: <AboutContent />,
-      },
-    },
-    {
-      id: "collection",
-      label: "Collection",
-      emoji: "🎨",
-      winConfig: {
-        id: "collection",
-        title: "Collection Details",
-        icon: "🎨",
-        content: <CollectionContent />,
-      },
-    },
-    {
-      id: "roadmap",
-      label: "Roadmap",
-      emoji: "🗺️",
-      winConfig: {
-        id: "roadmap",
-        title: "Roadmap",
-        icon: "🗺️",
-        content: <RoadmapContent />,
-      },
-    },
-    {
-      id: "faq",
-      label: "FAQ",
-      emoji: "❓",
-      winConfig: {
-        id: "faq",
-        title: "FAQ",
-        icon: "❓",
-        content: <FAQContent />,
-      },
-    },
-    {
-      id: "team",
-      label: "Team",
-      emoji: "👥",
-      winConfig: {
-        id: "team",
-        title: "The Team",
-        icon: "👥",
-        content: <TeamContent />,
-      },
-    },
-    {
-      id: "links",
-      label: "Links",
-      emoji: "🔗",
-      winConfig: {
-        id: "links",
-        title: "Official Links",
-        icon: "🔗",
-        content: <LinksContent />,
       },
     },
     {
@@ -1098,26 +1003,18 @@ export default function Home() {
     {
       id: "discord",
       label: "Discord",
-      emoji: "💬",
+      emoji: <Icon src="/discord-removebg-preview.png" size={58} />,
       href: "https://discord.gg/UuRb2cJ3Zn",
-    },
-    {
-      id: "megaeth",
-      label: "MegaETH",
-      emoji: "⚡",
-      href: "https://megaeth.com",
     },
   ];
 
   const offsets: [number, number][] = [
-    [130, 60],
+    [100, 50],
     [160, 80],
-    [190, 100],
-    [220, 120],
-    [150, 90],
-    [140, 70],
-    [170, 85],
-    [200, 110],
+    [130, 110],
+    [180, 60],
+    [110, 90],
+    [150, 120],
   ];
 
   return (
