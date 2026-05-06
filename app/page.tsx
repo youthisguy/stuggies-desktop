@@ -964,33 +964,33 @@ export default function Home() {
     {
       id: "quest",
       label: "Guardian Quest",
-      emoji: <Icon src="/fwindoes_folder.png" size={68} />,
+      emoji: <Icon src="/put_file-removebg-preview.png" size={68} />,
       winConfig: {
         id: "quest",
         title: "Stuggies Guardian Quest",
-        icon: <Icon src="/fwindoes_folder.png" size={40} />,
+        icon: <Icon src="/put_file-removebg-preview.png" size={40} />,
         content: <QuestContent />,
       },
     },
     {
       id: "collection",
       label: "NFT Gallery",
-      emoji: <Icon src="/b_windows_images.png" size={68} />,
+      emoji: <Icon src="/camera.webp" size={68} />,
       winConfig: {
         id: "collection",
         title: "Stuggies NFT Gallery",
-        icon: <Icon src="/b_windows_images.png" size={60} />,
+        icon: <Icon src="/camera.webp" size={60} />,
         content: <CollectionContent />,
       },
     },
     {
       id: "about",
       label: "About",
-      emoji: <Icon src="/profile.png" size={68} />,
+      emoji: <Icon src="/search-removebg-preview.png" size={68} />,
       winConfig: {
         id: "about",
         title: "About Stuggies",
-        icon: <Icon src="/profile.png" size={60} />,
+        icon: <Icon src="/search-removebg-preview.png" size={60} />,
         content: <AboutContent />,
       },
     },
@@ -1003,7 +1003,7 @@ export default function Home() {
     {
       id: "discord",
       label: "Discord",
-      emoji: <Icon src="/discord-removebg-preview.png" size={58} />,
+      emoji: <Icon src="/discord-removebg-preview.png" size={38} />,
       href: "https://discord.gg/UuRb2cJ3Zn",
     },
   ];
