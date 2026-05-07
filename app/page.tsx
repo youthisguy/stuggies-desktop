@@ -137,9 +137,15 @@ const RARITY_COLOR: Record<string, string> = {
 
 // ── Guardian Quest ────────────────────────────────────────────────────────
 function QuestContent() {
-  const [step, setStep] = useState<1 | 2 | 3>(1);
+  const { isConnected, address, connect } = useTraitFarmer();
+  const [step, setStep] = useState<1 | 2 | 3 | 4>(1);
   const [postUrl, setPostUrl] = useState("");
   const [localError, setLocalError] = useState("");
+
+  // Auto-advance to step 2 when wallet connects
+  useEffect(() => {
+    if (isConnected && step === 1) setStep(2);
+  }, [isConnected]);
 
   const handleSubmit = () => {
     setLocalError("");
@@ -147,194 +153,106 @@ function QuestContent() {
     if (!postUrl.startsWith("https://x.com/") && !postUrl.startsWith("https://twitter.com/")) {
       setLocalError("Must be an x.com or twitter.com link."); return;
     }
-  
- 
     const params = new URLSearchParams({
       usp: "pp_url",
       "entry.1069278788": postUrl.trim(),
+      "entry.2103941724": address ?? "",  
     });
     window.open(
       `https://docs.google.com/forms/d/e/1FAIpQLScJvNjr470KGKxXGjLmcsJEHd6YAqBMvhhO8r6ly9Ag9L7aRA/viewform?${params.toString()}`,
       "_blank"
     );
- 
     setPostUrl("");
   };
 
   return (
-    <div
-      style={{
-        fontFamily: "'Share Tech Mono', monospace",
-        fontSize: 16,
-        minWidth: 340,
-        maxWidth: 420,
-      }}
-    >
-      <div
-        style={{
-          background: "linear-gradient(90deg, #000080, #1084d0)",
-          color: "white",
-          padding: "8px 12px",
-          marginBottom: 12,
-          display: "flex",
-          alignItems: "center",
-          gap: 8,
-        }}
-      >
+    <div style={{ fontFamily: "'Share Tech Mono', monospace", fontSize: 16, minWidth: 340, maxWidth: 420 }}>
+      {/* Header */}
+      <div style={{ background: "linear-gradient(90deg, #000080, #1084d0)", color: "white", padding: "8px 12px", marginBottom: 12, display: "flex", alignItems: "center", gap: 8 }}>
         <span style={{ fontSize: 22 }}>🛡️</span>
         <div>
-          <div
-            style={{
-              fontFamily: "'VT323', monospace",
-              fontSize: 18,
-              letterSpacing: 2,
-            }}
-          >
-            STUGGIES GUARDIAN QUEST
-          </div>
-          <div style={{ fontSize: 10, opacity: 0.85 }}></div>
+          <div style={{ fontFamily: "'VT323', monospace", fontSize: 18, letterSpacing: 2 }}>STUGGIES GUARDIAN QUEST</div>
         </div>
       </div>
 
-      <div
-        style={{
-          display: "flex",
-          gap: 4,
-          marginBottom: 14,
-          alignItems: "center",
-        }}
-      >
-        {[1, 2, 3].map((n) => (
-          <div
-            key={n}
-            style={{ display: "flex", alignItems: "center", gap: 4 }}
-          >
-            <div
-              style={{
-                width: 22,
-                height: 22,
-                borderRadius: "50%",
-                background: step >= n ? "#000080" : "#c0c0c0",
-                color: step >= n ? "white" : "#555",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                fontWeight: "bold",
-                fontSize: 11,
-                border: step >= n ? "2px solid #000080" : "2px solid #808080",
-              }}
-            >
+      {/* Step indicators — now 4 steps */}
+      <div style={{ display: "flex", gap: 4, marginBottom: 14, alignItems: "center" }}>
+        {[1, 2, 3, 4].map((n) => (
+          <div key={n} style={{ display: "flex", alignItems: "center", gap: 4 }}>
+            <div style={{ width: 22, height: 22, borderRadius: "50%", background: step >= n ? "#000080" : "#c0c0c0", color: step >= n ? "white" : "#555", display: "flex", alignItems: "center", justifyContent: "center", fontWeight: "bold", fontSize: 11, border: step >= n ? "2px solid #000080" : "2px solid #808080" }}>
               {step > n ? "✓" : n}
             </div>
-            {n < 3 && (
-              <div
-                style={{
-                  width: 30,
-                  height: 2,
-                  background: step > n ? "#000080" : "#c0c0c0",
-                }}
-              />
-            )}
+            {n < 4 && <div style={{ width: 20, height: 2, background: step > n ? "#000080" : "#c0c0c0" }} />}
           </div>
         ))}
         <span style={{ fontSize: 10, color: "#555", marginLeft: 6 }}>
-          {step === 1 ? "Screenshot" : step === 2 ? "Post on X" : "Submitted!"}
+          {step === 1 ? "Connect" : step === 2 ? "Screenshot" : step === 3 ? "Post on X" : "Submit"}
         </span>
       </div>
 
-      <div
-        style={{
-          marginBottom: 12,
-          padding: "8px 10px",
-          background: step === 1 ? "#e8f0ff" : "#f0f0f0",
-          borderTop: "2px solid #808080",
-          borderLeft: "2px solid #808080",
-          borderRight: "2px solid #fff",
-          borderBottom: "2px solid #fff",
-        }}
-      >
-        <div style={{ fontWeight: "bold", marginBottom: 4 }}>
-          📸 Step 1 — Take a screenshot of stuggies NFT gallery
-        </div>
-        <p style={{ color: "#444", lineHeight: 1.6, margin: "0 0 8px" }}>
-          Open the <strong>NFT Gallery</strong>, find the Stuggy you love most,
-          and take a screenshot.
-        </p>
-        <W98Btn onClick={() => setStep(2)}>Got my screenshot →</W98Btn>
+      {/* Step 1 — Connect Wallet */}
+      <div style={{ marginBottom: 12, padding: "8px 10px", background: step === 1 ? "#e8f0ff" : "#f0f0f0", borderTop: "2px solid #808080", borderLeft: "2px solid #808080", borderRight: "2px solid #fff", borderBottom: "2px solid #fff" }}>
+        <div style={{ fontWeight: "bold", marginBottom: 4 }}>🔗 Step 1 — Connect your wallet</div>
+        {isConnected ? (
+          <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
+            <span style={{ color: "#006600", fontSize: 12 }}>✓ Connected:</span>
+            <code style={{ fontSize: 11, background: "#e0e0e0", padding: "1px 5px" }}>
+              {address?.slice(0, 6)}...{address?.slice(-4)}
+            </code>
+          </div>
+        ) : (
+          <>
+            <p style={{ color: "#444", lineHeight: 1.6, margin: "0 0 8px", fontSize: 12 }}>
+              Connect your wallet so we can link your submission to your address.
+            </p>
+            <W98Btn onClick={connect}>Connect Wallet →</W98Btn>
+          </>
+        )}
       </div>
 
-      <div
-        style={{
-          marginBottom: 12,
-          padding: "8px 10px",
-          background: step === 2 ? "#e8f0ff" : step > 2 ? "#f0f0f0" : "#f8f8f8",
-          borderTop: "2px solid #808080",
-          borderLeft: "2px solid #808080",
-          borderRight: "2px solid #fff",
-          borderBottom: "2px solid #fff",
-          opacity: step < 2 ? 0.5 : 1,
-        }}
-      >
-        <div style={{ fontWeight: "bold", marginBottom: 4 }}>
-          𝕏 Step 2 — Post it on X &amp; submit the link
-        </div>
-        <p style={{ color: "#444", lineHeight: 1.6, margin: "0 0 8px" }}>
-          Tag{" "}
-          <a
-            href="https://x.com/TheStuggies"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ color: "#000080" }}
-          >
-            @TheStuggies
-          </a>{" "}
-          and use <strong>#StuggiesGuardian</strong>. Then paste your post link:
+      {/* Step 2 — Screenshot */}
+      <div style={{ marginBottom: 12, padding: "8px 10px", background: step === 2 ? "#e8f0ff" : "#f0f0f0", borderTop: "2px solid #808080", borderLeft: "2px solid #808080", borderRight: "2px solid #fff", borderBottom: "2px solid #fff", opacity: step < 2 ? 0.5 : 1 }}>
+        <div style={{ fontWeight: "bold", marginBottom: 4 }}>📸 Step 2 — Screenshot a Stuggy</div>
+        <p style={{ color: "#444", lineHeight: 1.6, margin: "0 0 8px", fontSize: 12 }}>
+          Open the <strong>NFT Gallery</strong>, find your favorite Stuggy and take a screenshot.
+        </p>
+        <W98Btn onClick={() => step === 2 && setStep(3)} disabled={step < 2}>
+          Got my screenshot →
+        </W98Btn>
+      </div>
+
+      {/* Step 3 — Post on X */}
+      <div style={{ marginBottom: 12, padding: "8px 10px", background: step === 3 ? "#e8f0ff" : "#f0f0f0", borderTop: "2px solid #808080", borderLeft: "2px solid #808080", borderRight: "2px solid #fff", borderBottom: "2px solid #fff", opacity: step < 3 ? 0.5 : 1 }}>
+        <div style={{ fontWeight: "bold", marginBottom: 4 }}>𝕏 Step 3 — Post on X &amp; paste the link</div>
+        <p style={{ color: "#444", lineHeight: 1.6, margin: "0 0 8px", fontSize: 12 }}>
+          Tag <a href="https://x.com/TheStuggies" target="_blank" rel="noopener noreferrer" style={{ color: "#000080" }}>@TheStuggies</a> and use <strong>#StuggiesGuardian</strong>:
         </p>
         <input
           type="text"
           value={postUrl}
-          onChange={(e) => {
-            setPostUrl(e.target.value);
-            setLocalError("");
-          }}
+          onChange={(e) => { setPostUrl(e.target.value); setLocalError(""); }}
           placeholder="https://x.com/yourhandle/status/..."
-          disabled={step !== 2}
-          style={{
-            width: "100%",
-            padding: "3px 6px",
-            fontSize: 11,
-            fontFamily: "'Tahoma', Arial, sans-serif",
-            borderTop: "2px solid #808080",
-            borderLeft: "2px solid #808080",
-            borderRight: "2px solid #fff",
-            borderBottom: "2px solid #fff",
-            background: step === 2 ? "white" : "#e8e8e8",
-            marginBottom: 6,
-            boxSizing: "border-box" as const,
-          }}
+          disabled={step !== 3}
+          style={{ width: "100%", padding: "3px 6px", fontSize: 11, fontFamily: "'Tahoma', Arial, sans-serif", borderTop: "2px solid #808080", borderLeft: "2px solid #808080", borderRight: "2px solid #fff", borderBottom: "2px solid #fff", background: step === 3 ? "white" : "#e8e8e8", marginBottom: 6, boxSizing: "border-box" as const }}
         />
-        {localError && (
-          <div style={{ color: "red", fontSize: 10, marginBottom: 6 }}>
-            ⚠ {localError}
-          </div>
-        )}
-        <W98Btn
-          onClick={step === 2 ? handleSubmit : undefined}
-          disabled={step !== 2}
-        >
-          Open Submission Form
+        {localError && <div style={{ color: "red", fontSize: 10, marginBottom: 6 }}>⚠ {localError}</div>}
+        <W98Btn onClick={step === 3 ? () => setStep(4) : undefined} disabled={step !== 3}>
+          Ready to submit →
         </W98Btn>
       </div>
 
-      <div
-        style={{
-          marginTop: 10,
-          fontSize: 10,
-          color: "#777",
-          borderTop: "1px solid #ccc",
-          paddingTop: 6,
-        }}
-      >
+      {/* Step 4 — Submit */}
+      <div style={{ marginBottom: 12, padding: "8px 10px", background: step === 4 ? "#e8f0ff" : "#f0f0f0", borderTop: "2px solid #808080", borderLeft: "2px solid #808080", borderRight: "2px solid #fff", borderBottom: "2px solid #fff", opacity: step < 4 ? 0.5 : 1 }}>
+        <div style={{ fontWeight: "bold", marginBottom: 4 }}>📋 Step 4 — Open submission form</div>
+        <p style={{ color: "#444", lineHeight: 1.6, margin: "0 0 8px", fontSize: 12 }}>
+          Submit the form.
+        </p>
+        <W98Btn onClick={step === 4 ? handleSubmit : undefined} disabled={step !== 4}>
+          Open Submission Form →
+        </W98Btn>
+      </div>
+
+      <div style={{ marginTop: 10, fontSize: 10, color: "#777", borderTop: "1px solid #ccc", paddingTop: 6 }}>
         Guardians get priority consideration for mint whitelist.
       </div>
     </div>
