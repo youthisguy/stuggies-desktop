@@ -987,7 +987,7 @@ export default function Home() {
     },
     {
       id: "about",
-      label: "About",
+      label: "About Stuggies",
       emoji: <Icon src="/search-removebg-preview.png" size={68} />,
       winConfig: {
         id: "about",
@@ -998,13 +998,13 @@ export default function Home() {
     },
     {
       id: "twitter",
-      label: "Twitter / X",
+      label: "X / Twitter",
       emoji: "𝕏",
       href: "https://x.com/TheStuggies",
     },
     {
       id: "discord",
-      label: "Discord",
+      label: "Stuggies Discord",
       emoji: <Icon src="/discord-removebg-preview.png" size={40} />,
       href: "https://discord.gg/UuRb2cJ3Zn",
     },
