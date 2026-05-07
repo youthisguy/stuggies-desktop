@@ -168,6 +168,25 @@ body {
   color: black;
 }
 
+.desktop-icon .label {
+  font-size: 13px !important;
+  font-weight: bold !important;
+  text-shadow: 1px 1px 2px black, 0 0 8px rgba(0,0,0,0.9) !important;
+  letter-spacing: 0.5px !important;
+}
+
+ 
+.desktop-icon-img {
+  font-size: 42px !important;
+  margin-bottom: 4px;
+}
+
+ 
+.desktop-icon {
+  gap: 6px !important;
+  padding: 8px 4px 6px !important;
+}
+
 .win98-btn {
   padding: 3px 14px;
   font-size: 10px;
