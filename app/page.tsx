@@ -119,14 +119,14 @@ const NFT_GALLERY = [
   { id: 19, name: "Stuggy #55", rarity: "Epic", img: "/nfts/55.png" },
   { id: 20, name: "Stuggy #99", rarity: "Rare", img: "/nfts/99.png" },
   { id: 21, name: "Stuggy #122", rarity: "Legendary", img: "/nfts/122.png" },
-  { id: 22, name: "Stuggy #1234", rarity: "Epic", img: "/nfts/1234.png" },
-  { id: 23, name: "Detteed", rarity: "Legendary", img: "/nfts/detteed.png" },
-  { id: 24, name: "Dfdf", rarity: "Rare", img: "/nfts/dfdffdbdfbbdf.jpeg" },
-  { id: 25, name: "Errev", rarity: "Epic", img: "/nfts/errev.png" },
-  { id: 26, name: "Fdbtrr", rarity: "Common", img: "/nfts/fdbtrr.png" },
-  { id: 27, name: "Gojo GG", rarity: "Legendary", img: "/nfts/gojo-gg.jpeg" },
-  { id: 28, name: "Iuii", rarity: "Rare", img: "/nfts/iuii.png" },
-  { id: 29, name: "KK34", rarity: "Epic", img: "/nfts/kk34.jpeg" },
+  { id: 22, name: "Stuggy #345", rarity: "Epic", img: "/nfts/1234.png" },
+  { id: 23, name: "Stuggy #69", rarity: "Legendary", img: "/nfts/detteed.png" },
+  { id: 24, name: "Stuggy #89", rarity: "Rare", img: "/nfts/dfdffdbdfbbdf.jpeg" },
+  { id: 25, name: "Stuggy #56", rarity: "Epic", img: "/nfts/errev.png" },
+  { id: 26, name: "Stuggy #23", rarity: "Common", img: "/nfts/fdbtrr.png" },
+  { id: 27, name: "Stuggy #55", rarity: "Legendary", img: "/nfts/gojo-gg.jpeg" },
+  { id: 28, name: "Stuggy #213", rarity: "Rare", img: "/nfts/iuii.png" },
+  { id: 29, name: "Stuggy #434", rarity: "Epic", img: "/nfts/kk34.jpeg" },
 ];
 
 const RARITY_COLOR: Record<string, string> = {
