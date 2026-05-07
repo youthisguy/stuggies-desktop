@@ -9,6 +9,10 @@ const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"]
 export const metadata: Metadata = {
   title: "Stuggies",
   description: "3,333 fully rigged 3D NFT characters on MegaETH",
+  icons: {
+    icon: "/stuggies-logo.jpeg",
+    apple: "/stuggies-logo.jpeg",   
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
