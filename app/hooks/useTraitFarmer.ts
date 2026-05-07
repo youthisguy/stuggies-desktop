@@ -9,7 +9,7 @@ import {
   useSwitchChain,
 } from "wagmi";
 import { CONTRACT_ADDRESS, TRAIT_FARMER_ABI } from "../lib/contract";
-import { megaethTestnet } from "../providers";
+import { megaethMainnet } from "../providers";
 
 export function useTraitFarmer() {
   const { ready, authenticated, login, logout } = usePrivy();
@@ -19,10 +19,10 @@ export function useTraitFarmer() {
 
   const address = wallets[0]?.address as `0x${string}` | undefined;
   const isConnected = authenticated && !!address;
-  const isWrongNetwork = isConnected && chainId !== megaethTestnet.id;
+  const isWrongNetwork = isConnected && chainId !== megaethMainnet.id;
 
   const ensureChain = async () => {
-    if (chainId !== megaethTestnet.id) {
+    if (chainId !== megaethMainnet.id) {
       await switchToMegaETH();
     }
   };
@@ -94,7 +94,7 @@ export function useTraitFarmer() {
       abi: TRAIT_FARMER_ABI,
       functionName: "claimTrait",
       args: [postUrl],
-      chainId: megaethTestnet.id,
+      chainId: megaethMainnet.id,
     });
   };
 
@@ -110,7 +110,7 @@ export function useTraitFarmer() {
       abi: TRAIT_FARMER_ABI,
       functionName: "verifyClaim",
       args: [claimId],
-      chainId: megaethTestnet.id,
+      chainId: megaethMainnet.id,
     });
   };
 
@@ -121,7 +121,7 @@ export function useTraitFarmer() {
       abi: TRAIT_FARMER_ABI,
       functionName: "rejectClaim",
       args: [claimId],
-      chainId: megaethTestnet.id,
+      chainId: megaethMainnet.id,
     });
   };
 
@@ -132,7 +132,7 @@ export function useTraitFarmer() {
       abi: TRAIT_FARMER_ABI,
       functionName: "approveReservation",
       args: [wallet],
-      chainId: megaethTestnet.id,
+      chainId: megaethMainnet.id,
     });
   };
 
@@ -143,7 +143,7 @@ export function useTraitFarmer() {
       abi: TRAIT_FARMER_ABI,
       functionName: "toggleReservations",
       args: [open],
-      chainId: megaethTestnet.id,
+      chainId: megaethMainnet.id,
     });
   };
 
@@ -154,7 +154,7 @@ export function useTraitFarmer() {
       abi: TRAIT_FARMER_ABI,
       functionName: "approveBatch",
       args: [walletList],
-      chainId: megaethTestnet.id,
+      chainId: megaethMainnet.id,
     });
   };
 

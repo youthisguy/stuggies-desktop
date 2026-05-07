@@ -610,8 +610,6 @@ function WalletButton() {
     connect,
     disconnect,
     ready,
-    isWrongNetwork,
-    switchToMegaETH,
   } = useTraitFarmer();
   const [open, setOpen] = useState(false);
   const [balance, setBalance] = useState<string>("...");
@@ -619,7 +617,7 @@ function WalletButton() {
 
   useEffect(() => {
     if (!address || !isConnected) return;
-    fetch("https://carrot.megaeth.com/rpc", {
+    fetch("https://mainnet.megaeth.com/rpc", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -762,7 +760,7 @@ function WalletButton() {
                 color: "#333",
               }}
             >
-              Balance: {isWrongNetwork ? "—" : balance}
+              Balance: {balance}
             </div>
           </div>
           <div
@@ -774,14 +772,14 @@ function WalletButton() {
             }}
           />
 
-          <button
+<button
             style={menuItem}
             onMouseEnter={hoverOn}
             onMouseLeave={hoverOff}
             onClick={() => {
               setOpen(false);
               window.open(
-                "https://megaeth-testnet-v2.blockscout.com/address/" + address,
+                "https://megaeth.blockscout.com/address/" + address,
                 "_blank"
               );
             }}
@@ -821,7 +819,7 @@ function WalletButton() {
           fontWeight: "bold",
           background: "#c0c0c0",
           cursor: "pointer",
-          color: isWrongNetwork ? "#cc0000" : "black",
+          color:  "black",
           whiteSpace: "nowrap",
           borderTop: open ? "2px solid #808080" : "2px solid #fff",
           borderLeft: open ? "2px solid #808080" : "2px solid #fff",
@@ -829,7 +827,7 @@ function WalletButton() {
           borderBottom: open ? "2px solid #fff" : "2px solid #808080",
         }}
       >
-        {isWrongNetwork ? "⚠" : "🟢"} {address!.slice(0, 6)}...
+        {"🪪"} {address!.slice(0, 6)}...
         {address!.slice(-4)}
       </button>
     </div>
