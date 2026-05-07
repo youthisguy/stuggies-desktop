@@ -642,7 +642,7 @@ function DraggableWindow({
       top: pos.y,
       zIndex,
       // Mobile: full width, desktop: auto
-      width: "min(480px, 100vw)",
+      width: "min(400px, 100vw)",
       maxWidth: "100vw",
       boxSizing: "border-box",
     }}
@@ -970,7 +970,7 @@ export default function Home() {
       winConfig: {
         id: "quest",
         title: "Stuggies Guardian Quest",
-        icon: <Icon src="/game.png" size={20} />,
+        icon: <Icon src="/game.png" size={40} />,
         content: <QuestContent />,
       },
     },
