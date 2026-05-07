@@ -35,48 +35,16 @@ body {
 .desktop-bg {
   position: absolute;
   inset: 0;
-  background:
-    radial-gradient(ellipse at 50% 0%, #3b0764 0%, transparent 60%),
-    radial-gradient(ellipse at 80% 30%, #1e1b4b 0%, transparent 50%),
-    linear-gradient(180deg, #0d0221 0%, #1a0533 25%, #2e1065 50%, #1e3a5f 75%, #0c1a2e 100%);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-.desktop-bg::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background-image:
-    radial-gradient(1px 1px at 5% 8%,  rgba(255,255,255,.9) 0%,transparent 100%),
-    radial-gradient(1px 1px at 12% 3%, rgba(255,255,255,.7) 0%,transparent 100%),
-    radial-gradient(2px 2px at 20% 12%,rgba(255,255,255,1) 0%,transparent 100%),
-    radial-gradient(1px 1px at 28% 6%, rgba(255,255,255,.6) 0%,transparent 100%),
-    radial-gradient(1px 1px at 35% 18%,rgba(255,255,255,.8) 0%,transparent 100%),
-    radial-gradient(2px 2px at 45% 4%, rgba(255,255,255,.9) 0%,transparent 100%),
-    radial-gradient(1px 1px at 53% 14%,rgba(255,255,255,.5) 0%,transparent 100%),
-    radial-gradient(1px 1px at 62% 9%, rgba(255,255,255,.7) 0%,transparent 100%),
-    radial-gradient(2px 2px at 70% 5%, rgba(255,255,255,1) 0%,transparent 100%),
-    radial-gradient(1px 1px at 78% 16%,rgba(255,255,255,.6) 0%,transparent 100%),
-    radial-gradient(1px 1px at 85% 3%, rgba(255,255,255,.8) 0%,transparent 100%),
-    radial-gradient(1px 1px at 92% 11%,rgba(255,255,255,.5) 0%,transparent 100%),
-    radial-gradient(1px 1px at 8%  25%,rgba(255,255,255,.4) 0%,transparent 100%),
-    radial-gradient(2px 2px at 18% 32%,rgba(255,255,255,.6) 0%,transparent 100%),
-    radial-gradient(1px 1px at 40% 28%,rgba(255,255,255,.5) 0%,transparent 100%),
-    radial-gradient(1px 1px at 60% 22%,rgba(255,255,255,.7) 0%,transparent 100%),
-    radial-gradient(1px 1px at 75% 35%,rgba(255,255,255,.4) 0%,transparent 100%),
-    radial-gradient(1px 1px at 90% 29%,rgba(255,255,255,.6) 0%,transparent 100%);
-  animation: twinkle 4s ease-in-out infinite alternate;
-}
+ 
 
-.desktop-bg::after {
-  content: '';
-  position: absolute;
-  top: 4%; right: 18%;
-  width: 65px; height: 65px;
-  background: radial-gradient(circle at 35% 35%, #fffde7 0%, #ffd54f 40%, transparent 70%);
-  border-radius: 50%;
-  box-shadow: 0 0 30px 10px rgba(255,220,100,.3), 0 0 60px 20px rgba(200,160,80,.15);
-  clip-path: ellipse(100% 100% at 100% 0%);
-}
+ 
 
 @keyframes twinkle { 0%{opacity:.7} 100%{opacity:1} }
 

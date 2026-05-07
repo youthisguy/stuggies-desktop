@@ -40,7 +40,8 @@ export default function Providers({ children }: { children: React.ReactNode }) {
           theme: "dark",
           accentColor: "#000080",
         },
-        loginMethods: ["wallet"],
+        loginMethods: ["wallet", "email", "apple", "google", "twitter", "passkey"],
+ 
       }}
     >
       <QueryClientProvider client={queryClient}>
