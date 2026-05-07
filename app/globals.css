@@ -1,6 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=VT323&family=Share+Tech+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&family=Share+Tech+Mono&family=Press+Start+2P&family=Orbitron:wght@400;500;600;700;800;900&display=swap');
 @import "tailwindcss";
 
+
+div, button, span, p, a, input {
+  font-family: 'Audiowide', 'Share Tech Mono', monospace !important;
+  font-weight: 400;
+  letter-spacing: 0.8px;
+}
+
+.win-titlebar-title, .start-btn, .taskbar-clock {
+  font-family: 'Orbitron', monospace !important;
+  letter-spacing: 1px;
+}
 
 :root {
   --win-gray: #c0c0c0;
@@ -17,8 +28,8 @@
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
-  font-family: 'Tahoma', Arial, sans-serif;
-  font-size: 11px;
+  font-family: 'Share Tech Mono', 'VT323', 'Courier New', monospace;
+  font-size: 12px;
   background: #008080;
   overflow: hidden;
   user-select: none;
@@ -41,10 +52,6 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
-
- 
-
- 
 
 @keyframes twinkle { 0%{opacity:.7} 100%{opacity:1} }
 
@@ -77,9 +84,14 @@ body {
 .desktop-icon.active  { background: rgba(0,0,160,.7);  border: 1px dotted #fff; }
 .desktop-icon-img     { font-size: 34px; line-height:1; filter: drop-shadow(0 2px 4px rgba(0,0,0,.9)); }
 .desktop-icon .label  {
-  font-size: 11px; text-align: center; line-height: 1.25;
-  word-break: break-word; max-width: 72px;
-  font-family: 'Tahoma', Arial, sans-serif;
+  font-size: 9px;
+  text-align: center;
+  line-height: 1.3;
+  word-break: break-word;
+  max-width: 72px;
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: bold;
+  letter-spacing: 0.5px;
 }
 
 /* Windows */
@@ -94,6 +106,9 @@ body {
   box-shadow: 3px 3px 0 var(--win-darker);
   z-index: 100;
   animation: winPop .12s ease-out;
+  max-width: 100vw;
+  box-sizing: border-box;
+  box-sizing: border-box;
 }
 @keyframes winPop { from{opacity:0;transform:scale(.97)} to{opacity:1;transform:scale(1)} }
 
@@ -103,11 +118,21 @@ body {
   background: linear-gradient(90deg, var(--win-title-start) 0%, var(--win-title-end) 100%);
   gap: 3px; cursor: default;
 }
-.win-titlebar-icon  { font-size: 13px; }
+.win-titlebar-icon  { 
+  font-size: 13px;
+  font-family: 'Press Start 2P', monospace;
+}
 .win-titlebar-title {
-  flex: 1; color: white; font-size: 11px; font-weight: bold;
-  font-family: 'Tahoma', Arial, sans-serif;
-  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-left: 2px;
+  flex: 1;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: 'Share Tech Mono', 'Orbitron', monospace;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-left: 2px;
 }
 
 .win-btn {
@@ -117,6 +142,8 @@ body {
   border-right: 1.5px solid var(--win-dark); border-bottom: 1.5px solid var(--win-dark);
   display: flex; align-items: center; justify-content: center;
   font-size: 9px; cursor: pointer; color: black; flex-shrink: 0;
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: bold;
 }
 .win-btn:active {
   border-top: 1.5px solid var(--win-dark); border-left: 1.5px solid var(--win-dark);
@@ -124,17 +151,34 @@ body {
 }
 
 .win-menubar { display:flex; padding:1px 2px; border-bottom:1px solid var(--win-dark); }
-.win-menubar span { padding:1px 6px; font-size:11px; cursor:pointer; font-family:'Tahoma',Arial,sans-serif; }
+.win-menubar span { 
+  padding:1px 6px;
+  font-size: 10px;
+  cursor: pointer;
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
 .win-menubar span:hover { background:var(--win-blue); color:white; }
 
-.win-content { padding:10px; font-size:12px; font-family:'Tahoma',Arial,sans-serif; color:black; }
+.win-content { 
+  padding:10px;
+  font-size: 11px;
+  font-family: 'VT323', 'Share Tech Mono', monospace;
+  color: black;
+}
 
 .win98-btn {
-  padding: 3px 14px; font-size:11px; font-family:'Tahoma',Arial,sans-serif;
+  padding: 3px 14px;
+  font-size: 10px;
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: bold;
+  letter-spacing: 0.5px;
   background: var(--win-gray);
   border-top: 2px solid var(--win-white); border-left: 2px solid var(--win-white);
   border-right: 2px solid var(--win-dark); border-bottom: 2px solid var(--win-dark);
-  cursor:pointer; white-space:nowrap;
+  cursor:pointer;
+  white-space:nowrap;
 }
 .win98-btn:active {
   border-top: 2px solid var(--win-dark); border-left: 2px solid var(--win-dark);
@@ -154,8 +198,13 @@ body {
 .start-btn {
   display:flex; align-items:center; gap:5px;
   padding: 3px 10px 3px 7px;
-  font-weight:bold; font-size:12px; font-family:'Tahoma',Arial,sans-serif;
-  background:var(--win-gray); cursor:pointer; white-space:nowrap;
+  font-weight: bold;
+  font-size: 12px;
+  font-family: 'Press Start 2P', 'Share Tech Mono', monospace;
+  background:var(--win-gray);
+  cursor:pointer;
+  white-space:nowrap;
+  letter-spacing: 1px;
   border-top:2px solid var(--win-white); border-left:2px solid var(--win-white);
   border-right:2px solid var(--win-dark); border-bottom:2px solid var(--win-dark);
 }
@@ -168,27 +217,45 @@ body {
 
 .taskbar-win-btn {
   display:flex; align-items:center; gap:4px;
-  padding:2px 8px; font-size:11px; font-family:'Tahoma',Arial,sans-serif;
+  padding:2px 8px;
+  font-size: 10px;
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: bold;
   background:var(--win-gray);
   border-top:2px solid var(--win-dark); border-left:2px solid var(--win-dark);
   border-right:2px solid var(--win-white); border-bottom:2px solid var(--win-white);
-  cursor:pointer; max-width:150px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; flex-shrink:0;
+  cursor:pointer;
+  max-width:150px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  flex-shrink:0;
+  letter-spacing: 0.5px;
 }
 
 .taskbar-clock {
-  margin-left:auto; padding:3px 10px; font-size:11px; font-family:'Tahoma',Arial,sans-serif;
+  margin-left:auto;
+  padding:3px 10px;
+  font-size: 10px;
+  font-family: 'Orbitron', 'Share Tech Mono', monospace;
+  font-weight: 600;
+  letter-spacing: 1px;
   border-top:2px solid var(--win-dark); border-left:2px solid var(--win-dark);
   border-right:2px solid var(--win-white); border-bottom:2px solid var(--win-white);
-  min-width:60px; text-align:center; flex-shrink:0;
+  min-width:70px;
+  text-align:center;
+  flex-shrink:0;
 }
 
-/* Stuggies logo font */
+/* Stuggies logo font - enhanced robotic/gaming */
 .stuggies-logo {
-  font-family: 'VT323', monospace;
+  font-family: 'Orbitron', 'Press Start 2P', monospace;
   font-size: 28px;
+  font-weight: 800;
   color: white;
-  text-shadow: 0 0 10px #a855f7, 0 0 20px #7c3aed;
-  letter-spacing: 2px;
+  text-shadow: 0 0 10px #a855f7, 0 0 20px #7c3aed, 0 0 30px #4c1d95;
+  letter-spacing: 3px;
+  text-transform: uppercase;
 }
 
 .win-sunken {
@@ -202,4 +269,33 @@ body {
   background:var(--win-gray);
   border-top:2px solid var(--win-white); border-left:2px solid var(--win-white);
   border-right:2px solid var(--win-dark); border-bottom:2px solid var(--win-dark);
+}
+
+/* Additional gaming/robotic font classes for any dynamic content */
+.robotic-text {
+  font-family: 'Orbitron', monospace;
+  letter-spacing: 1px;
+}
+
+.gaming-text {
+  font-family: 'Press Start 2P', monospace;
+  letter-spacing: 0.5px;
+}
+
+.mono-text {
+  font-family: 'Share Tech Mono', monospace;
+}
+
+/* NFT gallery grid text (if applicable) */
+.nft-title {
+  font-family: 'Orbitron', monospace;
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 1px;
+}
+
+.nft-rarity {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 9px;
+  font-weight: bold;
 }

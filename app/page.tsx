@@ -25,8 +25,7 @@ const W98Btn = ({
 }) => {
   const base: React.CSSProperties = {
     padding: "3px 14px",
-    fontSize: 11,
-    fontFamily: "'Tahoma', Arial, sans-serif",
+    fontFamily: "'Share Tech Mono', monospace",
     background: "#c0c0c0",
     cursor: disabled ? "default" : "pointer",
     whiteSpace: "nowrap" as const,
@@ -70,8 +69,8 @@ const Sunken = ({
       borderBottom: "2px solid #fff",
       background: "white",
       padding: "3px 6px",
-      fontFamily: "'Tahoma', Arial, sans-serif",
-      fontSize: 11,
+      fontFamily: "'Share Tech Mono', monospace",
+      fontSize: 19,
       ...style,
     }}
   >
@@ -97,37 +96,37 @@ const Icon = ({ src, size = 48 }: { src: string; size?: number }) => (
 const GOOGLE_FORM_BASE =
   "https://docs.google.com/forms/d/e/1FAIpQLScJvNjr470KGKxXGjLmcsJEHd6YAqBMvhhO8r6ly9Ag9L7aRA/viewform?usp=pp_url&entry.1069278788=";
 
-const NFT_GALLERY = [
-  { id: 1, name: "Stuggy #1", rarity: "Legendary", img: "/nfts/1.png" },
-  { id: 2, name: "Stuggy #2", rarity: "Rare", img: "/nfts/2.png" },
-  { id: 3, name: "Stuggy #3", rarity: "Epic", img: "/nfts/3.png" },
-  { id: 4, name: "Stuggy #4", rarity: "Common", img: "/nfts/4.png" },
-  { id: 5, name: "Stuggy #5", rarity: "Rare", img: "/nfts/5.png" },
-  { id: 6, name: "Stuggy #7", rarity: "Legendary", img: "/nfts/7.png" },
-  { id: 7, name: "Stuggy #8", rarity: "Epic", img: "/nfts/8.png" },
-  { id: 8, name: "Stuggy #9", rarity: "Common", img: "/nfts/9.png" },
-  { id: 9, name: "Stuggy #10", rarity: "Rare", img: "/nfts/10.png" },
-  { id: 10, name: "Stuggy #11", rarity: "Legendary", img: "/nfts/11.png" },
-  { id: 11, name: "Stuggy #12", rarity: "Epic", img: "/nfts/12.png" },
-  { id: 12, name: "Stuggy #13", rarity: "Common", img: "/nfts/13.png" },
-  { id: 13, name: "Stuggy #14", rarity: "Rare", img: "/nfts/14.png" },
-  { id: 14, name: "Stuggy #15", rarity: "Legendary", img: "/nfts/15.png" },
-  { id: 15, name: "Stuggy #16", rarity: "Epic", img: "/nfts/16.png" },
-  { id: 16, name: "Stuggy #17", rarity: "Common", img: "/nfts/17.png" },
-  { id: 17, name: "Stuggy #22", rarity: "Rare", img: "/nfts/22.png" },
-  { id: 18, name: "Stuggy #32", rarity: "Legendary", img: "/nfts/32.png" },
-  { id: 19, name: "Stuggy #55", rarity: "Epic", img: "/nfts/55.png" },
-  { id: 20, name: "Stuggy #99", rarity: "Rare", img: "/nfts/99.png" },
-  { id: 21, name: "Stuggy #122", rarity: "Legendary", img: "/nfts/122.png" },
-  { id: 22, name: "Stuggy #345", rarity: "Epic", img: "/nfts/1234.png" },
-  { id: 23, name: "Stuggy #69", rarity: "Legendary", img: "/nfts/detteed.png" },
-  { id: 24, name: "Stuggy #89", rarity: "Rare", img: "/nfts/dfdffdbdfbbdf.jpeg" },
-  { id: 25, name: "Stuggy #56", rarity: "Epic", img: "/nfts/errev.png" },
-  { id: 26, name: "Stuggy #23", rarity: "Common", img: "/nfts/fdbtrr.png" },
-  { id: 27, name: "Stuggy #55", rarity: "Legendary", img: "/nfts/gojo-gg.jpeg" },
-  { id: 28, name: "Stuggy #213", rarity: "Rare", img: "/nfts/iuii.png" },
-  { id: 29, name: "Stuggy #434", rarity: "Epic", img: "/nfts/kk34.jpeg" },
-];
+  const NFT_GALLERY = [
+    { id: 1, name: "Stuggy #1", rarity: "Legendary", img: "https://i.ibb.co/Wv27WNnn/1.png" },
+    { id: 2, name: "Stuggy #2", rarity: "Rare", img: "https://i.ibb.co/Nd3VS49F/2.png" },
+    { id: 3, name: "Stuggy #3", rarity: "Epic", img: "https://i.ibb.co/qMkh7R40/3.png" },
+    { id: 4, name: "Stuggy #4", rarity: "Common", img: "https://i.ibb.co/C5hL5H9z/4.png" },
+    { id: 5, name: "Stuggy #5", rarity: "Rare", img: "https://i.ibb.co/0VXmz3VQ/5.png" },
+    { id: 6, name: "Stuggy #7", rarity: "Legendary", img: "https://i.ibb.co/M5shyL4L/7.png" },
+    { id: 7, name: "Stuggy #8", rarity: "Epic", img: "https://i.ibb.co/n45L6W9/8.png" },
+    { id: 8, name: "Stuggy #9", rarity: "Common", img: "https://i.ibb.co/W4Zvxrch/9.png" },
+    { id: 9, name: "Stuggy #10", rarity: "Rare", img: "https://i.ibb.co/wFJHq9DG/10.png" },
+    { id: 10, name: "Stuggy #11", rarity: "Legendary", img: "https://i.ibb.co/HpbNg4N8/11.png" },
+    { id: 11, name: "Stuggy #12", rarity: "Epic", img: "https://i.ibb.co/xtR0mDnX/12.png" },
+    { id: 12, name: "Stuggy #13", rarity: "Common", img: "https://i.ibb.co/5xBB1xrn/13.png" },
+    { id: 13, name: "Stuggy #14", rarity: "Rare", img: "https://i.ibb.co/svTbtTF3/14.png" },
+    { id: 14, name: "Stuggy #15", rarity: "Legendary", img: "https://i.ibb.co/qMLmqsw6/15.png" },
+    { id: 15, name: "Stuggy #16", rarity: "Epic", img: "https://i.ibb.co/q36qGCzh/16.png" },
+    { id: 16, name: "Stuggy #17", rarity: "Common", img: "https://i.ibb.co/ZnBq8L9/17.png" },
+    { id: 17, name: "Stuggy #22", rarity: "Rare", img: "https://i.ibb.co/FLPjqxST/22.png" },
+    { id: 18, name: "Stuggy #32", rarity: "Legendary", img: "https://i.ibb.co/j9nFdBtw/32.png" },
+    { id: 19, name: "Stuggy #55", rarity: "Epic", img: "https://i.ibb.co/SXmJxNMB/55.png" },
+    { id: 20, name: "Stuggy #99", rarity: "Rare", img: "https://i.ibb.co/LWxzgTF/99.png" },
+    { id: 21, name: "Stuggy #122", rarity: "Legendary", img: "https://i.ibb.co/DfL64Zpr/122.png" },
+    { id: 22, name: "Stuggy #345", rarity: "Epic", img: "https://i.ibb.co/8Lrzs28B/1234.png" },
+    { id: 23, name: "Stuggy #69", rarity: "Legendary", img: "https://i.ibb.co/tT9bbLxM/detteed.png" },
+    { id: 24, name: "Stuggy #89", rarity: "Rare", img: "https://i.ibb.co/HDYKWnKH/dfdffdbdfbbdf.jpg" },
+    { id: 25, name: "Stuggy #56", rarity: "Epic", img: "https://i.ibb.co/2YPkGYDB/errev.png" },
+    { id: 26, name: "Stuggy #23", rarity: "Common", img: "https://i.ibb.co/J8pK3yq/fdbtrr.png" },
+    { id: 27, name: "Stuggy #55", rarity: "Legendary", img: "https://i.ibb.co/pSyTfWC/gojo-gg.jpg" },
+    { id: 28, name: "Stuggy #213", rarity: "Rare", img: "https://i.ibb.co/yn7rB3wQ/iuii.png" },
+    { id: 29, name: "Stuggy #434", rarity: "Epic", img: "https://i.ibb.co/C3hWpcCM/kk34.jpg" },
+  ];
 
 const RARITY_COLOR: Record<string, string> = {
   Legendary: "#ffd700",
@@ -165,8 +164,8 @@ function QuestContent() {
   return (
     <div
       style={{
-        fontFamily: "'Tahoma', Arial, sans-serif",
-        fontSize: 12,
+        fontFamily: "'Share Tech Mono', monospace",
+        fontSize: 16,
         minWidth: 340,
         maxWidth: 420,
       }}
@@ -346,45 +345,18 @@ function QuestContent() {
 const CollectionContent = () => {
   const [hovered, setHovered] = useState<number | null>(null);
   return (
-    <div
-      style={{
-        fontFamily: "'Tahoma', Arial, sans-serif",
-        fontSize: 12,
-        width: 480,
-      }}
-    >
-      <div
-        style={{
-          background: "linear-gradient(90deg, #000080, #1084d0)",
-          color: "white",
-          padding: "6px 10px",
-          marginBottom: 10,
-          display: "flex",
-          alignItems: "center",
-          gap: 8,
-        }}
-      >
+    <div style={{ fontFamily: "'Tahoma', Arial, sans-serif", fontSize: 12, width: "100%" }}>
+      <div style={{ background: "linear-gradient(90deg, #000080, #1084d0)", color: "white", padding: "6px 10px", marginBottom: 10, display: "flex", alignItems: "center", gap: 8 }}>
         <span style={{ fontSize: 18 }}>🖼️</span>
         <div>
-          <div
-            style={{
-              fontFamily: "'VT323', monospace",
-              fontSize: 16,
-              letterSpacing: 2,
-            }}
-          >
-            STUGGIES NFT GALLERY
-          </div>
-          <div style={{ fontSize: 10, opacity: 0.85 }}>
-            Take a screenshot - use it in the Guardian Quest!
-          </div>
+          <div style={{ fontFamily: "'VT323', monospace", fontSize: 16, letterSpacing: 2 }}>STUGGIES NFT GALLERY</div>
+          <div style={{ fontSize: 10, opacity: 0.85 }}>Take a screenshot - use it in the Guardian Quest!</div>
         </div>
       </div>
 
-      {/* Scrollable grid container — fixed height */}
       <div
         style={{
-          height: 420, // fixed height — adjust to taste
+          height: 420,
           overflowY: "auto",
           overflowX: "hidden",
           borderTop: "2px solid #808080",
@@ -399,7 +371,8 @@ const CollectionContent = () => {
         <div
           style={{
             display: "grid",
-            gridTemplateColumns: "repeat(4, 1fr)",
+            // 2 cols on mobile, 3 on wider screens
+            gridTemplateColumns: "repeat(auto-fill, minmax(120px, 1fr))",
             gap: 6,
           }}
         >
@@ -423,34 +396,12 @@ const CollectionContent = () => {
               <img
                 src={nft.img}
                 alt={nft.name}
-                style={{
-                  width: "100%",
-                  aspectRatio: "1/1",
-                  objectFit: "cover",
-                  display: "block",
-                  marginBottom: 3,
-                }}
+                style={{ width: "100%", aspectRatio: "1/1", objectFit: "cover", display: "block", marginBottom: 3 }}
               />
-              <div
-                style={{
-                  fontWeight: "bold",
-                  fontSize: 9,
-                  color: "#000",
-                  marginBottom: 1,
-                  whiteSpace: "nowrap",
-                  overflow: "hidden",
-                  textOverflow: "ellipsis",
-                }}
-              >
+              <div style={{ fontWeight: "bold", fontSize: 9, color: "#000", marginBottom: 1, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
                 {nft.name}
               </div>
-              <div
-                style={{
-                  fontSize: 8,
-                  fontWeight: "bold",
-                  color: RARITY_COLOR[nft.rarity] || "#555",
-                }}
-              >
+              <div style={{ fontSize: 8, fontWeight: "bold", color: RARITY_COLOR[nft.rarity] || "#555" }}>
                 ★ {nft.rarity}
               </div>
             </div>
@@ -458,26 +409,10 @@ const CollectionContent = () => {
         </div>
       </div>
 
-      <Sunken
-        style={{
-          fontSize: 11,
-          lineHeight: 1.6,
-          color: "#333",
-          padding: "6px 10px",
-        }}
-      >
-        📸 <strong>Take a Screenshot</strong> then post on X with{" "}
-        <strong>#StuggiesGuardian</strong>!
+      <Sunken style={{ fontSize: 11, lineHeight: 1.6, color: "#333", padding: "6px 10px" }}>
+        📸 <strong>Take a Screenshot</strong> then post on X with <strong>#StuggiesGuardian</strong>!
       </Sunken>
-      <div
-        style={{
-          marginTop: 6,
-          fontSize: 10,
-          color: "#777",
-          borderTop: "1px solid #ccc",
-          paddingTop: 5,
-        }}
-      >
+      <div style={{ marginTop: 6, fontSize: 10, color: "#777", borderTop: "1px solid #ccc", paddingTop: 5 }}>
         {NFT_GALLERY.length} Stuggies shown · 3,333 total · MegaETH
       </div>
     </div>
@@ -701,10 +636,18 @@ function DraggableWindow({
 
   return (
     <div
-      className="win-window"
-      style={{ left: pos.x, top: pos.y, zIndex }}
-      onMouseDown={() => onFocus(win.id)}
-    >
+    className="win-window"
+    style={{
+      left: pos.x,
+      top: pos.y,
+      zIndex,
+      // Mobile: full width, desktop: auto
+      width: "min(480px, 100vw)",
+      maxWidth: "100vw",
+      boxSizing: "border-box",
+    }}
+    onMouseDown={() => onFocus(win.id)}
+  >
       <div
         className="win-titlebar"
         style={{ cursor: "move", touchAction: "none" }}
@@ -890,12 +833,8 @@ function WalletButton() {
                 gap: 6,
               }}
             >
-              <span style={{ color: "#333" }}>Network:</span>
-              {isWrongNetwork ? (
-                <span style={{ color: "#cc0000" }}>Wrong Network ⚠</span>
-              ) : (
-                <span style={{ color: "#008000" }}>MegaETH</span>
-              )}
+       
+   
             </div>
             <div
               style={{
@@ -916,25 +855,7 @@ function WalletButton() {
               margin: "2px 0",
             }}
           />
-          <button
-            style={{ ...menuItem, color: isWrongNetwork ? "#cc0000" : "black" }}
-            onMouseEnter={(e) => {
-              e.currentTarget.style.background = "#000080";
-              e.currentTarget.style.color = "white";
-            }}
-            onMouseLeave={(e) => {
-              e.currentTarget.style.background = "transparent";
-              e.currentTarget.style.color = isWrongNetwork
-                ? "#cc0000"
-                : "black";
-            }}
-            onClick={() => {
-              setOpen(false);
-              switchToMegaETH();
-            }}
-          >
-            {isWrongNetwork ? "⚠ Switch to MegaETH" : "Switch Network"}
-          </button>
+
           <button
             style={menuItem}
             onMouseEnter={hoverOn}
@@ -977,7 +898,7 @@ function WalletButton() {
           alignItems: "center",
           gap: 8,
           padding: "6px 18px",
-          fontSize: 15,
+          fontSize: 19,
           fontFamily: "'Tahoma', Arial, sans-serif",
           fontWeight: "bold",
           background: "#c0c0c0",
@@ -1045,11 +966,11 @@ export default function Home() {
     {
       id: "quest",
       label: "Guardian Quest",
-      emoji: <Icon src="/put_file-removebg-preview.png" size={68} />,
+      emoji: <Icon src="/game.png" size={68} />,
       winConfig: {
         id: "quest",
         title: "Stuggies Guardian Quest",
-        icon: <Icon src="/put_file-removebg-preview.png" size={20} />,
+        icon: <Icon src="/game.png" size={20} />,
         content: <QuestContent />,
       },
     },
@@ -1167,9 +1088,7 @@ export default function Home() {
             onClick={() => bringToFront(win.id)}
           >
             <span>{win.icon}</span>
-            <span style={{ overflow: "hidden", textOverflow: "ellipsis" }}>
-              {win.title}
-            </span>
+ 
           </button>
         ))}
         <WalletButton />
