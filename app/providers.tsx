@@ -32,7 +32,7 @@ export const megaethMainnet = defineChain({
   blockExplorers: {
     default: {
       name: "MegaExplorer",
-      url: "https://megaeth.blockscout.com/address",
+      url: "https://megaeth.blockscout.com",
     },
   },
   testnet: false,
@@ -40,9 +40,9 @@ export const megaethMainnet = defineChain({
 
 // Simple config 
 export const wagmiConfig = createConfig({
-  chains: [megaethTestnet],
+  chains: [megaethMainnet],
   transports: {
-    [megaethTestnet.id]: http("https://carrot.megaeth.com/rpc"),
+    [megaethMainnet.id]: http("https://megaeth.blockscout.com/rpc"),
   },
 });
 
