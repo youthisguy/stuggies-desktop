@@ -3,7 +3,7 @@
 import { useEffect, useState, useCallback } from "react";
 import { ethers } from "ethers";
 import { createWalletClient, custom, createPublicClient, http } from "viem";
-import { megaethTestnet } from "viem/chains";
+
 import { usePrivy, useWallets } from "@privy-io/react-auth";
 import { GTD_WHITELIST } from "../whitelists/gtd";
 import { FCFS_WHITELIST } from "../whitelists/fcfs";
@@ -505,7 +505,7 @@ export default function MintStuggies() {
       const wallet = wallets[0];
       const provider = await wallet.getEthereumProvider();
       const walletClient = createWalletClient({
-        chain: megaethTestnet,
+        chain: megaethMainnet,
         transport: custom(provider),
       });
       const iface = new ethers.Interface(ABI);
@@ -519,7 +519,7 @@ export default function MintStuggies() {
         account: address as `0x${string}`,
       });
       const publicClient = createPublicClient({
-        chain: megaethTestnet,
+        chain: megaethMainnet,
         transport: http(RPC_URL),
       });
       const receipt = await publicClient.waitForTransactionReceipt({ hash });
@@ -651,7 +651,7 @@ export default function MintStuggies() {
       const wallet = wallets[0];
       const provider = await wallet.getEthereumProvider();
       const walletClient = createWalletClient({
-        chain: megaethTestnet,
+        chain: megaethMainnet,
         transport: custom(provider),
       });
   
@@ -731,7 +731,7 @@ export default function MintStuggies() {
       });
   
       const publicClient = createPublicClient({
-        chain: megaethTestnet,
+        chain: megaethMainnet,
         transport: http(RPC_URL),
       });
   
@@ -788,7 +788,7 @@ export default function MintStuggies() {
         const wallet = wallets[0];
         const provider = await wallet.getEthereumProvider();
         const walletClient = createWalletClient({
-          chain: megaethTestnet,
+          chain: megaethMainnet,
           transport: custom(provider),
         });
         const iface = new ethers.Interface(ABI);
@@ -808,7 +808,7 @@ export default function MintStuggies() {
           type: "loading",
         });
         const publicClient = createPublicClient({
-          chain: megaethTestnet,
+          chain: megaethMainnet,
           transport: http(RPC_URL),
         });
         const receipt = await publicClient.waitForTransactionReceipt({ hash });
@@ -1115,18 +1115,6 @@ export default function MintStuggies() {
             <div
               style={{
                 fontFamily: "'Share Tech Mono', monospace",
-                fontSize: 8,
-                color: pendingRewardsAmt > 0n ? "#00aa33" : "#555",
-                letterSpacing: 1,
-                textTransform: "uppercase" as const,
-                marginBottom: 2,
-              }}
-            >
-              CLAIMABLE REWARDS
-            </div>
-            <div
-              style={{
-                fontFamily: "'Share Tech Mono', monospace",
                 fontSize: 16,
                 fontWeight: "bold",
                 color: pendingRewardsAmt > 0n ? "#00ff41" : "#444",
@@ -1140,7 +1128,7 @@ export default function MintStuggies() {
               <div
                 style={{
                   fontFamily: "'Share Tech Mono', monospace",
-                  fontSize: 8,
+                  fontSize: 11,
                   color: "#555",
                   marginTop: 1,
                 }}
@@ -1468,7 +1456,7 @@ export default function MintStuggies() {
                 <div
                   style={{
                     fontFamily: "'Share Tech Mono', monospace",
-                    fontSize: 9,
+                    fontSize: 10,
                     color: "#555",
                     marginTop: 6,
                     marginBottom: 2,
@@ -1601,49 +1589,6 @@ export default function MintStuggies() {
               )}
             </div>
           )}
-
-          {/* Links */}
-          <div
-            style={{
-              display: "flex",
-              gap: 6,
-              flexWrap: "wrap" as const,
-              borderTop: "1px solid #c0c0c0",
-              paddingTop: 6,
-            }}
-          >
-            <W98Btn
-              href={`https://megaeth.blockscout.com/address/${CONTRACT_ADDRESS}`}
-              style={{ fontSize: 10, padding: "2px 8px" }}
-            >
-              🔍 Explorer
-            </W98Btn>
-            <W98Btn
-              href="https://x.com/TheStuggies"
-              style={{ fontSize: 10, padding: "2px 8px" }}
-            >
-              𝕏 Twitter
-            </W98Btn>
-            <W98Btn
-              href="https://discord.gg/UuRb2cJ3Zn"
-              style={{ fontSize: 10, padding: "2px 8px" }}
-            >
-              Discord
-            </W98Btn>
-            {lastRefresh && (
-              <span
-                style={{
-                  marginLeft: "auto",
-                  fontFamily: "'Share Tech Mono', monospace",
-                  fontSize: 9,
-                  color: "#808080",
-                  alignSelf: "center",
-                }}
-              >
-                Updated {lastRefresh.toLocaleTimeString()}
-              </span>
-            )}
-          </div>
         </>
       )}
 
