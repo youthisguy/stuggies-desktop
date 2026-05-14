@@ -8,7 +8,7 @@ import { usePrivy, useWallets } from "@privy-io/react-auth";
 import { GTD_WHITELIST } from "../whitelists/gtd";
 import { FCFS_WHITELIST } from "../whitelists/fcfs";
 
-const CONTRACT_ADDRESS = "0x54da13666hjrerr3beaA656EF4Fe996fED868E5b6FCcb2";
+const CONTRACT_ADDRESS = "0x";
 const RPC_URL = "https://carrot.megaeth.com/rpc";
 
 const BURN_REFUND_BPS = 5_000;
