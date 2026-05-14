@@ -27,7 +27,7 @@ export const megaethMainnet = defineChain({
   name: "MegaETH Mainnet",
   nativeCurrency: { name: "Ether", symbol: "ETH", decimals: 18 },
   rpcUrls: {
-    default: { http: ["https://megaeth.blockscout.com/rpc"] },
+    default: { http: ["https://mainnet.megaeth.com/rpc"] },
   },
   blockExplorers: {
     default: {

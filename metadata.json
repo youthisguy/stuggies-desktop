@@ -1,0 +1,8 @@
+{
+    "name": "Stuggies",
+    "description": "Stuggies",
+    "image": "https://ipfs.io/ipfs/bafkreidzzvndwytlncar7muvdfs3eekz3lstojbb5a4m73e7wg7uyzfbui",
+    "external_link": "https://x.com/TheStuggies",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0x620ea84d694783e2727Bf4575570344f0459026B"
+  }

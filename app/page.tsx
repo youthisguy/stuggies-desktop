@@ -527,7 +527,7 @@ function WalletButton() {
   useEffect(() => {
     if (!address || !isConnected) return;
   
-    fetch("https://megaeth.blockscout.com/rpc", {
+    fetch("https://mainnet.megaeth.com/rpc", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

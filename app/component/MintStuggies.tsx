@@ -7,9 +7,10 @@ import { megaethTestnet } from "viem/chains";
 import { usePrivy, useWallets } from "@privy-io/react-auth";
 import { GTD_WHITELIST } from "../whitelists/gtd";
 import { FCFS_WHITELIST } from "../whitelists/fcfs";
+import { megaethMainnet } from "../providers";
 
-const CONTRACT_ADDRESS = "0x";
-const RPC_URL = "https://carrot.megaeth.com/rpc";
+const CONTRACT_ADDRESS = "0xe1b4bF1f161aC892086E33a77169A5956b35c226";
+const RPC_URL = "https://mainnet.megaeth.com/rpc";
 
 const BURN_REFUND_BPS = 5_000;
 const BURN_HOLDER_BPS = 3_000;
@@ -642,9 +643,10 @@ export default function MintStuggies() {
       login();
       return;
     }
+  
     setIsMinting(true);
     setTxStatus({ msg: "Preparing transaction...", type: "loading" });
-
+  
     try {
       const wallet = wallets[0];
       const provider = await wallet.getEthereumProvider();
@@ -652,86 +654,104 @@ export default function MintStuggies() {
         chain: megaethTestnet,
         transport: custom(provider),
       });
+  
       const iface = new ethers.Interface(ABI);
       let data: string;
       let totalCost: bigint;
-
+  
+      // Normalize address
+      const rawAddress = user?.wallet?.address || user?.smartWallet?.address;
+      const lowerAddress = rawAddress?.toLowerCase();
+  
+      console.log("🔍 Mint Debug:", {
+        phase,
+        address: lowerAddress,
+        gtdData: !!userGTDData,
+        fcfsData: !!userFCFSData,
+        quantity,
+      });
+  
       if (phase === 1) {
+        // ==================== GTD ====================
         if (!userGTDData) throw new Error("Not whitelisted for GTD");
-
+  
         totalCost = gtdPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintGTD", [
           BigInt(quantity),
           BigInt(userGTDData.maxAlloc),
           userGTDData.proof,
         ]);
-      } else if (phase === 2) {
+      } 
+      else if (phase === 2) {
+        // ==================== FCFS ====================
         if (!userFCFSData) throw new Error("Not whitelisted for FCFS");
-        if (!address) throw new Error("No connected wallet detected.");
-        const walletData = FCFS_WHITELIST[address.toLowerCase()];
-        if (!walletData)
-          throw new Error(
-            `Wallet ${shortAddr(address)} is not whitelisted for FCFS`
-          );
+  
         totalCost = fcfsPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintFCFS", [
           BigInt(quantity),
-          BigInt(walletData.maxAlloc),
-          walletData.proof,
+          BigInt(userFCFSData.maxAlloc),
+          userFCFSData.proof,
         ]);
-      } else if (phase === 3) {
+      } 
+      else if (phase === 3) {
         totalCost = publicPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintPublic", [BigInt(quantity)]);
-      } else {
+      } 
+      else {
         throw new Error("Minting is not active");
       }
-
-      const GAS_PER_TOKEN: Record<number, number> = {
-        1: 170000,
-        2: 170000,
-        3: 180000,
-      };
-      const gasLimit = BigInt(
-        80000 + quantity * (GAS_PER_TOKEN[phase] ?? 180000)
-      );
-
+  
+      // ==================== GAS LIMIT ====================
+      let gasLimit: bigint;
+      if (phase === 1 || phase === 2) {
+        gasLimit = BigInt(450_000 + quantity * 300_000);  
+      } else {
+        gasLimit = BigInt(120_000 + quantity * 200_000);
+      }
+  
+      console.log(`⛽ Using gas: ${gasLimit.toString()}`);
+  
       setTxStatus({
-        msg: `Sending tx — ${fmtEth(totalCost)}`,
+        msg: `Sending ${quantity} Stuggy${quantity > 1 ? "s" : ""} — ${fmtEth(totalCost)}`,
         type: "loading",
       });
-
+  
       const hash = await walletClient.sendTransaction({
         to: CONTRACT_ADDRESS,
         value: totalCost,
         data: data as `0x${string}`,
         gas: gasLimit,
-        gasPrice: 1000000n,
-        account: loweraddress as `0x${string}`,
+        gasPrice: 1_000_000n,
+        account: lowerAddress as `0x${string}`,
       });
-
+  
       setTxStatus({
-        msg: `Tx sent: ${hash.slice(0, 12)}… Waiting for confirmation…`,
+        msg: `Tx sent: ${hash.slice(0, 12)}… Waiting...`,
         type: "loading",
       });
-
+  
       const publicClient = createPublicClient({
         chain: megaethTestnet,
         transport: http(RPC_URL),
       });
+  
       const receipt = await publicClient.waitForTransactionReceipt({ hash });
-
+  
       if (receipt.status === "success") {
         setTxStatus({
-          msg: `✅ Minted ${quantity} Stuggy${quantity > 1 ? "s" : ""}!`,
+          msg: `✅ Successfully minted ${quantity} Stuggy${quantity > 1 ? "s" : ""}!`,
           type: "ok",
         });
         await Promise.all([fetchPublicData(), fetchWalletData()]);
       } else {
-        throw new Error("Transaction reverted on-chain");
+        throw new Error("Transaction reverted");
       }
     } catch (err: any) {
-      console.error("Mint error:", err);
-      setTxStatus({ msg: `❌ ${err.message?.slice(0, 180)}`, type: "err" });
+      console.error("Full mint error:", err);
+      setTxStatus({
+        msg: `❌ ${err.message?.slice(0, 220)}`,
+        type: "err",
+      });
     } finally {
       setIsMinting(false);
     }
@@ -744,7 +764,9 @@ export default function MintStuggies() {
     gtdPrice,
     fcfsPrice,
     publicPrice,
-    address,
+    userGTDData,
+    userFCFSData,
+    user,
     fetchPublicData,
     fetchWalletData,
   ]);
