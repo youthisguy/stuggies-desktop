@@ -480,25 +480,23 @@ export default function MintStuggies() {
 
   const address: string | undefined =
     user?.wallet?.address || user?.smartWallet?.address;
-    const loweraddress = address ? address.toLowerCase() : undefined;
-    
-    const isGTDWhitelisted = !!GTD_WHITELIST[loweraddress as any];
-    const isFCFSWhitelisted = !!FCFS_WHITELIST[loweraddress as any];
-    
-    const userGTDData = GTD_WHITELIST[loweraddress as any];
-    const userFCFSData = FCFS_WHITELIST[loweraddress as any];
+  const loweraddress = address ? address.toLowerCase() : undefined;
 
+  const isGTDWhitelisted = !!GTD_WHITELIST[loweraddress as any];
+  const isFCFSWhitelisted = !!FCFS_WHITELIST[loweraddress as any];
 
+  const userGTDData = GTD_WHITELIST[loweraddress as any];
+  const userFCFSData = FCFS_WHITELIST[loweraddress as any];
 
-    const getReadContract = useCallback(
-      () =>
-        new ethers.Contract(
-          CONTRACT_ADDRESS,
-          ABI,
-          new ethers.JsonRpcProvider(RPC_URL)
-        ),
-      []
-    );
+  const getReadContract = useCallback(
+    () =>
+      new ethers.Contract(
+        CONTRACT_ADDRESS,
+        ABI,
+        new ethers.JsonRpcProvider(RPC_URL)
+      ),
+    []
+  );
 
   const sendAdminTx = useCallback(
     async (fnName: string, args: unknown[], value = 0n, gasLimit = 200000n) => {
@@ -660,14 +658,14 @@ export default function MintStuggies() {
 
       if (phase === 1) {
         if (!userGTDData) throw new Error("Not whitelisted for GTD");
-    
+
         totalCost = gtdPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintGTD", [
-            BigInt(quantity),
-            BigInt(userGTDData.maxAlloc),  
-            userGTDData.proof,
+          BigInt(quantity),
+          BigInt(userGTDData.maxAlloc),
+          userGTDData.proof,
         ]);
-    }else if (phase === 2) {
+      } else if (phase === 2) {
         if (!userFCFSData) throw new Error("Not whitelisted for FCFS");
         if (!address) throw new Error("No connected wallet detected.");
         const walletData = FCFS_WHITELIST[address.toLowerCase()];
@@ -682,7 +680,6 @@ export default function MintStuggies() {
           walletData.proof,
         ]);
       } else if (phase === 3) {
- 
         totalCost = publicPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintPublic", [BigInt(quantity)]);
       } else {
@@ -1289,7 +1286,6 @@ export default function MintStuggies() {
           {/* Wallet mint history */}
           {authenticated && wallets.length > 0 && (
             <Raised style={{ marginBottom: 8, background: "#f0f0f0" }}>
-         
               <div
                 style={{
                   fontFamily: "'Share Tech Mono', monospace",
@@ -1302,7 +1298,7 @@ export default function MintStuggies() {
               >
                 Your Mint History
               </div>
-              
+
               <div
                 style={{ display: "flex", gap: 6, flexWrap: "wrap" as const }}
               >
@@ -1339,19 +1335,23 @@ export default function MintStuggies() {
               >
                 {isGTDWhitelisted && (
                   <div style={{ color: "#006600", fontWeight: "bold" }}>
-                    ✅ GTD Whitelisted  
+                    ✅ GTD Whitelisted
                   </div>
                 )}
+
                 {isFCFSWhitelisted && (
                   <div style={{ color: "#006600", fontWeight: "bold" }}>
-                    ✅ FCFS Whitelisted  
+                    ✅ FCFS Whitelisted
                   </div>
                 )}
-                {!isGTDWhitelisted && !isFCFSWhitelisted && phase > 0 && (
-                  <div style={{ color: "#cc6600" }}>
-                    ⚠ Not whitelisted 
-                  </div>
-                )}
+
+                {!isGTDWhitelisted &&
+                  !isFCFSWhitelisted &&
+                  [0, 1, 2].includes(phase) && (
+                    <div style={{ color: "#cc6600", fontWeight: "bold" }}>
+                      ⚠ Not whitelisted
+                    </div>
+                  )}
               </div>
               {(phase === 1 || phase === 2) && (
                 <div
