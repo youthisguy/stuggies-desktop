@@ -1207,65 +1207,6 @@ export default function MintStuggies() {
             />
           </div>
 
-          {/* Phase info */}
-          <Raised style={{ marginBottom: 8 }}>
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                gap: 6,
-                marginBottom: 4,
-              }}
-            >
-              <div
-                style={{
-                  width: 10,
-                  height: 10,
-                  borderRadius: "50%",
-                  background: isPaused ? "#808080" : phaseColor,
-                  boxShadow: isPaused ? "none" : `0 0 6px ${phaseColor}`,
-                  flexShrink: 0,
-                }}
-              />
-              <span
-                style={{
-                  fontFamily: "'Share Tech Mono', monospace",
-                  fontSize: 12,
-                  fontWeight: "bold",
-                  color: isPaused ? "#808080" : phaseColor,
-                }}
-              >
-                {isPaused ? "⛔ MINTING PAUSED" : phaseLabel.toUpperCase()}
-              </span>
-              {!isPaused && !burnEnabled && (
-                <span
-                  style={{
-                    marginLeft: "auto",
-                    fontFamily: "'Share Tech Mono', monospace",
-                    fontSize: 9,
-                    color: "#cc6600",
-                    background: "#fff3cc",
-                    padding: "1px 5px",
-                  }}
-                >
-                  BURN DISABLED
-                </span>
-              )}
-            </div>
-            <div
-              style={{
-                fontFamily: "'Share Tech Mono', monospace",
-                fontSize: 10,
-                color: "#444",
-                lineHeight: 1.5,
-              }}
-            >
-              {isPaused
-                ? "The contract owner has paused minting. Check back soon."
-                : phaseDesc}
-            </div>
-          </Raised>
-
           {/* Price table */}
           <div
             style={{

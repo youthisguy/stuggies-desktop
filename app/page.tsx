@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback, useRef } from "react";
 import { useTraitFarmer } from "./hooks/useTraitFarmer";
 import StuggiesSniper from "./component/StuggiesSniper"
 import MintStuggies from "./component/MintStuggies";
+import { formatEther } from "viem";
 
 interface WinState {
   id: string;
@@ -525,14 +526,29 @@ function WalletButton() {
 
   useEffect(() => {
     if (!address || !isConnected) return;
+  
     fetch("https://megaeth.blockscout.com/rpc", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ jsonrpc: "2.0", method: "eth_getBalance", params: [address, "latest"], id: 1 }),
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        jsonrpc: "2.0",
+        method: "eth_getBalance",
+        params: [address, "latest"],
+        id: 1,
+      }),
     })
       .then((r) => r.json())
-      .then((d) => { const eth = Number(BigInt(d.result)) / 1e18; setBalance(eth.toFixed(4) + " ETH"); })
-      .catch(() => setBalance("— ETH"));
+      .then((d) => {
+        const balanceWei = BigInt(d.result);
+        const eth = formatEther(balanceWei);
+  
+        setBalance(`${Number(eth).toFixed(4)} ETH`);
+      })
+      .catch(() => {
+        setBalance("— ETH");
+      });
   }, [address, isConnected]);
 
   useEffect(() => {
@@ -574,7 +590,7 @@ function WalletButton() {
             </div>
           </div>
           <div style={{ height: 1, background: "#808080", borderBottom: "1px solid #fff", margin: "2px 0" }} />
-          <button style={menuItem} onMouseEnter={hoverOn} onMouseLeave={hoverOff} onClick={() => { setOpen(false); window.open("https://megaeth-testnet-v2.blockscout.com//address/" + address, "_blank"); }}>
+          <button style={menuItem} onMouseEnter={hoverOn} onMouseLeave={hoverOff} onClick={() => { setOpen(false); window.open("https://megaeth.blockscout.com/address/" + address, "_blank"); }}>
             View on Explorer
           </button>
           <div style={{ height: 1, background: "#808080", borderBottom: "1px solid #fff", margin: "2px 0" }} />
