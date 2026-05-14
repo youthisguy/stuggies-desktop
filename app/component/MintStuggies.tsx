@@ -682,7 +682,7 @@ export default function MintStuggies() {
           walletData.proof,
         ]);
       } else if (phase === 3) {
-        // Fixed price — straightforward, no maxPrice param needed
+ 
         totalCost = publicPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintPublic", [BigInt(quantity)]);
       } else {

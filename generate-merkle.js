@@ -2,16 +2,36 @@ const { ethers } = require("ethers");
 const { MerkleTree } = require("merkletreejs");
 const fs = require("fs");
 
-// ====================== LOAD ADDRESSES ======================
-const content = fs.readFileSync('addresses.txt', 'utf8');
-const addresses = content.match(/0x[a-fA-F0-9]{40}/g) || [];
+// ====================== CONFIG ======================
+const GTD_FILE = 'gtd.txt';    
+const FCFS_FILE = 'fcfs.txt';      
 
-const unique = [...new Set(addresses.map(a => a.toLowerCase()))];
+// ====================== LOAD GTD ADDRESSES ======================
+let gtdAddresses = [];
+if (fs.existsSync(GTD_FILE)) {
+  const gtdContent = fs.readFileSync(GTD_FILE, 'utf8');
+  gtdAddresses = gtdContent.match(/0x[a-fA-F0-9]{40}/g) || [];
+} else {
+  console.warn(`⚠️ ${GTD_FILE} not found!`);
+}
 
-console.log(`Found ${unique.length} unique addresses`);
+const uniqueGTD = [...new Set(gtdAddresses.map(a => a.toLowerCase()))];
+console.log(`Found ${uniqueGTD.length} unique GTD addresses`);
+
+// ====================== LOAD FCFS ADDRESSES ======================
+let fcfsAddresses = [];
+if (fs.existsSync(FCFS_FILE)) {
+  const fcfsContent = fs.readFileSync(FCFS_FILE, 'utf8');
+  fcfsAddresses = fcfsContent.match(/0x[a-fA-F0-9]{40}/g) || [];
+} else {
+  console.warn(`⚠️ ${FCFS_FILE} not found!`);
+}
+
+const uniqueFCFS = [...new Set(fcfsAddresses.map(a => a.toLowerCase()))];
+console.log(`Found ${uniqueFCFS.length} unique FCFS addresses`);
 
 // ====================== GTD WHITELIST ======================
-const GTD_LIST = unique.map(addr => ({
+const GTD_LIST = uniqueGTD.map(addr => ({
   address: addr,
   maxAlloc: 2
 }));
@@ -38,9 +58,9 @@ console.log("✅ GTD Whitelist generated → app/whitelists/gtd.ts");
 console.log("GTD Root:", gtdTree.getHexRoot());
 
 // ====================== FCFS WHITELIST ======================
-const FCFS_LIST = unique.map(addr => ({
+const FCFS_LIST = uniqueFCFS.map(addr => ({
   address: addr,
-  maxAlloc: 2
+  maxAlloc: 2   
 }));
 
 const fcfsLeaves = FCFS_LIST.map(({ address, maxAlloc }) =>
