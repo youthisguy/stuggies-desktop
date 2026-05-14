@@ -11,7 +11,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x367f99cf0d7817987d51209fa5f37e5149687800": {
@@ -26,7 +26,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd79767fe34fe8ce47f9fed9a4ec7b7ce30b305c5": {
@@ -41,7 +41,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa865c8cdfcd73b5c23371988c81daf7f364b395e": {
@@ -56,7 +56,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x04453c4a56c9eaddf4141fb64365cc69c2438fc4": {
@@ -71,7 +71,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x44f9575f84c84e6c3e678e35f9a98f49a8657046": {
@@ -86,7 +86,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x88f50b5596432c4501f63bc05f2e6c37071d53df": {
@@ -101,7 +101,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf8105ef3ea823fc6816e1ae1db53b1094c837841": {
@@ -116,7 +116,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x75f795b898505896aa4c46df691c0ea8208ddb75": {
@@ -131,7 +131,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x31bbb491db3cc88277ffc2f80330ac9d1b5c4c08": {
@@ -146,7 +146,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa02632ff0b80c02497cf2eb28524e0e26d03a46c": {
@@ -161,7 +161,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2c4109e0f6aa46986c66ddcd66c6c7c80cebb4d7": {
@@ -176,7 +176,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3dd24993b591acf91e089d8f4e620eb96f479d6a": {
@@ -191,7 +191,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x92cf1aec23a1faf66b294f68194dd442cf05764a": {
@@ -206,7 +206,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5d60886a6018088dbe8ff85e6b438ae409c7d193": {
@@ -221,7 +221,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x50ad4bbbea602dc54ef4def2dcc0ac10c2cb28ec": {
@@ -236,7 +236,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe2f3fe664e4d322df783b5b32cb083f4b6353ee3": {
@@ -251,7 +251,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb4f7b601242a75bc357e3d7676f2c3f069bd5045": {
@@ -266,7 +266,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x755a57f166ff78311be7e2bfe30a86e43913e1f7": {
@@ -281,7 +281,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x96ce599942240fd775f6614a479c05ff51d9c101": {
@@ -296,7 +296,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7ae44a7d950dfcb12c0a8cb07eb068548c59f4f1": {
@@ -311,7 +311,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd2006b70f02668d5e0e5f61185106dcf806c2b82": {
@@ -326,7 +326,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x892936dca0f45ff2f3b50542d355c37dffc06d40": {
@@ -341,7 +341,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1c1b6997f8b571076b10d40a7975a84018b027fc": {
@@ -356,7 +356,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5abe82034d66a6f6a28e5e109a78fa5d9b158568": {
@@ -371,7 +371,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9202ced291c1ed9afbe5eacdf3c8adf704fae70b": {
@@ -386,7 +386,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x55801facee1c6b5bac1b89ae11303a0275caa243": {
@@ -401,7 +401,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3498ffec0cb234a360bfc7401562f14c47701f6c": {
@@ -416,7 +416,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x17ca7c9fe9a586014a42578b68dd84751ec34475": {
@@ -431,7 +431,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4f9330aa86e6a73795295a1dfc3b9ea024ad566d": {
@@ -446,7 +446,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x6c7b3d768135299a59b2ca338b3b2c2ea6dc9f6f": {
@@ -461,7 +461,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf3903e462291ea580eb883e926a51cc3f51445d1": {
@@ -476,7 +476,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x30b4ce3fcdbb7c719394163520d5779863d614cf": {
@@ -491,7 +491,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x28f4bcaccba8d7d90650ba700ac541d0acd8f2e6": {
@@ -506,7 +506,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0ab1275872ffddbcfc85bf033e2df75351934dcd": {
@@ -521,7 +521,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5582fb4a3b2ea41e54f99b607442b16a4ae806a9": {
@@ -536,7 +536,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xcebc2f05436fead4e768602890bec6ec42e63e06": {
@@ -551,7 +551,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x384392158f7b46e1f4281a5b0fecdd149d5a3d49": {
@@ -566,7 +566,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd96ad7cf2de28e3984b7a52e02b6148e8b7e88d7": {
@@ -581,7 +581,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc864c5695df6c87b0e3c2cb3821bd42fc91e2cfa": {
@@ -596,7 +596,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x51965f32f318093e6fc9a72be029afa20f788467": {
@@ -611,7 +611,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5a02fb18c451e08641e5e57e1ffc9801d20495e7": {
@@ -626,7 +626,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x80b937dbc4608ef79845f80e323b0909fe11715d": {
@@ -641,7 +641,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x34f768eaf4560351eff3d8509aaf2f67856221b0": {
@@ -656,7 +656,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf2a9ea275238a92a71711bc4281695dfcdfba602": {
@@ -671,7 +671,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x05aff229b01287e16308e8cc6c18a595b181beb2": {
@@ -686,7 +686,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x514f2cbdac440f4d9d167435c81b4c016ef8fcc6": {
@@ -701,7 +701,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x79a778bf9d703350c5a84409733ae88a2f4d1914": {
@@ -716,7 +716,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x740328e1773f5a2791784c5f4b838efa3f788eac": {
@@ -731,7 +731,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9a4aa1c6e127a35f612811798df55a15864c721e": {
@@ -746,7 +746,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8f7d282f526b4c3d90757cdea39986c1401897b7": {
@@ -761,7 +761,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4efc9686c363b429adb85120626d695962c46e09": {
@@ -776,7 +776,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x896438e1f0eb4b113e0b09342fc8221a57246415": {
@@ -791,7 +791,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4b5964662a4e349dd4e571ff0247375ace300d1b": {
@@ -806,7 +806,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x948166149ec3be79d85e3630027cebeee435f9f2": {
@@ -821,7 +821,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf1eab8bbe60953d959f545bd11e9b1cd204f9cec": {
@@ -836,7 +836,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8cb222740f663720e96417c9f2ee9172371f9b38": {
@@ -851,7 +851,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x66ac78e6a8bd0ff19fe33194d941f097a22820d8": {
@@ -866,7 +866,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4874071329ed313c921509dc67eb6ced44dc0d79": {
@@ -881,7 +881,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb4b985938bb90a4b6a20990a992a601b27e74744": {
@@ -896,7 +896,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8ca5a1548f18c30d00585203204fbf2d529e8845": {
@@ -911,7 +911,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2458833541c6c636880c817573060735be8196d5": {
@@ -926,7 +926,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9d4e8521d741cc5771925ab701681ea0f053f9a8": {
@@ -941,7 +941,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x62ea5c712778a432afde87f71ae664d89ff5c556": {
@@ -956,7 +956,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7956fa06928b1fb26af7348f3bd5ddb7a3897aa0620dea4b7ffd25aef56790f7",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x96460009896c974c33fedfeff41890aba59fd768": {
@@ -971,7 +971,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3ea3488d06dd69e145ecad0c8523127562e22d8d": {
@@ -986,7 +986,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x95ab0297f75bf81f5a7c0695ccaecb7aeb4db9c7": {
@@ -1001,7 +1001,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x83c06f089f6d3e189e7719991507bdc63fd16d89": {
@@ -1016,7 +1016,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x6a601da66fecddae0eb929ba6f21d20e07cfbd7f": {
@@ -1031,7 +1031,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x54edf559433174fb71a83ba35b8b94012a50c9f3": {
@@ -1046,7 +1046,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1bc74123fd4cf53b49455d4a90fac3ab4fcdce46": {
@@ -1061,7 +1061,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd31c1a7f94e36ddf09e15f62e06d6dfa5398856e": {
@@ -1076,7 +1076,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xcd859825de93bbada3214d17631d6283b20c4ad3": {
@@ -1091,7 +1091,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x06e736c392e46ac2cb69009b42ee8df2af5c9bbc": {
@@ -1106,7 +1106,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc4f8b866382cd91033f952f4e7b7d670a3c15947": {
@@ -1121,7 +1121,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb116977a5a87fa86ec5d5c5080011d8e7b4fd545": {
@@ -1136,7 +1136,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x77e2034c789cc82e01d21b320425fcb392d11b92": {
@@ -1151,7 +1151,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x77c9d0a8f390abb2a344c948f488f90edf538d8a": {
@@ -1166,7 +1166,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9c9575bea7f25a3ecbaa962d1aafcfab1166c7b2": {
@@ -1181,7 +1181,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x03a4dc5ff4730fd6c1bf2fcfb5d7c227bb0bc62c": {
@@ -1196,7 +1196,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0e6d3d3556dbaa112e49deb24d20c0a2ba93781c": {
@@ -1211,7 +1211,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe25c55ece21e091dd21fe170663617705147532b": {
@@ -1226,7 +1226,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x244c71c2ffad99e9e7f5046697aa6d3fd551120f": {
@@ -1241,7 +1241,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x15d8c77ed0088f5e492a3834a647399bfd776169": {
@@ -1256,7 +1256,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x921b7abecdb74533bbf6eb3ccaed5ae9f9167355": {
@@ -1271,7 +1271,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x60328df7fcb5b80708174cf614cbbe82968b7a98": {
@@ -1286,7 +1286,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0a068014def4ccce20a3ba45b8aefaff3378c403": {
@@ -1301,7 +1301,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdcdc3cbba9c7e97ef422205c4f017f330cda45b3": {
@@ -1316,7 +1316,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdd2b53c66b42e1b793d4cb1829f7a3326146a453": {
@@ -1331,7 +1331,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x90e78c1794043b37312b8f2291fc5714eeb8ae1b": {
@@ -1346,7 +1346,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x84eb19f0376e8188dd254895281205310111dbba": {
@@ -1361,7 +1361,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x548a3f61f95df5ca026c6e53452f5ae7e0294e5d": {
@@ -1376,7 +1376,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x667b8f9f730343db6f1af6fe5918ce9220b81d12": {
@@ -1391,7 +1391,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x34c9f402b1cf5e738d49986d7bd3daa11dcd2e4a": {
@@ -1406,7 +1406,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x53af8e051e738faa0bde2ead8f369d97c0373b97": {
@@ -1421,7 +1421,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x23a211241806e38c80acccfd3e18f123a4193607": {
@@ -1436,7 +1436,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5c02ede955797037259300652379437935c55b95": {
@@ -1451,7 +1451,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4b5fa412bc3a8dcbf3c5d476aaf9fafed5cbb81b": {
@@ -1466,7 +1466,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x966c7f93feb30af9081f163a293fa348cff40993": {
@@ -1481,7 +1481,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x594c84c13a459fbeb6cb22ed09aca7ca7fc3e5c8": {
@@ -1496,7 +1496,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4aa1f47589dbc6784e9ebc1dd98bb35223ef69cc": {
@@ -1511,7 +1511,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x77d059c2b67eeba64d46c6c630ee38a878885f99": {
@@ -1526,7 +1526,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x86cc4d81becb786f1af7d50252acdbe75a4963d4": {
@@ -1541,7 +1541,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x781d27a705518665056cc76a5f5696303c3ea4f0": {
@@ -1556,7 +1556,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfd45b4ca27aaeca4810bf188489b306ffc3cbf75": {
@@ -1571,7 +1571,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x58ac0762af184995406d6d01553d2e5149ab49a6": {
@@ -1586,7 +1586,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf1a62cfaee2cccb09039e950180bf624e57f8e06": {
@@ -1601,7 +1601,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfefea74ec4db7bba923bac5ec58cf01c7bd038d4": {
@@ -1616,7 +1616,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x62ec548ca92ba55b210f55e1f0ba0c039edf5cb0": {
@@ -1631,7 +1631,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8083f3426a13b334e853f2e07d841c20872d1629": {
@@ -1646,7 +1646,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb57e20c15c19d172af38211170c1f7181a49a3b4": {
@@ -1661,7 +1661,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7068e1fceb1aa0e528ae57f768f2dafc01a32a2a": {
@@ -1676,7 +1676,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe6143afdd60db7e847c7f855b35593323eb83fe9": {
@@ -1691,7 +1691,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0e1fa307740176358d5ce699d89abfbff9adbd71": {
@@ -1706,7 +1706,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xde1201fc7c18e5a4e6e50d478a7e9790b7f69ab1": {
@@ -1721,7 +1721,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x779847b1b870a69d2a6c9d10584d185d420a4f66": {
@@ -1736,7 +1736,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0b8ea841c171db4d1db9f1575d4d4bb0140c80ee": {
@@ -1751,7 +1751,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4d6e80c44dda320da17737c14e83ec881651e06c": {
@@ -1766,7 +1766,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9d1debe60c9d7c1d7e107cdbbb32790f87963558": {
@@ -1781,7 +1781,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x175a52f0eb25b44e7ce480aa89ad88e1a6d78935": {
@@ -1796,7 +1796,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7370db4f0454c896cf3abe37f25d37bfa98e67d2": {
@@ -1811,7 +1811,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x330fc61d3ea0a42433a512727e279e87701ae8e0": {
@@ -1826,7 +1826,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc69d2a08a91eced82f0cd705f1661eca1d133499": {
@@ -1841,7 +1841,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe756ac0a1a0c7ecacd9f1b13113f22396aca3d75": {
@@ -1856,7 +1856,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xab38c3099aa20820786d72a9b0663aab8664315d": {
@@ -1871,7 +1871,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfc5b382c3bbe13e6e24ef971d288054b12647899": {
@@ -1886,7 +1886,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x14475f3b886634dcd501ebc0fd555660946f52b8": {
@@ -1901,7 +1901,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x242a1f9bb7348936170b7125f2286f107e4c0729": {
@@ -1916,7 +1916,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x05c5b460f8a151c065b5de1d5c3b8673304911567373bf6e7d21e1d03ae2462a",
       "0x173f9e549d725ddcb4964fe6714bbaf5dc42edf0559215c08bad1950fce65f98",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf8b3f7526fb2f6467b4c1c1f7ebac4977e181cc4": {
@@ -1931,7 +1931,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9a06b26304dd2361a0347b26c4d27791fe838704": {
@@ -1946,7 +1946,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1c48abd66fe9a71413c2efcd0fbd582134fcea96": {
@@ -1961,7 +1961,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x61519cc173d36c092ec86e0176ae3b94cd49eee9": {
@@ -1976,7 +1976,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x89873d21fcf7306b25464d2330d1a71050cc1698": {
@@ -1991,7 +1991,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8c7d340e5387febccbd54e56b97197cb0153c924": {
@@ -2006,7 +2006,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x17f145ac11d4eaeb8e78fd554946424f9609d086": {
@@ -2021,7 +2021,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xadb94f951c9c551ee0fd24683f5bf6ddb1495469": {
@@ -2036,7 +2036,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x85495cc16306430fe978c9edd298c762acba3d28": {
@@ -2051,7 +2051,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3e08151c986a4acee85e46205d3b7f2cd9097104": {
@@ -2066,7 +2066,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa544d409a191d6b814c3c7bee55d51a6fd434391": {
@@ -2081,7 +2081,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf40c4d8b0c3a82f3fd31c11d9ed90a74b16444a2": {
@@ -2096,7 +2096,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2e550a3a72ca26ce179fe682872218d1880f1eb6": {
@@ -2111,7 +2111,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x037c53953969bcc97f19ede19e17afdf9ef94f44": {
@@ -2126,7 +2126,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x31b9dbd24eb272151a04202e34c2326e66ef044f": {
@@ -2141,7 +2141,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xce70173b2208ad367c085a7d0ac5489fffa71e8e": {
@@ -2156,7 +2156,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x28b5c779275491c270a6ee2d9d642b542cb1a218": {
@@ -2171,7 +2171,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x6d4af0d0e81c9cdfd060c3a8143ed968112f2bcf": {
@@ -2186,7 +2186,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3e561ecef09e55ce0151f25dfc42b45037cfc9f4": {
@@ -2201,7 +2201,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x57afdba7f37bce0614ee6a3fd64bff00e945ced6": {
@@ -2216,7 +2216,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x914bb4805b155a8e8add54a34daef23dd48baf0f": {
@@ -2231,7 +2231,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x09ad381a029bc76f2813e29f8e09ea9cc2e57d10": {
@@ -2246,7 +2246,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x920607fe8ee663105fee7e09a03213b8398ff4f7": {
@@ -2261,7 +2261,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0e24310ff634c1b252aaf25109e23bd43d3a3200": {
@@ -2276,7 +2276,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4812771cfd13927a92015b410daeee4ef3f70b19": {
@@ -2291,7 +2291,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2e2d530c7c3644fe0443c842ff04693f155382fc": {
@@ -2306,7 +2306,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc0d2cc7c6dbba837142ae4fd2c7c821c4ecbff58": {
@@ -2321,7 +2321,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd6bc04416ba6d242ee8161bf79bfc3fd02df4780": {
@@ -2336,7 +2336,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb626e9f50ec890baaa0e7c7f4e7cc5826bf30460": {
@@ -2351,7 +2351,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x6e0fb46d3f77faa1dca02223844ad5e09ce5a038": {
@@ -2366,7 +2366,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x04d21350c04e7ba4f9b9aae31c1209915f50eef0": {
@@ -2381,7 +2381,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x977dd615122ce1af3184498a71004780b7fcd7e9": {
@@ -2396,7 +2396,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x30b63b7a9348a2aa2d2dcc7d21af52ce7e318077": {
@@ -2411,7 +2411,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xbbf8330eff900cbeddf482e7cbaecaef90c36ef9": {
@@ -2426,7 +2426,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4eb859fc83977267fbb6ae1066a51fb4c9086c28": {
@@ -2441,7 +2441,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x85a102ef086409cfd63d2627038ce532f25b2418": {
@@ -2456,7 +2456,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x42bc5d30efd6890ecccbaa117d3cb5595b5b8c9c": {
@@ -2471,7 +2471,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4e99d276f8076833c015e2866377c48e8d10d66c": {
@@ -2486,7 +2486,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0ae7a6733c3c9904d6f4fe4dbef46fd1a1d60d16": {
@@ -2501,7 +2501,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9c7e43b85892bc80e7460ad6c60e100373c70969": {
@@ -2516,7 +2516,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xff6232ab2d5dbc364bf5540cea8beeb7dd194c2d": {
@@ -2531,7 +2531,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xda08bdf602949458966a66aea5d7ab83050b239f": {
@@ -2546,7 +2546,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x85e254f70895cc86cc62b1db8f8030cf21e385cf": {
@@ -2561,7 +2561,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4e7adf7c3606b77f14f5f5f147c3852cae5d3a03": {
@@ -2576,7 +2576,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe9424d4122a8eab59fdbbe4eface122757d1ed5f": {
@@ -2591,7 +2591,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xff67ab3aaa6ec381ebd462ded06677133ec70d92": {
@@ -2606,7 +2606,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe903005d68ecb494d0ae796cc3c5735c2ef72af3": {
@@ -2621,7 +2621,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb646a14fd2f387dbaa567cb7d7a6f3f5eb76954c": {
@@ -2636,7 +2636,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x830135ae184b64253e1ff982fd9adb44f402583f": {
@@ -2651,7 +2651,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7b2c1fd5cf4df522add71e846645e3671e20b393": {
@@ -2666,7 +2666,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xacb3491fddfc8ab02eb49109eef89076052d9b54": {
@@ -2681,7 +2681,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xedf7664155361bf8f2d0ea2451af4b8f2a333f44": {
@@ -2696,7 +2696,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x18528a97c4b2bd234ba4daa9425ccfbe44576e5e": {
@@ -2711,7 +2711,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4a39a484c613a82740e766e81b3c5d9d5ef687e5": {
@@ -2726,7 +2726,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7b7733d46e3582e9af0c6418be532af5a21a812b": {
@@ -2741,7 +2741,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5a940c18a6048a7087fdcffbf473154627047cc4": {
@@ -2756,7 +2756,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb4d64772218d36f97974e8bb6ef0d01b026c9a14": {
@@ -2771,7 +2771,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x04ba1e0082c1abfee88e50b656a4264fae15d2e1": {
@@ -2786,7 +2786,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0390628137c1cde7523b15611082deacf1f8159b": {
@@ -2801,7 +2801,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x26d87a57d246a47cf1bb44ebe5416b8b834f03d1": {
@@ -2816,7 +2816,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xddf0755360e2ab3e09ec1f000adab38026abd9f7": {
@@ -2831,7 +2831,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc60e45f7edeca6a26a701ac619eec89c924a7194": {
@@ -2846,7 +2846,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfbd34b9d5b13199544d8e645ee1360cd5cf1e969": {
@@ -2861,7 +2861,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf17e8489f615de49d4d9fb95c13acec0f9db07c6": {
@@ -2876,7 +2876,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x72f9465018d74bf18f0b3910be093c89ed735e4a26e9880ac674ebdde85e3d15",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xca1000a505824850731a4bc2cfdbee26f24890da": {
@@ -2891,7 +2891,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x16b83c6346af6e876586683b15b9ebce3a2032ec": {
@@ -2906,7 +2906,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xda23e87d6ba6f5a6c7e9e427ab44baa54cda4dd6": {
@@ -2921,7 +2921,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x286774a71ce14ee8d4e54dc0e2540123838457da": {
@@ -2936,7 +2936,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb5e3b51ba0cd44213b18b91fd72e6c2330e49779": {
@@ -2951,7 +2951,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc8bdec17fd62c6ac925b4c6a2f0fcd145dffb1c4": {
@@ -2966,7 +2966,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x387bcf56d0efed11ab05a0d470d2d2f40733cbcb": {
@@ -2981,7 +2981,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf1000a2582168b9125aa1e810b9c72245f0f420d": {
@@ -2996,7 +2996,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8d785bba7e2b6e745e975f7db774f39432a8bf2e": {
@@ -3011,7 +3011,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd9eda7e1137d1cd8a308b0d94ec8f151a3b16a81": {
@@ -3026,7 +3026,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4ae2f96549b6446cca3151ad522bc79152c695b9": {
@@ -3041,7 +3041,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x25d4ba950468a8c31c0a7e853157aba21c7af1ad": {
@@ -3056,7 +3056,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1cf44da99525f18917882c2835082404feb3a019": {
@@ -3071,7 +3071,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe332ebcf92b2dc0d99db6ed436e34eddf502d758": {
@@ -3086,7 +3086,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd2cde3a0e267b7f8cff979ee9dc5ae0a8304ec10": {
@@ -3101,7 +3101,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xabbff2c9d209e982d9b99cc340d0c1e0e127670b": {
@@ -3116,7 +3116,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xeff808386b91ab8493e745428aee7685f000e85b": {
@@ -3131,7 +3131,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1cdb5fba510200660efdbfd1e8b3c34c1f52d6fc": {
@@ -3146,7 +3146,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7bf430aaf3e04b41226d30f21d121873c3bf9b0f": {
@@ -3161,7 +3161,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5340cce8bf504f15c7cb286268e858b37037d47d": {
@@ -3176,7 +3176,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc7fc5dfbccbee5f201f721d029668a3a70f7dab8": {
@@ -3191,7 +3191,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x75ce876487f37c569aaedb5600bf4b7ae016d1b4": {
@@ -3206,7 +3206,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9797b1b31afd90c89a0aa8d6fb06618826d24bd8": {
@@ -3221,7 +3221,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfcff679c2e1ab7bfc4cd3c463447554164c82ff4": {
@@ -3236,7 +3236,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf6dd849a1c72e4fbd9c8c1d06de5660c0af3e67e": {
@@ -3251,7 +3251,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xebcce846004412e4bcb14275db1edebdbfb6fc11": {
@@ -3266,7 +3266,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x104adc806c74df53db16d59c177db1bf59d417c8": {
@@ -3281,7 +3281,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x610a75d0afc7bee1300b498911d4eeeb4c3cf2c9": {
@@ -3296,7 +3296,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xafeac3147692cb232036f9874dd45d64f656a580": {
@@ -3311,7 +3311,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1897fc1c5880b3e08a47194a6bdd5960fb7f4f10": {
@@ -3326,7 +3326,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa1b1ec6ead8cefa028df12609f38eedac356a697": {
@@ -3341,7 +3341,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf19567aaae715129edb7b85968018b9e58f4f9e9": {
@@ -3356,7 +3356,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb1abcee8c8b71b956330c141c03d77ae0340a6d5": {
@@ -3371,7 +3371,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x79b4b1cabea754114c5c8d41c7f7cdbf5b18b193": {
@@ -3386,7 +3386,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4aa0ee281dece34a93571482364132b52708f211": {
@@ -3401,7 +3401,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf0b80d89e7c4865a418e9bf998cb9856b44c293e": {
@@ -3416,7 +3416,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5fc9a8d1f1d933422ef0e017587a2263cef06209": {
@@ -3431,7 +3431,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8d32911f035a71ede1f5bf68f425425f445e2c9b": {
@@ -3446,7 +3446,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x60990a5c8c35bde226bef5f0d5bb4a72d0cfeaf4": {
@@ -3461,7 +3461,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x779f8ad1724adb4c239d3e112a7d336e8452262b": {
@@ -3476,7 +3476,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x384b0cf12181a334914acea657d87e0a819bf9de": {
@@ -3491,7 +3491,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8005483ca27ac30ac2a52b1d4deb45e5b5381f89": {
@@ -3506,7 +3506,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1ae55c0005758d43fb804f297921434bb0d41545": {
@@ -3521,7 +3521,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5d7d30c4c793d3d0655c6550ec610203fd42ec3c": {
@@ -3536,7 +3536,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf5d105e9807900ab00e93b93c6fdf662fbd09e21": {
@@ -3551,7 +3551,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x18c915a3d828193003145adeefb10642ee005a16": {
@@ -3566,7 +3566,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x282c2a6899adda8e66e66bc33b58a5e9533c485f": {
@@ -3581,7 +3581,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4869683fd322db331bb9106ace256e131cdd0f1c": {
@@ -3596,7 +3596,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb9b55938c62c0085f5c9dff35bdf7f97f090f189": {
@@ -3611,7 +3611,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe299ad461999c9c5c4019da4aa329532dad882fe": {
@@ -3626,7 +3626,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x951cb2be9e2124e2d95f7838efa72536e74c1f99": {
@@ -3641,7 +3641,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x01039d9b9273ab9ae25dc1d972998448ec728f50": {
@@ -3656,7 +3656,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x10e57ede07c4f7580b988e00dc00d35e5205a10c": {
@@ -3671,7 +3671,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0b8caf78b16af40e5bdfe73b7e5ed3c1931452f5": {
@@ -3686,7 +3686,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa2d9155ec21a36f3a563f1ed848b6373373980cb": {
@@ -3701,7 +3701,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x84dc2f754acf98495e760e4b87114c131a3e0f9e": {
@@ -3716,7 +3716,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe3672ceaed83ccb60811247d82765a7f599b001d": {
@@ -3731,7 +3731,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfd0296c001081b5da08239a6b9f7c53e67efa0e4": {
@@ -3746,7 +3746,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5e028718bff8e20f0ad4c05ebf1270fdbd750a05": {
@@ -3761,7 +3761,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4ada8cee70f483250eef27b6a5ea6bf2835b6c2a": {
@@ -3776,7 +3776,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xbfe0e32c2000127eb0b629acb8b2ee04e7d60c68": {
@@ -3791,7 +3791,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2003a546f3827f2861976351bd66ba6fb347769f": {
@@ -3806,7 +3806,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2852be6e62b30076751464204cacd638d7577863": {
@@ -3821,7 +3821,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x17829e71cde000133d1f049d99f7cdd5713b318a": {
@@ -3836,7 +3836,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x283209e999f79e7b3f3633b9886e2e057a06102b3e0a4c6ea3edfd8781806cd1",
       "0x1c14b8b0647e2254e13f26e505b2fc215a9a77ff69bbede57717b66b0e124145",
       "0x64e6d049f97f73cab6097241514896cc69f49e33b490a86fbcd5c77be9ff213a",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x08a237e63a5396d9e6c72dded7e96745aa32d629": {
@@ -3851,7 +3851,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x91d12613c243d8db45d1b023814f13e9bf824e63": {
@@ -3866,7 +3866,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe06ac90395bab66d91f76306bbead9898ac27ba8": {
@@ -3881,7 +3881,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd6dfa1b983a6a67156f411f3b0305993fb7ecb0f": {
@@ -3896,7 +3896,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xcb8ff6747b497e6e79f2f80aa03de621a7a7ac94": {
@@ -3911,7 +3911,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa40be7834e8be36682c53646a98677928a7a4918": {
@@ -3926,7 +3926,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x254e74fceb499c091126dee2da070b9089de7e9f": {
@@ -3941,7 +3941,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc934b323406661bef8df582f9df1ccfc23faf8b6": {
@@ -3956,7 +3956,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc195e4cf766faa42f77a127c93d6a4548766a5b6": {
@@ -3971,7 +3971,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xac775d6484c2eac3cca6131bb6ec9cc142f7b17b": {
@@ -3986,7 +3986,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x27366a41721311d04a68b5860169e60991a28358": {
@@ -4001,7 +4001,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x97fd469dbee2c3649fd35e0c2530dc7d91d8993f": {
@@ -4016,7 +4016,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8027669903efdbd6a90eb4962fe7702ce4b0869b": {
@@ -4031,7 +4031,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xaeb79cf6aa81bd82f4236913bd71df297c8f06ee": {
@@ -4046,7 +4046,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7a6b7e4c0168e5a3f9d4ad4ad47557319cfff4fd": {
@@ -4061,7 +4061,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe9f9e6a10115c1ca4a90a1ba5d3235e6389cb216": {
@@ -4076,7 +4076,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x76d8f557a4d42732b0ad5fa5d2bd0e0a1fcd402a": {
@@ -4091,7 +4091,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xaa6e2a09eb9313be5a4894596ba3a37f66634ab8": {
@@ -4106,7 +4106,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd31511223e5f49e735896ddc660f829414e3e8bd": {
@@ -4121,7 +4121,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc1154557bde7aedd3b617d28d945c7944a06f583": {
@@ -4136,7 +4136,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa3c7b9efdbb3b226efb62f5e570302e28f906616": {
@@ -4151,7 +4151,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x29105bd47f3820e8e4077e10bb99947d2a5c7dd8": {
@@ -4166,7 +4166,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x627dc87b468728e0e72d848a49696f5c6f1c9611": {
@@ -4181,7 +4181,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe0443ebefb70c9df0a6f2e1741cc2294df65b65e": {
@@ -4196,7 +4196,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x240d14d890985a8cf4c6387736d5a09c8b6dd1b7": {
@@ -4211,7 +4211,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdb800a9cde7fe83a8fbf401bb4547448fd4d47b8": {
@@ -4226,7 +4226,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x6c67fb6cce96c48ba484ff6d5a7ddc9d0a275010": {
@@ -4241,7 +4241,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc6f86b392c918011707db8f10a11cce5a6ce52de": {
@@ -4256,7 +4256,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf80caf68e40d9d68a16697ed636e98ab3fc17f52": {
@@ -4271,7 +4271,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xec0188f815d6bd1534d487c322e48531f5608f0e": {
@@ -4286,7 +4286,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xad83a251d805446040b4add476f167724d3f444a": {
@@ -4301,7 +4301,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x95904122436e327987f0a6049b57ef39bd1b914c": {
@@ -4316,7 +4316,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8fd7dc7c1036fce00d9f3082f1ace5dbd3e64fe4": {
@@ -4331,7 +4331,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfe4a1d85b3a2661b276568ea609492d1e81c9541": {
@@ -4346,7 +4346,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xcaa0335b19c05cc424fe60de6c01fb5863f68db1": {
@@ -4361,7 +4361,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x65559c124b9873c5733c779262fbac9b85b3a43a": {
@@ -4376,7 +4376,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4a226e26a5e3c34ee1f499e6d23239916afbc983": {
@@ -4391,7 +4391,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf5c00a5a626f6de3ef2da39e41fab33eea880451": {
@@ -4406,7 +4406,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x77f8f0c87a3f8144bc71edeb98e79cdba0dd5124": {
@@ -4421,7 +4421,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1782c233e90b7c4cf3e659c6ddf0b39b90715c31": {
@@ -4436,7 +4436,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7ab7196d4d9569aa9ddd95720eb63e06aa2071f4": {
@@ -4451,7 +4451,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa71710de0426f5fba6e9e63e61f426070735fe75": {
@@ -4466,7 +4466,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2e24a143c06aa02974ff37754bd140fd4db1095e": {
@@ -4481,7 +4481,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x53a984a852a9a8e8f3df6ae060c93a38b11ca9ac": {
@@ -4496,7 +4496,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9887ede7099780085c844b4bb756df149fe1c791": {
@@ -4511,7 +4511,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdbe1cbee07aa2d849fbb492a8e15182c2ce40f62": {
@@ -4526,7 +4526,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc7e98f9027a971f63880fead7191074c8bcacccd": {
@@ -4541,7 +4541,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x55f5a1af6a61dcef2e5841bb79c5ae9cdca8b88f": {
@@ -4556,7 +4556,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4d411b7929c37d4d7e2ba14b20225179c4748d49": {
@@ -4571,7 +4571,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x92d0be614ba3cd8884c790faa8f208266fd79683": {
@@ -4586,7 +4586,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5f7a7d102165f868c7bcea2e5c9c34875ff0391f": {
@@ -4601,7 +4601,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x01bdea1495c737fa416b337a0f4074ed68c730a6": {
@@ -4616,7 +4616,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x51e8c24a163a391a334e6850e49ad9c22281bf87": {
@@ -4631,7 +4631,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb1f87a2e4ed22f0bbef378bab670c6f56e55e96e": {
@@ -4646,7 +4646,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x69180d0598e43ceafa2cf7839926c18c7b271f2a": {
@@ -4661,7 +4661,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe647898eeca8b8e564c25f19416767ee22bc953b": {
@@ -4676,7 +4676,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x55095fc6ba14c8e473e62dbe87950bc59904625e": {
@@ -4691,7 +4691,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe08df3703452317fbc65eb555c19c33644f8a5f3": {
@@ -4706,7 +4706,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x489396d49e60856ed2663b78e31264d02e368c94": {
@@ -4721,7 +4721,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x05bdef94ddf14c1fb9db4358d883bc412d244441": {
@@ -4736,7 +4736,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0a6620fdede827abaf127551888816c61a53a9ba": {
@@ -4751,7 +4751,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd02a6bcc4a4a62e00519ed55ccdd962c057801a3": {
@@ -4766,7 +4766,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfbe50ecfa876a84058b40eeb6127de7378b90ca2": {
@@ -4781,7 +4781,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf7683e76776b73ec2a95eabdc4dde9786bfdcc3b": {
@@ -4796,7 +4796,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x61d2b5aa4ef4abbed234780eb0cfedebaef3fefaece923bd72aefb4ceeecf413",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdb154439aea3bfdc3268a0db3d7708d5d8913a82": {
@@ -4811,7 +4811,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2c386735d83f92ee0e7be7453bcfeb40b3bb2ae1": {
@@ -4826,7 +4826,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3a3d03f3d3f0799cfb83ca8e68523a89dfaf1d73": {
@@ -4841,7 +4841,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4cdaaeed4cf0a042f4d19b91914cd3a142487c93": {
@@ -4856,7 +4856,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc1b94b9bc9e19126c05a9673fa5a966419942417": {
@@ -4871,7 +4871,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdaa6c40762712a106c02f9656d898138379cd30e": {
@@ -4886,7 +4886,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x19ef5af654e6fbd847788189f2c664d2613a367b": {
@@ -4901,7 +4901,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x25210d726d125347193490aa02da6760dec116a6": {
@@ -4916,7 +4916,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x703adb7019ea5be7ca369e5b2020cde50b821891": {
@@ -4931,7 +4931,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdffa6e03ab3510e821e04945e84e6626e115375d": {
@@ -4946,7 +4946,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4fb37d2350af7fd41c5b7b2351446901bb59bb8f": {
@@ -4961,7 +4961,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x442619db929feca5f0021ce9926bb363711d4069": {
@@ -4976,7 +4976,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3fac8f19983d4d4dab4cf07a4078baaae04a70d4": {
@@ -4991,7 +4991,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb164dfd34941cce763e21b9aaad7ee6d889fedb0": {
@@ -5006,7 +5006,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc0ef1c502d8652588b95534925b8ec31c6948c7c": {
@@ -5021,7 +5021,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x53543b400692e804c42f8f59d5fe2d9bb49e6bc9": {
@@ -5036,7 +5036,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xab989655a689762b37fbc26734f18e044bfe41b3": {
@@ -5051,7 +5051,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb471b2ee1a39ae1f7c076a0cb0395e938a527aa3": {
@@ -5066,7 +5066,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc4884873ca51a309fac8f308a44fca4d5df6721a": {
@@ -5081,7 +5081,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe3a881cc4b7ebb4651a80f5a2c3df9656f41ca10": {
@@ -5096,7 +5096,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf0d1db846112e4b5f3ada65e311352fbc77063c7": {
@@ -5111,7 +5111,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2171430b0a3df11bd6c1b73e61eafc14138aaba2": {
@@ -5126,7 +5126,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xef4ae592d96ad0ab7e528f13cb86c5122b78f52b": {
@@ -5141,7 +5141,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x480c595b754c6cdf92b6dfdb1e96492f17f8e99d": {
@@ -5156,7 +5156,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x34bc2045512d06d0a1b9a39856eca91fd1b0d7ff": {
@@ -5171,7 +5171,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xef2c29c58d144a8644d22f2b01eec807bad4820c": {
@@ -5186,7 +5186,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x660037abc31a6f279c601d80d1507c4885c655a5": {
@@ -5201,7 +5201,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe77051cb1efa1317350bfa5d3692de7c5f156b2e": {
@@ -5216,7 +5216,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1228a0ee306d394a73caac64addafb6fb52a7366": {
@@ -5231,7 +5231,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xee0c61d4fab3167c8ebab39eb2f7e417282c5f6b": {
@@ -5246,7 +5246,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x966f0abdd46004155c71e824624fb6a4f577959e": {
@@ -5261,7 +5261,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5e0a68ee5b5bb16d7b0e0580c75d9284bc09158e": {
@@ -5276,7 +5276,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0d35dab7ec71c943a74bb4e885fd4b0e9e29b70b": {
@@ -5291,7 +5291,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x36fef48e3609d93157128941d948debd0626df1f": {
@@ -5306,7 +5306,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa309f1ed0081b0e3adecc3c3d92114b4b7b81e94": {
@@ -5321,7 +5321,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4cd6435ce1c6e391779e234a12bcd2b3fbc47c39": {
@@ -5336,7 +5336,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1b5ebaace21877999e9c8c9ae5cdebba2a981ce0": {
@@ -5351,7 +5351,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd71640a8ea783c45e64e6a0a35c2a55737c058cc": {
@@ -5366,7 +5366,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5cb4cb257e2f2a956d9da301841de33de06a6505": {
@@ -5381,7 +5381,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x038f448426f8e3010dd24d99b13b4a2769d5639e": {
@@ -5396,7 +5396,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe07e7da4227ebf6f2bfab62a3263f54dbd49db4a": {
@@ -5411,7 +5411,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x533d2ee6873a2e69a25c4fa71e7bcc5ea615aa5b": {
@@ -5426,7 +5426,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xcff9cfee13045a95a5935f4e47810c7976e104e7": {
@@ -5441,7 +5441,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xee2e6eaaeed82c8c8e33757ec07a95c8757d611b": {
@@ -5456,7 +5456,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x181a0f8c380d19b27bd3f7351cc5b087e88ac20b": {
@@ -5471,7 +5471,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x54ce9bc3a25993b23bf500ba87d96bb2f9b017fd": {
@@ -5486,7 +5486,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xbdd706923dd4e0f6b8b9b2a8b80f90ef9fd0d681": {
@@ -5501,7 +5501,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5352b6ddee06c27a545cc86924f078a29e3453ad": {
@@ -5516,7 +5516,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0c708fb3558f80b040634853e43013d12206d932": {
@@ -5531,7 +5531,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x753ac33e53a1c56c68668487e45b09488fd0fb26": {
@@ -5546,7 +5546,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa1377f49bcf7b4cedb842c5bc47ac726a6509a33": {
@@ -5561,7 +5561,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0dde14a90aa50249dc9f4afa84a3be4321451341": {
@@ -5576,7 +5576,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8b204fe6376b167a085a507d6416c95cca565786": {
@@ -5591,7 +5591,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x99fbe26246bcc3d353c5cb5d0b95347efca0eb2b": {
@@ -5606,7 +5606,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xab7456151e27d5075efff63d05abcd0f7ffb5e3c": {
@@ -5621,7 +5621,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa92124622bba8fa904e3e9095e4fd32d3092d25c": {
@@ -5636,7 +5636,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9c95cf9ecf11eb386f1ae2cd69225ce94c033093": {
@@ -5651,7 +5651,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf7533a5056b529865270dc0522937b86a1de1967": {
@@ -5666,7 +5666,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7a5f698448fd6282eef0149d61cc4e131877b903": {
@@ -5681,7 +5681,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2175f2a2e71889b663d337914457f43357d6805a": {
@@ -5696,7 +5696,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x00db489fd77ae8a3dc70f0b5542676d0964f8d02": {
@@ -5711,7 +5711,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8a2b4333bee30730a27e893db7ddefb2d54d6fb4": {
@@ -5726,7 +5726,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8387548359507ecc0617029ae4361c685f77fff3": {
@@ -5741,7 +5741,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7bcea1bbd3142bfab1ed39c5bcd197810d409206": {
@@ -5756,7 +5756,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x5a10f6c70f33e67c9fbe90a40f654c1c9376757dd6e52c2024d103357f3aca06",
       "0xf6c7bd83e7f667e1e6d04b9aa745dc0e7da897bc7bdbd180ebf5b8c147d65071",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7edd9ed8bf0b5ac42988b1abc0e5e1190de840e8": {
@@ -5771,7 +5771,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3431175848929ac46db0fd4d072574d6df2a2f7e": {
@@ -5786,7 +5786,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3f3fdd1ee0653c12effe705bffc2c49a640c68dc": {
@@ -5801,7 +5801,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8bc95f4d9fece884a1bf10f1eaef314bf076e97b": {
@@ -5816,7 +5816,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xffc0385b91a23469af1b612cc036cbba223384ed": {
@@ -5831,7 +5831,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x44541e9a3098ff4fe8892050dd34a5ec28e27fa7": {
@@ -5846,7 +5846,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5a61288d03e9911462a5b27360454b9dedd0dda5": {
@@ -5861,7 +5861,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9b51f735d58d6ffeaaec31ed5b5d0ad881db6204": {
@@ -5876,7 +5876,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd54fb9c565be3a283753a1b29cca6bf8ba84f0df": {
@@ -5891,7 +5891,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x215d66263c3b75f974b3e35bda3b52b099e04880": {
@@ -5906,7 +5906,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb0e2c94156db812d78b7863f17536f291ffd5504": {
@@ -5921,7 +5921,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x254f18b3d2bfeae6931c2432c6dd34fca16cb954": {
@@ -5936,7 +5936,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x13a0cc23f7eac87a784136646855840b71bcdbd5": {
@@ -5951,7 +5951,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x6547e469765712c69728d603420f6b574ed05f17": {
@@ -5966,7 +5966,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x62eeb8039c6215a81a2a94ef446a778386ae75fc": {
@@ -5981,7 +5981,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5fd858a44579ee3b794ce14d39a25c172e5a97a1": {
@@ -5996,7 +5996,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x407060a47fb14ba0abd40a657ab9260588619489": {
@@ -6011,7 +6011,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa754a4b33f4c4657f39e314704db3aa84df2a6f9": {
@@ -6026,7 +6026,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x104acd39567397af7d0d8e9f36e79916cca2f777": {
@@ -6041,7 +6041,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7b1a1f732e26c91104914ce1e495f9612d9435d1": {
@@ -6056,7 +6056,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd7770110bfe2cb66249cdbcc3129277f5a131813": {
@@ -6071,7 +6071,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x029e13c1dcde8972361c9552ced69b97596e0e86": {
@@ -6086,7 +6086,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdf5b9bba3f86c9cfdb524942f26faa18ead8ba79": {
@@ -6101,7 +6101,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe2c4569265f702579f11849c1d261ebe12566291": {
@@ -6116,7 +6116,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb208cab40e6b3452662c01bf97a51d9b3a23ff93": {
@@ -6131,7 +6131,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x6c4021a219edf0ddc8e0abb13cc807a9713aaf63": {
@@ -6146,7 +6146,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x362c40959a2a9c87fae370b9d0508389ef5abfa2": {
@@ -6161,7 +6161,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdda6f72df08b1411174b547c2cced174946d6328": {
@@ -6176,7 +6176,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4fbf92df7981b2d1a8cdb4a454905a59504b7d9d": {
@@ -6191,7 +6191,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x38c806b9eb63b593d86601124928dd919a77d838": {
@@ -6206,7 +6206,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa5d77df9db5d5a01106565e746715b988302eaa8": {
@@ -6221,7 +6221,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x86782477a2373870339b6ed187b8bde13e5c4614": {
@@ -6236,7 +6236,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x28f87c38d46c71bc0f8b95eb557bc44d0b5ea473": {
@@ -6251,7 +6251,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb79f1bd31a6aa4e2a932c0066f93c570d2675116": {
@@ -6266,7 +6266,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe1343b0557378b6cd915c33abbcb264d64d81bbe": {
@@ -6281,7 +6281,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x01fb4a1ed8782a804273c587366dc1c91211e73e": {
@@ -6296,7 +6296,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xcc00498a27f60ec4c1d8892ffe2102eaccc788d6": {
@@ -6311,7 +6311,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc3ddcd2167607c829ebfebd790a0bb7e731945d5": {
@@ -6326,7 +6326,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3f52ddd7172c9ed92cb21b708926ddb730d9e730": {
@@ -6341,7 +6341,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x73566a07202b9216c733f4fbbf78d71cfa637005": {
@@ -6356,7 +6356,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0c3d63b1dd8f27190c637a132a7ca7c959d387d3": {
@@ -6371,7 +6371,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x34195e1f8d34d4de82a7b3ee0b7699c676a4e777": {
@@ -6386,7 +6386,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdd9f2edf28c8f1c52e9bcb36796ed47bfed4a08b": {
@@ -6401,7 +6401,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3f212278ea3b724d3c0d7cb89a4c73f2e55bfc54": {
@@ -6416,7 +6416,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3fb47f7db5ab1a3af5ac3417a77cb7dbe70ee6c5": {
@@ -6431,7 +6431,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd389e3272be2dd07aca708dd4055d7d5c2f94883": {
@@ -6446,7 +6446,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd93f39160654317b1fd0a503407501d17cba1d5c": {
@@ -6461,7 +6461,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd646286cf554b217ec0ed2586f665484f6d159ff": {
@@ -6476,7 +6476,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x3a8e61de978850d1e8dc8f2fed0b436ccdfb9f6e": {
@@ -6491,7 +6491,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe87294fc9395b18bafbb4635442e3fbac4006e51": {
@@ -6506,7 +6506,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x057158ccdbb8328419da83e773050743593b7a6f": {
@@ -6521,7 +6521,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0badc863fa689214a4be6539327239cc174bb35a": {
@@ -6536,7 +6536,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x414826beb718f2b204bca67b949604bdc739fcba": {
@@ -6551,7 +6551,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x88746d19d42d025b84f126d6125e2e70d630429e": {
@@ -6566,7 +6566,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xdb104067c60289bdc542d3ca843c049bb05dff98": {
@@ -6581,7 +6581,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe89e79ad90df5aa95ba2b007349eda2a9a2cc16b": {
@@ -6596,7 +6596,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf8b3ee2f303b5c4c02bd2c36f7dbff13f8eef664": {
@@ -6611,7 +6611,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xbcd2587a33b530d5a9e42a81c9fe4c88df730921": {
@@ -6626,7 +6626,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf7191f209a87f77259ec9acbce518cf09aad9be8": {
@@ -6641,7 +6641,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x275bfc53b20d0d64409e3393945452fc200c4354": {
@@ -6656,7 +6656,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x080ec462f8a1b06f1fc13eca806251a32473bcaa": {
@@ -6671,7 +6671,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfe90b996aeb7051bdffd5d840988b8673394297b": {
@@ -6686,7 +6686,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0efe2d7023094a878dacabfec74fb4832ba5ce7b": {
@@ -6701,7 +6701,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xcf95fbe72cab6e0606d9bd2ce44968e46441e9db": {
@@ -6716,7 +6716,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe12a03ec46f6b7b4f7a66ad4f9c6f99efa781d794c1d108f5139c2a52391e1e8",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x216e6479aad3e26fca05a0921d3d7eb88071bada": {
@@ -6731,7 +6731,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x9d42b28854d0da4766bf6b63391738f26ef5d2e1": {
@@ -6746,7 +6746,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x49f2b78458b553229c51a389c811c4a73ae84c73": {
@@ -6761,7 +6761,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x5987f4d5b021bf8eba176e5f334cd74449414e37": {
@@ -6776,7 +6776,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8485497f013845026f7e19c419fdf7b18706b2b5": {
@@ -6791,7 +6791,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8110e5c8581aa0fda6f7f1e5ef8dfb0337e5c7bc": {
@@ -6806,7 +6806,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe864a6a53d803f45e06692edebb924a35910e793": {
@@ -6821,7 +6821,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xbf3e52f7c6649aad43fb79be57e8f8cf2be96cd1": {
@@ -6836,7 +6836,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc85982220cb499e4075df0c04f617e047f2d430a": {
@@ -6851,7 +6851,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x454f5710f506f6cfbae0f6794f5b128de127190c": {
@@ -6866,7 +6866,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x301d3921598f152cbc371ad76a1cbada60340929": {
@@ -6881,7 +6881,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x4e6a9d5a6515cfb6b6b53a2124be15b8a44adae3": {
@@ -6896,7 +6896,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb77c231f9fb1ff53fec871d47fca22960247fb85": {
@@ -6911,7 +6911,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x468caf6ac110dd4ed726bc8bc2a641fd805d11a8": {
@@ -6926,7 +6926,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf24febc3d8bc0b9805463fc939c5648a8eb545ed": {
@@ -6941,7 +6941,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x548fb5e1e29203581d824435b46c3be956d89be0": {
@@ -6956,7 +6956,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x2fadcd9890bfb12df822ef6c79820af4f9ec6cd1": {
@@ -6971,7 +6971,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x752926b050e24faa65b3194c967ffc03cf3b6079": {
@@ -6986,7 +6986,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb2529c86d1fde4276b9f86d36552ded51c42832e": {
@@ -7001,7 +7001,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7f7fea47c59649c97caa0a9fdc1b6ca48b53424e": {
@@ -7016,7 +7016,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xa4eb6f2928a0eae64683fb7988d62f98ec864054": {
@@ -7031,7 +7031,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x59ebf786e4fdb027b29efaf79d2bb93f1526cca0": {
@@ -7046,7 +7046,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd53c48759e516cab89bbc36b57128755d0b8f691": {
@@ -7061,7 +7061,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf336086fb36b2326adfa066789df86588791e59b": {
@@ -7076,7 +7076,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x45542c8648bef73358bd8dd72350855dc44e0e0e": {
@@ -7091,7 +7091,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xceb86da18375a16c6afddd5101b0a7a8938d5cb4": {
@@ -7106,7 +7106,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xab7fd6db96259df3efff35ca1eb54afcfbfa20c8": {
@@ -7121,7 +7121,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x00d03f805fa52aca5c0387db663ff2ee530a043c": {
@@ -7136,7 +7136,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8e969c5587f28b31ad4806d3a5a884d29aad2015": {
@@ -7151,7 +7151,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc5e4897cc059a8de7acd7bc3ede87732b811cac7": {
@@ -7166,7 +7166,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xf80e551cb2e5c86707c2350da19987954e60cab3": {
@@ -7181,7 +7181,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x70467dca8fbb9b13efbca52c9b3450b0517927f4": {
@@ -7196,7 +7196,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc5c405cd12b59e49533463f722a2ef2c9ae0be0d": {
@@ -7211,7 +7211,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8a71de5b44f8a5adf7c935e4ed0b2d6ab4080f5d": {
@@ -7226,7 +7226,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xcaa3cba360c4d8c612f36e20afee9b04eabd3c7a": {
@@ -7241,7 +7241,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x78fd5119e99530b6bd271a06d9181a1c02a9e078": {
@@ -7256,7 +7256,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x6acf717b6a14ab0c3fb79bfeb682ce7dd9222dca": {
@@ -7271,7 +7271,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x81409e4c1a55c034ec86f64a75d18d911a8b0071": {
@@ -7286,7 +7286,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7d9fe3bce774a377b1c42865f1271f77184970e0": {
@@ -7301,7 +7301,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x339ceefd1375c41e1c6fb90f72ac2cf294a3fbfc": {
@@ -7316,7 +7316,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x10fbfe4299e2762a2bbd6fed073cc0de1f8263aa": {
@@ -7331,7 +7331,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x18ae9ef0431ee4835f3f075fc2980df02492d09b": {
@@ -7346,7 +7346,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xabe4714b48ffa796841999b192c4eca84ecc3a15": {
@@ -7361,7 +7361,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xae71beec18d616d5625d61d7932d6e681efaeea1": {
@@ -7376,7 +7376,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x64cbdfe99c2d20d81abc639f1386f390343b2de4": {
@@ -7391,7 +7391,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x27ee975902ccf78cff491ebcd707de81c7f703f3": {
@@ -7406,7 +7406,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x00c24c351571edb6db7a5616b5ff91c08bf1c218": {
@@ -7421,7 +7421,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe0d1d80e0d07b530681cdeee5d242f1aa1d11156": {
@@ -7436,7 +7436,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xd3e7630081372e91d9d35e9f4c9f3d1def6a610d": {
@@ -7451,7 +7451,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x868328e3897cc1cc5b8431e00e580b6e14f0f786": {
@@ -7466,7 +7466,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x28c0647db1ae7bec8108ed5ec20ed6e48b74c792": {
@@ -7481,7 +7481,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xb3557ba0d49bb21b43b2a5ac1db4b5258b8e6640": {
@@ -7496,7 +7496,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xc42159149b1715435690fb4089633f1377b93ea4": {
@@ -7511,7 +7511,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xfb486da2aefa1f2da254c4423fc0339c4c8e04a9": {
@@ -7526,7 +7526,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x7adbba92970769c475408fe5932bed482a3c6778": {
@@ -7541,7 +7541,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x23b18f47163a809812ce39f06cd25fe7db26adfb": {
@@ -7556,7 +7556,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1ac09be4e9504001ce07be0e178068f09a52efa0": {
@@ -7571,7 +7571,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe0f4f5237283c1d77cc1638978b7c32413592113": {
@@ -7586,7 +7586,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0xe73ebe7f5d5dfa7dedbf419a4658df486108fcd9": {
@@ -7601,7 +7601,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x0e0180d82e41ae3c061dcd7e37d2f71913307142": {
@@ -7616,7 +7616,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x01180f770161351e946f6665befa13beb56898fa": {
@@ -7631,7 +7631,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x1347c979f480922e4c05f9142f36955805cc558b": {
@@ -7646,7 +7646,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x17b8909a6ffa2c0255bb0de6be9e5a4a768690c2": {
@@ -7661,7 +7661,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x8520201ec6ab08aa35270efdcf28b51a826bcd97": {
@@ -7676,7 +7676,7 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xee19d057f44816d00371e6f335c0028841fd5f34f1c071249b9118b5a41038c5",
       "0xbcc2062b4aecce2fbbebc3b324a24da9749b7245588931961b61cb118d88d05f",
       "0x138dea13d1e7240398d22fdb017581958eea51eafadee327c0d25b6b9a99e6d6",
-      "0xc6d470ed5b22210830f0fe7a1ba25f597bbc16883620b7aa31b7023da6b0f963"
+      "0x19ef03842d8e51632c854fa1c1b7d7e8a53315219f1b851ce149819b9e3fd0b5"
     ]
   },
   "0x070fa4f484e79b1183b5f3043bbe729a110047ae": {
@@ -7689,7 +7689,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7703,7 +7704,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7717,7 +7719,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7731,7 +7734,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7745,7 +7749,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7759,7 +7764,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7773,7 +7779,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7787,7 +7794,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7801,7 +7809,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7815,7 +7824,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7829,7 +7839,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7843,7 +7854,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7857,7 +7869,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7871,7 +7884,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7885,7 +7899,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7899,7 +7914,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc6e35ca211cca853e5e70c92bbdf17baf60383acd5892e75b48da26ec6696dd9",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7913,7 +7929,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7927,7 +7944,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7941,7 +7959,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7955,7 +7974,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7969,7 +7989,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7983,7 +8004,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -7997,7 +8019,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8011,7 +8034,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8025,7 +8049,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8039,7 +8064,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8053,7 +8079,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8067,7 +8094,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8081,7 +8109,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8095,7 +8124,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8109,7 +8139,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8123,7 +8154,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xf0d1d71202ab2353db5a9da3b67c43e1cb76bf82c71a637c979c5ae94573bbc1",
       "0x07c81ba88348148da8a663c860b93dfc9ef2e9bd924fa0ce6f155c62ba60257f",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8137,7 +8169,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8151,7 +8184,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8165,7 +8199,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8179,7 +8214,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8193,7 +8229,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8207,7 +8244,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8221,7 +8259,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8235,7 +8274,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8249,7 +8289,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8263,7 +8304,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8277,7 +8319,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8291,7 +8334,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8305,7 +8349,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8319,7 +8364,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8333,7 +8379,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8347,7 +8394,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa17ba83d8a19c1fe584b303b71f874415c871a67c07d58580047b835af22855e",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8361,7 +8409,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8375,7 +8424,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8389,7 +8439,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8403,7 +8454,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8417,7 +8469,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8431,7 +8484,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8445,7 +8499,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8459,7 +8514,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8473,7 +8529,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8487,7 +8544,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8501,7 +8559,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8515,7 +8574,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8529,7 +8589,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8543,7 +8604,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8557,7 +8619,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8571,7 +8634,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb060fc5cf9596560b77de580659b3c6a248c4dab3bc63e172405e1500c518911",
       "0xfb99a2dae495f74dc5dd359b32d5327253a9841ade8db4f6fe64499b974709c7",
       "0x5092425def4b07d0cfe02c6b7e8e9d62f0d0023c23c54bd24d2785f51136b91b",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8585,7 +8649,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8599,7 +8664,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8613,7 +8679,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8627,7 +8694,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8641,7 +8709,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8655,7 +8724,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8669,7 +8739,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8683,7 +8754,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8697,7 +8769,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8711,7 +8784,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8725,7 +8799,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8739,7 +8814,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8753,7 +8829,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8767,7 +8844,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8781,7 +8859,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8795,7 +8874,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x76be9093d563203d7d029094b60aeb1b89ba401aea714d68c8e28fa9249f7953",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8809,7 +8889,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8823,7 +8904,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8837,7 +8919,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8851,7 +8934,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8865,7 +8949,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8879,7 +8964,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8893,7 +8979,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8907,7 +8994,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8921,7 +9009,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8935,7 +9024,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8949,7 +9039,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8963,7 +9054,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8977,7 +9069,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -8991,7 +9084,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9005,7 +9099,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9019,7 +9114,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2f5caa6db924d5b0309b1ebd9a12b1aa36279ca73b77cf1e0c7b87a90b1ec805",
       "0xc9e02a55ff452da22858155588292c376030937f366aa13ca78a251055d57536",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9033,7 +9129,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9047,7 +9144,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9061,7 +9159,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9075,7 +9174,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9089,7 +9189,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9103,7 +9204,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9117,7 +9219,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9131,7 +9234,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9145,7 +9249,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9159,7 +9264,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9173,7 +9279,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9187,7 +9294,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9201,7 +9309,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9215,7 +9324,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9229,7 +9339,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9243,7 +9354,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0ed405ad1ae46541193fb22be9c35c63457550d755ffe941b9e01505fe32917b",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9257,7 +9369,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9271,7 +9384,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9285,7 +9399,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9299,7 +9414,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9313,7 +9429,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9327,7 +9444,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9341,7 +9459,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9355,7 +9474,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9369,7 +9489,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9383,7 +9504,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9397,7 +9519,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9411,7 +9534,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9425,7 +9549,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9439,7 +9564,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9453,7 +9579,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9467,7 +9594,8 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10427f56d7c421efc9fd374155f8ffb16c931d395a94ff90c4635e1c06574841",
       "0xcce0c0b3bf6a62d32c58e2ff29f185cff2f0c8fe1ef064c48df5cffbc6c15e46",
       "0xbae6ffebd186dbc946f422242e1c8849820a95db8967da947da0418c94bf1edd",
-      "0x737bcda88b95c39a72729fc8d3f8f193f0ec84a628b1b03de3e2ca3e58be13b7",
+      "0x99f9645892cd781183b9cc1c36b859914b3a4649e41ce8a839f9befec8ae9d51",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9480,8 +9608,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x533078139a58e85c1be56dafc13cbb1e5dc06570c7213ec9af0d7ebdbb6c39cf",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9494,8 +9623,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x533078139a58e85c1be56dafc13cbb1e5dc06570c7213ec9af0d7ebdbb6c39cf",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9508,8 +9638,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x533078139a58e85c1be56dafc13cbb1e5dc06570c7213ec9af0d7ebdbb6c39cf",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9522,8 +9653,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x533078139a58e85c1be56dafc13cbb1e5dc06570c7213ec9af0d7ebdbb6c39cf",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9536,8 +9668,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x533078139a58e85c1be56dafc13cbb1e5dc06570c7213ec9af0d7ebdbb6c39cf",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9550,8 +9683,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x533078139a58e85c1be56dafc13cbb1e5dc06570c7213ec9af0d7ebdbb6c39cf",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9564,8 +9698,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x533078139a58e85c1be56dafc13cbb1e5dc06570c7213ec9af0d7ebdbb6c39cf",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9578,8 +9713,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x533078139a58e85c1be56dafc13cbb1e5dc06570c7213ec9af0d7ebdbb6c39cf",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9592,8 +9728,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x9a4ac7c4a56ebaa0ddf58d6910c90c3529603091a6ebb87aed220e8363a45b6a",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9606,8 +9743,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x9a4ac7c4a56ebaa0ddf58d6910c90c3529603091a6ebb87aed220e8363a45b6a",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9620,8 +9758,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x9a4ac7c4a56ebaa0ddf58d6910c90c3529603091a6ebb87aed220e8363a45b6a",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9634,8 +9773,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x9a4ac7c4a56ebaa0ddf58d6910c90c3529603091a6ebb87aed220e8363a45b6a",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9648,8 +9788,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x9a4ac7c4a56ebaa0ddf58d6910c90c3529603091a6ebb87aed220e8363a45b6a",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9662,8 +9803,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x9a4ac7c4a56ebaa0ddf58d6910c90c3529603091a6ebb87aed220e8363a45b6a",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9676,8 +9818,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x9a4ac7c4a56ebaa0ddf58d6910c90c3529603091a6ebb87aed220e8363a45b6a",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9690,8 +9833,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x9a4ac7c4a56ebaa0ddf58d6910c90c3529603091a6ebb87aed220e8363a45b6a",
       "0x4c42e068c8e2fa4517420a4bd720c34788d75e77c2c6b6e9426f0d544a999c10",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9704,8 +9848,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfc3d1727726efa77e142ae49106c1e7f5502a6c6643a99e9cb2f585a274bf7d3",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9718,8 +9863,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfc3d1727726efa77e142ae49106c1e7f5502a6c6643a99e9cb2f585a274bf7d3",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9732,8 +9878,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfc3d1727726efa77e142ae49106c1e7f5502a6c6643a99e9cb2f585a274bf7d3",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9746,8 +9893,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfc3d1727726efa77e142ae49106c1e7f5502a6c6643a99e9cb2f585a274bf7d3",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9760,8 +9908,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfc3d1727726efa77e142ae49106c1e7f5502a6c6643a99e9cb2f585a274bf7d3",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9774,8 +9923,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfc3d1727726efa77e142ae49106c1e7f5502a6c6643a99e9cb2f585a274bf7d3",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9788,8 +9938,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfc3d1727726efa77e142ae49106c1e7f5502a6c6643a99e9cb2f585a274bf7d3",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9802,8 +9953,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfc3d1727726efa77e142ae49106c1e7f5502a6c6643a99e9cb2f585a274bf7d3",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9816,8 +9968,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc688d2aa61c709313faec05e3475686087dd95aae4366448bf02f80c5af683dd",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9830,8 +9983,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc688d2aa61c709313faec05e3475686087dd95aae4366448bf02f80c5af683dd",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9844,8 +9998,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc688d2aa61c709313faec05e3475686087dd95aae4366448bf02f80c5af683dd",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9858,8 +10013,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc688d2aa61c709313faec05e3475686087dd95aae4366448bf02f80c5af683dd",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9872,8 +10028,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc688d2aa61c709313faec05e3475686087dd95aae4366448bf02f80c5af683dd",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9886,8 +10043,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc688d2aa61c709313faec05e3475686087dd95aae4366448bf02f80c5af683dd",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9900,8 +10058,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc688d2aa61c709313faec05e3475686087dd95aae4366448bf02f80c5af683dd",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9914,8 +10073,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xc688d2aa61c709313faec05e3475686087dd95aae4366448bf02f80c5af683dd",
       "0xa536bab858a8cd486a573443eb6e6ffa038c518926faaf6835c90e37a368e92f",
       "0x70e6ca1c1b255d48b408299c2e7201eb1d69abccb88570a09c515fff6e8e2936",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9928,8 +10088,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfd0c71b243a52c5d30a9aae3116a7bf5e28dae32f1363bc94a53bde0a5020921",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9942,8 +10103,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfd0c71b243a52c5d30a9aae3116a7bf5e28dae32f1363bc94a53bde0a5020921",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9956,8 +10118,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfd0c71b243a52c5d30a9aae3116a7bf5e28dae32f1363bc94a53bde0a5020921",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9970,8 +10133,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfd0c71b243a52c5d30a9aae3116a7bf5e28dae32f1363bc94a53bde0a5020921",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9984,8 +10148,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfd0c71b243a52c5d30a9aae3116a7bf5e28dae32f1363bc94a53bde0a5020921",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -9998,8 +10163,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfd0c71b243a52c5d30a9aae3116a7bf5e28dae32f1363bc94a53bde0a5020921",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10012,8 +10178,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfd0c71b243a52c5d30a9aae3116a7bf5e28dae32f1363bc94a53bde0a5020921",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10026,8 +10193,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfd0c71b243a52c5d30a9aae3116a7bf5e28dae32f1363bc94a53bde0a5020921",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10040,8 +10208,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7f927d19a1e1b5ef53e8162ea11a58c6a1488cad2283fe622ac8193f78dafc42",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10054,8 +10223,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7f927d19a1e1b5ef53e8162ea11a58c6a1488cad2283fe622ac8193f78dafc42",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10068,8 +10238,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7f927d19a1e1b5ef53e8162ea11a58c6a1488cad2283fe622ac8193f78dafc42",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10082,8 +10253,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7f927d19a1e1b5ef53e8162ea11a58c6a1488cad2283fe622ac8193f78dafc42",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10096,8 +10268,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7f927d19a1e1b5ef53e8162ea11a58c6a1488cad2283fe622ac8193f78dafc42",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10110,8 +10283,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7f927d19a1e1b5ef53e8162ea11a58c6a1488cad2283fe622ac8193f78dafc42",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10124,8 +10298,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7f927d19a1e1b5ef53e8162ea11a58c6a1488cad2283fe622ac8193f78dafc42",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10138,8 +10313,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7f927d19a1e1b5ef53e8162ea11a58c6a1488cad2283fe622ac8193f78dafc42",
       "0x78497b509071ad5fc32ee96c4cc9411f7dfebaefae47256ce813880d356bc94f",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10152,8 +10328,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x63e61856dfa57dd4724b1ad08b31de9a6d3e3c5150d0d89e3a4371fb99f67457",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10166,8 +10343,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x63e61856dfa57dd4724b1ad08b31de9a6d3e3c5150d0d89e3a4371fb99f67457",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10180,8 +10358,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x63e61856dfa57dd4724b1ad08b31de9a6d3e3c5150d0d89e3a4371fb99f67457",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10194,8 +10373,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x63e61856dfa57dd4724b1ad08b31de9a6d3e3c5150d0d89e3a4371fb99f67457",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10208,8 +10388,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x63e61856dfa57dd4724b1ad08b31de9a6d3e3c5150d0d89e3a4371fb99f67457",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10222,8 +10403,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x63e61856dfa57dd4724b1ad08b31de9a6d3e3c5150d0d89e3a4371fb99f67457",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10236,8 +10418,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x63e61856dfa57dd4724b1ad08b31de9a6d3e3c5150d0d89e3a4371fb99f67457",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10250,8 +10433,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x63e61856dfa57dd4724b1ad08b31de9a6d3e3c5150d0d89e3a4371fb99f67457",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10264,8 +10448,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x121a4d5facb3ee8000135b55fa3cfb42e9fc1436764e542e247301a88afbaca9",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10278,8 +10463,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x121a4d5facb3ee8000135b55fa3cfb42e9fc1436764e542e247301a88afbaca9",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10292,8 +10478,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x121a4d5facb3ee8000135b55fa3cfb42e9fc1436764e542e247301a88afbaca9",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10306,8 +10493,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x121a4d5facb3ee8000135b55fa3cfb42e9fc1436764e542e247301a88afbaca9",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10320,8 +10508,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x121a4d5facb3ee8000135b55fa3cfb42e9fc1436764e542e247301a88afbaca9",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10334,8 +10523,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x121a4d5facb3ee8000135b55fa3cfb42e9fc1436764e542e247301a88afbaca9",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10348,8 +10538,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x121a4d5facb3ee8000135b55fa3cfb42e9fc1436764e542e247301a88afbaca9",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10362,8 +10553,9 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x121a4d5facb3ee8000135b55fa3cfb42e9fc1436764e542e247301a88afbaca9",
       "0x4152aaa3670313264284a2cf74185d0b8b49e51f0f09dd99132ec66168f5cb14",
       "0x51e32b265dfba4e7f070dcab7193e86a00b8b693b66bec8191c47434002ab851",
-      "0x23c68c48c352c315450694bb6aba66b8cce0176d86e49f31cff41c7c8fab8c64",
+      "0x1082e3f7445c4edd6ff5f8590c39b5ce558984571282a07d31244ba0a1e04281",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10375,9 +10567,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xaa484f353bf7977a806b782136ff3d34393cc7ba725869e4b3f6583a3a18b594",
       "0x21c24ac6ea3478043d10ddd3ad222531c9a555c3fd92069400dc3e4df0b4b083",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10389,9 +10582,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xaa484f353bf7977a806b782136ff3d34393cc7ba725869e4b3f6583a3a18b594",
       "0x21c24ac6ea3478043d10ddd3ad222531c9a555c3fd92069400dc3e4df0b4b083",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10403,9 +10597,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xaa484f353bf7977a806b782136ff3d34393cc7ba725869e4b3f6583a3a18b594",
       "0x21c24ac6ea3478043d10ddd3ad222531c9a555c3fd92069400dc3e4df0b4b083",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10417,9 +10612,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xaa484f353bf7977a806b782136ff3d34393cc7ba725869e4b3f6583a3a18b594",
       "0x21c24ac6ea3478043d10ddd3ad222531c9a555c3fd92069400dc3e4df0b4b083",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10431,9 +10627,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x4f2d407cdd43b9c2e311985357821ec6d5bc85842da98d310815f5ad78f6a042",
       "0x21c24ac6ea3478043d10ddd3ad222531c9a555c3fd92069400dc3e4df0b4b083",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10445,9 +10642,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x4f2d407cdd43b9c2e311985357821ec6d5bc85842da98d310815f5ad78f6a042",
       "0x21c24ac6ea3478043d10ddd3ad222531c9a555c3fd92069400dc3e4df0b4b083",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10459,9 +10657,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x4f2d407cdd43b9c2e311985357821ec6d5bc85842da98d310815f5ad78f6a042",
       "0x21c24ac6ea3478043d10ddd3ad222531c9a555c3fd92069400dc3e4df0b4b083",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10473,9 +10672,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x4f2d407cdd43b9c2e311985357821ec6d5bc85842da98d310815f5ad78f6a042",
       "0x21c24ac6ea3478043d10ddd3ad222531c9a555c3fd92069400dc3e4df0b4b083",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10487,9 +10687,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x336d70ca56c50b4a4b870760aa8fc7b92a118857f0c8f05dab9174172d3d129a",
       "0xecf8269e71a0af94674275c0935859b69ee5df117b144b2c7f7213ec8c90e344",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10501,9 +10702,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x336d70ca56c50b4a4b870760aa8fc7b92a118857f0c8f05dab9174172d3d129a",
       "0xecf8269e71a0af94674275c0935859b69ee5df117b144b2c7f7213ec8c90e344",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10515,9 +10717,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x336d70ca56c50b4a4b870760aa8fc7b92a118857f0c8f05dab9174172d3d129a",
       "0xecf8269e71a0af94674275c0935859b69ee5df117b144b2c7f7213ec8c90e344",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10529,9 +10732,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x336d70ca56c50b4a4b870760aa8fc7b92a118857f0c8f05dab9174172d3d129a",
       "0xecf8269e71a0af94674275c0935859b69ee5df117b144b2c7f7213ec8c90e344",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10543,9 +10747,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe91e4e15667b928ff1a3253c0e18e7faafb77b35b59d3160b014faec320fe6c3",
       "0xecf8269e71a0af94674275c0935859b69ee5df117b144b2c7f7213ec8c90e344",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10557,9 +10762,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe91e4e15667b928ff1a3253c0e18e7faafb77b35b59d3160b014faec320fe6c3",
       "0xecf8269e71a0af94674275c0935859b69ee5df117b144b2c7f7213ec8c90e344",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10571,9 +10777,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe91e4e15667b928ff1a3253c0e18e7faafb77b35b59d3160b014faec320fe6c3",
       "0xecf8269e71a0af94674275c0935859b69ee5df117b144b2c7f7213ec8c90e344",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10585,9 +10792,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe91e4e15667b928ff1a3253c0e18e7faafb77b35b59d3160b014faec320fe6c3",
       "0xecf8269e71a0af94674275c0935859b69ee5df117b144b2c7f7213ec8c90e344",
       "0x60f696882d823973b9784813b50dd1badb8ef74d9b47d1931a918d20129b476c",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10599,9 +10807,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe0f61c157b7bcc4b97de36e1d1b16b449c56bad773997259b6362b220016f808",
       "0x761770a25ece6d183a84381e72608d1c303f6407737037e1cc8c602d39f71d70",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10613,9 +10822,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe0f61c157b7bcc4b97de36e1d1b16b449c56bad773997259b6362b220016f808",
       "0x761770a25ece6d183a84381e72608d1c303f6407737037e1cc8c602d39f71d70",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10627,9 +10837,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe0f61c157b7bcc4b97de36e1d1b16b449c56bad773997259b6362b220016f808",
       "0x761770a25ece6d183a84381e72608d1c303f6407737037e1cc8c602d39f71d70",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10641,9 +10852,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xe0f61c157b7bcc4b97de36e1d1b16b449c56bad773997259b6362b220016f808",
       "0x761770a25ece6d183a84381e72608d1c303f6407737037e1cc8c602d39f71d70",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10655,9 +10867,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2db754ee0d47ffb034d2407594656fb8d530b1472db5f14c7fcaa94b5b5ab9e2",
       "0x761770a25ece6d183a84381e72608d1c303f6407737037e1cc8c602d39f71d70",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10669,9 +10882,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2db754ee0d47ffb034d2407594656fb8d530b1472db5f14c7fcaa94b5b5ab9e2",
       "0x761770a25ece6d183a84381e72608d1c303f6407737037e1cc8c602d39f71d70",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10683,9 +10897,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2db754ee0d47ffb034d2407594656fb8d530b1472db5f14c7fcaa94b5b5ab9e2",
       "0x761770a25ece6d183a84381e72608d1c303f6407737037e1cc8c602d39f71d70",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10697,9 +10912,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x2db754ee0d47ffb034d2407594656fb8d530b1472db5f14c7fcaa94b5b5ab9e2",
       "0x761770a25ece6d183a84381e72608d1c303f6407737037e1cc8c602d39f71d70",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10711,9 +10927,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x08e12c4f163cfffb26a6eaee15b10d9b12732c938194d32e5c516f3d74ac20b7",
       "0x5ce29b88189bfa6304c6b443991a425e91921cd407c46f7d92a654ea8f66b12d",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10725,9 +10942,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x08e12c4f163cfffb26a6eaee15b10d9b12732c938194d32e5c516f3d74ac20b7",
       "0x5ce29b88189bfa6304c6b443991a425e91921cd407c46f7d92a654ea8f66b12d",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10739,9 +10957,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x08e12c4f163cfffb26a6eaee15b10d9b12732c938194d32e5c516f3d74ac20b7",
       "0x5ce29b88189bfa6304c6b443991a425e91921cd407c46f7d92a654ea8f66b12d",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10753,9 +10972,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x08e12c4f163cfffb26a6eaee15b10d9b12732c938194d32e5c516f3d74ac20b7",
       "0x5ce29b88189bfa6304c6b443991a425e91921cd407c46f7d92a654ea8f66b12d",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10767,9 +10987,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7963dd8d8ba757d3f9a1976ff99cd69de4f0c74cf1d4b4288718bdfc9a1a64d6",
       "0x5ce29b88189bfa6304c6b443991a425e91921cd407c46f7d92a654ea8f66b12d",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10781,9 +11002,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7963dd8d8ba757d3f9a1976ff99cd69de4f0c74cf1d4b4288718bdfc9a1a64d6",
       "0x5ce29b88189bfa6304c6b443991a425e91921cd407c46f7d92a654ea8f66b12d",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10795,9 +11017,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7963dd8d8ba757d3f9a1976ff99cd69de4f0c74cf1d4b4288718bdfc9a1a64d6",
       "0x5ce29b88189bfa6304c6b443991a425e91921cd407c46f7d92a654ea8f66b12d",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10809,9 +11032,10 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x7963dd8d8ba757d3f9a1976ff99cd69de4f0c74cf1d4b4288718bdfc9a1a64d6",
       "0x5ce29b88189bfa6304c6b443991a425e91921cd407c46f7d92a654ea8f66b12d",
       "0x582f608aec8fc763ce05d19a6061c9ddb93254bdf7e2b8ecbefaeab7b18c3451",
-      "0x277d53d49bc85ab1f2356bcb533ba0d3d0ff3f682049efa3050495c4ad0722bb",
+      "0x2579fa63f57cbe4ba398e4c7e5fc6c446d8640209dc4d82e71782699954dc816",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10822,10 +11046,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x3ebbad9532b1b57c8bdc71c9c9a157be6cfae14e54736fd58a202c1686ecb4cc",
       "0xc2e43a9be22c8f266059dcf5f973a623867b5380cff91dbe58f37c71d83d3694",
       "0x01471e6cb49b92c949cfd36533459fd8bbad4367b6f27daff23a03bf5f8748f1",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10836,10 +11061,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x3ebbad9532b1b57c8bdc71c9c9a157be6cfae14e54736fd58a202c1686ecb4cc",
       "0xc2e43a9be22c8f266059dcf5f973a623867b5380cff91dbe58f37c71d83d3694",
       "0x01471e6cb49b92c949cfd36533459fd8bbad4367b6f27daff23a03bf5f8748f1",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10850,10 +11076,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa960ea33f520feb84072e6d7596cc9d69e528b4ff67dbcca8d34365d1a3129d2",
       "0xc2e43a9be22c8f266059dcf5f973a623867b5380cff91dbe58f37c71d83d3694",
       "0x01471e6cb49b92c949cfd36533459fd8bbad4367b6f27daff23a03bf5f8748f1",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10864,10 +11091,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xa960ea33f520feb84072e6d7596cc9d69e528b4ff67dbcca8d34365d1a3129d2",
       "0xc2e43a9be22c8f266059dcf5f973a623867b5380cff91dbe58f37c71d83d3694",
       "0x01471e6cb49b92c949cfd36533459fd8bbad4367b6f27daff23a03bf5f8748f1",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10878,10 +11106,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x4098f8c6f6bb96bba8a667cd83612a718fdbc7b6c91c27a645c678ac3a8ed58b",
       "0x870a2d006784abec62adc427c555ca823e6c1ccecd16042f7311ef158d72b48e",
       "0x01471e6cb49b92c949cfd36533459fd8bbad4367b6f27daff23a03bf5f8748f1",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10892,10 +11121,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x4098f8c6f6bb96bba8a667cd83612a718fdbc7b6c91c27a645c678ac3a8ed58b",
       "0x870a2d006784abec62adc427c555ca823e6c1ccecd16042f7311ef158d72b48e",
       "0x01471e6cb49b92c949cfd36533459fd8bbad4367b6f27daff23a03bf5f8748f1",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10906,10 +11136,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x3af7c195f83e99fa1c67e85b711aebc2f29d1457a2c2e130e8947226dfb24cff",
       "0x870a2d006784abec62adc427c555ca823e6c1ccecd16042f7311ef158d72b48e",
       "0x01471e6cb49b92c949cfd36533459fd8bbad4367b6f27daff23a03bf5f8748f1",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10920,10 +11151,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x3af7c195f83e99fa1c67e85b711aebc2f29d1457a2c2e130e8947226dfb24cff",
       "0x870a2d006784abec62adc427c555ca823e6c1ccecd16042f7311ef158d72b48e",
       "0x01471e6cb49b92c949cfd36533459fd8bbad4367b6f27daff23a03bf5f8748f1",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10934,10 +11166,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xd825de450808c22c4e83fe635471a2c446e92f5a909b40b18095aeff26f60b8e",
       "0x675b13f06962eb624855cc5d5b83b0bad2e3a2ce3fd2b68b6d93085d8c2884f7",
       "0x00b0f1948626c7b338a0c8c499bb58bc908ee50f507482b3654fa4df73216556",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10948,10 +11181,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xd825de450808c22c4e83fe635471a2c446e92f5a909b40b18095aeff26f60b8e",
       "0x675b13f06962eb624855cc5d5b83b0bad2e3a2ce3fd2b68b6d93085d8c2884f7",
       "0x00b0f1948626c7b338a0c8c499bb58bc908ee50f507482b3654fa4df73216556",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10962,10 +11196,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0f251c289256de00cd3c90e21ffb5b55f47a993bf088d0a2821a7394680e1f2d",
       "0x675b13f06962eb624855cc5d5b83b0bad2e3a2ce3fd2b68b6d93085d8c2884f7",
       "0x00b0f1948626c7b338a0c8c499bb58bc908ee50f507482b3654fa4df73216556",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10976,10 +11211,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x0f251c289256de00cd3c90e21ffb5b55f47a993bf088d0a2821a7394680e1f2d",
       "0x675b13f06962eb624855cc5d5b83b0bad2e3a2ce3fd2b68b6d93085d8c2884f7",
       "0x00b0f1948626c7b338a0c8c499bb58bc908ee50f507482b3654fa4df73216556",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -10990,10 +11226,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x3102d2aee58c6c56b561f21cce122e8d86efa809cf9352a883086d1baeaf52b4",
       "0x7920f502910fe84eb16316de5ef73ed9387276d9e5003eff215719dc11170516",
       "0x00b0f1948626c7b338a0c8c499bb58bc908ee50f507482b3654fa4df73216556",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11004,10 +11241,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x3102d2aee58c6c56b561f21cce122e8d86efa809cf9352a883086d1baeaf52b4",
       "0x7920f502910fe84eb16316de5ef73ed9387276d9e5003eff215719dc11170516",
       "0x00b0f1948626c7b338a0c8c499bb58bc908ee50f507482b3654fa4df73216556",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11018,10 +11256,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x1e0085c25288932e4e60b34ae91f9fde41a55317e15e623617715067ae5149f2",
       "0x7920f502910fe84eb16316de5ef73ed9387276d9e5003eff215719dc11170516",
       "0x00b0f1948626c7b338a0c8c499bb58bc908ee50f507482b3654fa4df73216556",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11032,10 +11271,11 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x1e0085c25288932e4e60b34ae91f9fde41a55317e15e623617715067ae5149f2",
       "0x7920f502910fe84eb16316de5ef73ed9387276d9e5003eff215719dc11170516",
       "0x00b0f1948626c7b338a0c8c499bb58bc908ee50f507482b3654fa4df73216556",
-      "0xa08c72ef3989686b9aa4ed9d6bbc437085962f84b2dcd2471f6116e52dded4a2",
+      "0xf7e25ae0a15ba84a2f7739a538ba010debba3324c85f577007e57ea0e64652cc",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11045,11 +11285,12 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xca95b77c0638206015029b6c161da7813beaedb21247b5068d2978c009ebbdad",
       "0xc8417899cf1372c7f405895ae34ff18c920dee4c3400bb1b0ae8c7916798089c",
       "0x867fd8c7b24804d9a5cc3faac4758b4cf2b77dec247b37903a5806bf490c13b0",
-      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0x0042744053608f7c4910c48c6c48351f76f48fe17a7db3b75559784eeb7f445d",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11059,11 +11300,12 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xd38ab158089a00a4c5e3e412c8d693ff10f2c5e4dcb7efe0e05fcb39c0fc5741",
       "0xc8417899cf1372c7f405895ae34ff18c920dee4c3400bb1b0ae8c7916798089c",
       "0x867fd8c7b24804d9a5cc3faac4758b4cf2b77dec247b37903a5806bf490c13b0",
-      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0x0042744053608f7c4910c48c6c48351f76f48fe17a7db3b75559784eeb7f445d",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11073,11 +11315,12 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xfb3c35951ce9b6c3c3192cf4409e3dc0d7fda5ff693b18ab26b925727d751e0c",
       "0xdc217dc16f9ca5b84b1f841224d2934b52ebd012559cdfce3b968f929f54659a",
       "0x867fd8c7b24804d9a5cc3faac4758b4cf2b77dec247b37903a5806bf490c13b0",
-      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0x0042744053608f7c4910c48c6c48351f76f48fe17a7db3b75559784eeb7f445d",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11087,11 +11330,12 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0xb211000e76af4fc16426d4063ee8054b684194e50e29effafe3415d7b2abc781",
       "0xdc217dc16f9ca5b84b1f841224d2934b52ebd012559cdfce3b968f929f54659a",
       "0x867fd8c7b24804d9a5cc3faac4758b4cf2b77dec247b37903a5806bf490c13b0",
-      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0x0042744053608f7c4910c48c6c48351f76f48fe17a7db3b75559784eeb7f445d",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11101,11 +11345,12 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x03ee5c72387eda4aa080a188803866934d50d9a64b367ec7a56195932b8ea001",
       "0xfe0b3851720a338980f5e6002b4448bc7c67914f9bb06593d128ba91dca875bc",
       "0x62445d78f5a936a7a63864f7b9353712704f61c64cfdbc3e6bdf322a3b520ec7",
-      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0x0042744053608f7c4910c48c6c48351f76f48fe17a7db3b75559784eeb7f445d",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11115,11 +11360,12 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x6d04a0c462edb7cf8eff7d3aa968c7158e86ff21573d315c69669e2b947825d1",
       "0xfe0b3851720a338980f5e6002b4448bc7c67914f9bb06593d128ba91dca875bc",
       "0x62445d78f5a936a7a63864f7b9353712704f61c64cfdbc3e6bdf322a3b520ec7",
-      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0x0042744053608f7c4910c48c6c48351f76f48fe17a7db3b75559784eeb7f445d",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11129,11 +11375,12 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x35695c8605cc200075128e9ba8f06799f4320d574e386a3534483e03301a8246",
       "0x648720b3431ad6aefc35be74e57a0073385c67c09a9c22d405cafbc765b8a69f",
       "0x62445d78f5a936a7a63864f7b9353712704f61c64cfdbc3e6bdf322a3b520ec7",
-      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0x0042744053608f7c4910c48c6c48351f76f48fe17a7db3b75559784eeb7f445d",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
@@ -11143,22 +11390,139 @@ export const GTD_WHITELIST: Record<string, { maxAlloc: number; proof: string[] }
       "0x10d178f481b03a8588bb279e7df78c43f478fc0dd35d079c2a940aadcb18893e",
       "0x648720b3431ad6aefc35be74e57a0073385c67c09a9c22d405cafbc765b8a69f",
       "0x62445d78f5a936a7a63864f7b9353712704f61c64cfdbc3e6bdf322a3b520ec7",
-      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0x0042744053608f7c4910c48c6c48351f76f48fe17a7db3b75559784eeb7f445d",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   },
   "0xd6c9ec5977d39c6bd1e89c331f9b110f681336e8": {
     "maxAlloc": 2,
     "proof": [
+      "0x721947f29d1529e0a2d4a9a29c2756fbcc013d691fc72b116b75b4c5c6e070fe",
+      "0xf557c773bda6e4b3c5d8a42e1fc336cdea159a604ffecd83421eecdc54b2f7b1",
+      "0x679d794f0d8f2ab794580206b8733e38a9ac829eafc3e8c30c578178e05aea5c",
       "0xefc672247efb3de4feeb0b11ba38e86beecb0019ad75f91fac07220ef26b0e83",
       "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
       "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
       "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
       "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
+      "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
+    ]
+  },
+  "0x620ea84d694783e2727bf4575570344f0459026b": {
+    "maxAlloc": 2,
+    "proof": [
+      "0x5cff716280dbe271359ca401e95011d3703e94ec09b26258570afbc3df2fe360",
+      "0xf557c773bda6e4b3c5d8a42e1fc336cdea159a604ffecd83421eecdc54b2f7b1",
+      "0x679d794f0d8f2ab794580206b8733e38a9ac829eafc3e8c30c578178e05aea5c",
+      "0xefc672247efb3de4feeb0b11ba38e86beecb0019ad75f91fac07220ef26b0e83",
+      "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
+      "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
+      "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
+      "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
+      "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
+    ]
+  },
+  "0x802e3c87f6c3305da3dba923df7f52eab56df912": {
+    "maxAlloc": 2,
+    "proof": [
+      "0xc16232731557751806ab4a4cb88ce29aa265869bb8cd2d52707e248f8bb5010a",
+      "0xc0b7e6f2fc0d9fee0e194fb5bb67668ba3aa07b6d760c576e729056effdec0c0",
+      "0x679d794f0d8f2ab794580206b8733e38a9ac829eafc3e8c30c578178e05aea5c",
+      "0xefc672247efb3de4feeb0b11ba38e86beecb0019ad75f91fac07220ef26b0e83",
+      "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
+      "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
+      "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
+      "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
+      "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
+    ]
+  },
+  "0x5624a4b1abf12930c2c9eef26af7d99fbcbfc045": {
+    "maxAlloc": 2,
+    "proof": [
+      "0x5c6ad91488d95606f7f0b9fef8d22cc1ef61dbfb67a182ec444501bf08936ae3",
+      "0xc0b7e6f2fc0d9fee0e194fb5bb67668ba3aa07b6d760c576e729056effdec0c0",
+      "0x679d794f0d8f2ab794580206b8733e38a9ac829eafc3e8c30c578178e05aea5c",
+      "0xefc672247efb3de4feeb0b11ba38e86beecb0019ad75f91fac07220ef26b0e83",
+      "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
+      "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
+      "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
+      "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
+      "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
+    ]
+  },
+  "0xe7235bf158ee41876c64690265b844a9548796fe": {
+    "maxAlloc": 2,
+    "proof": [
+      "0xe1e05f2a74e613b7c8d2641e07c1c06a531fc1987604e5538ec686fdc0ac3c56",
+      "0xa6dbe4b9b58016ca74957c957fe4e0593fded209b54bc0194c919c0585c1f924",
+      "0x2c8e8bc07ecee950a6b2c75eb66ab01412a3c6a689963bd8a1decb4361b00d9d",
+      "0xefc672247efb3de4feeb0b11ba38e86beecb0019ad75f91fac07220ef26b0e83",
+      "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
+      "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
+      "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
+      "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
+      "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
+    ]
+  },
+  "0x9fb797624b963e8ee3b2961e8ca5f70da707e3b7": {
+    "maxAlloc": 2,
+    "proof": [
+      "0xda7e48e6f15636b9261b2ed166c61942b3296b6cc405ca489746f2f51d3af9eb",
+      "0xa6dbe4b9b58016ca74957c957fe4e0593fded209b54bc0194c919c0585c1f924",
+      "0x2c8e8bc07ecee950a6b2c75eb66ab01412a3c6a689963bd8a1decb4361b00d9d",
+      "0xefc672247efb3de4feeb0b11ba38e86beecb0019ad75f91fac07220ef26b0e83",
+      "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
+      "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
+      "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
+      "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
+      "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
+    ]
+  },
+  "0x37e4e4a698747e12f8d9d82ebe653d62d29264b7": {
+    "maxAlloc": 2,
+    "proof": [
+      "0x128a0ea0ffe2911ceb3513db5e74d011810b295266fb5e5ef17dd6ae9466400d",
+      "0x1fdf16c7b2b805ea320a33d00e3bc451276489026faf78271d08fd07628865ae",
+      "0x2c8e8bc07ecee950a6b2c75eb66ab01412a3c6a689963bd8a1decb4361b00d9d",
+      "0xefc672247efb3de4feeb0b11ba38e86beecb0019ad75f91fac07220ef26b0e83",
+      "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
+      "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
+      "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
+      "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
+      "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
+    ]
+  },
+  "0xb00d912e0efe5c5d22f2e61b6be6b2f4101d91df": {
+    "maxAlloc": 2,
+    "proof": [
+      "0xedcf1141e47edae79baae127fae68e8db788d224dd5536aba8676598a95152a9",
+      "0x1fdf16c7b2b805ea320a33d00e3bc451276489026faf78271d08fd07628865ae",
+      "0x2c8e8bc07ecee950a6b2c75eb66ab01412a3c6a689963bd8a1decb4361b00d9d",
+      "0xefc672247efb3de4feeb0b11ba38e86beecb0019ad75f91fac07220ef26b0e83",
+      "0x69882fa1e647f25bcc4932e6d35d61f137796b37e171808c3c3c99320877c5c7",
+      "0x4f5b86f0f29130a3834668e48f9aab480a9b9f541e90b09798f16fd1c9eb1df3",
+      "0x28b3dc2362fb68d27c9fa2193e6d623ce472f3bdedee04c6626d1a4eb8cedf46",
+      "0x2c5cae46168dc46edd14a02aa3d69d5725f8ce14ddf179e902e1da511d92b991",
+      "0x90e2833c7f68fd7d41876134e56f736453354c632727d9217614f05cb42bd814",
+      "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
+    ]
+  },
+  "0xea718a110466253bf1a57ef4c2539b98b389c0e0": {
+    "maxAlloc": 2,
+    "proof": [
+      "0xe5d9c690c283e8982ca84e4d275d580eec5d6b96d82d6ef7c1f758a57cb052a6",
       "0x04b62cfb54a37411120c913d25a803ed053b6179ce40ea0c59988e14232903b9"
     ]
   }
