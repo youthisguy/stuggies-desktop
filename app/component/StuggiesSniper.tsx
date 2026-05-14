@@ -7,7 +7,7 @@ import { usePrivy, useWallets } from "@privy-io/react-auth";
 /* ─────────────────────────────────────────────────────────────────
    Contract config
 ───────────────────────────────────────────────────────────────────*/
-const CONTRACT_ADDRESS = "0x97ed27133158e32Cf05Ce11C97A5805cc45ce3Bf";
+const CONTRACT_ADDRESS = "0x";
 
 const CONTRACT_ABI = [
   "function recordGame(uint256 score, uint256 wave, uint256 killed, uint256 saved, uint256 combo) external",
