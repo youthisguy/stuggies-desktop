@@ -159,7 +159,7 @@ export function useTraitFarmer() {
   };
 
   const switchToMegaETH = async () => {
-    const chainIdHex = "0x18c6"; // 6342 decimal = MegaETH testnet
+    const chainIdHex = "0x18c6"; // 6343 decimal = MegaETH testnet
 
     try {
       await window.ethereum.request({

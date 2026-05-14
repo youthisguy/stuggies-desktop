@@ -1,12 +1,27 @@
-"use client";
+"use client"
 
 import { PrivyProvider } from "@privy-io/react-auth";
 import { WagmiProvider } from "@privy-io/wagmi";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { createConfig, http } from "wagmi";
-import { defineChain } from "viem";
+import { createConfig } from "wagmi";
+import { defineChain, http } from "viem";
 
-// 1. Define the MegaETH Mainnet chain
+export const megaethTestnet = defineChain({
+  id: 6342,
+  name: "MegaETH Testnet",
+  nativeCurrency: { name: "Ether", symbol: "ETH", decimals: 18 },
+  rpcUrls: {
+    default: { http: ["https://carrot.megaeth.com/rpc"] },
+  },
+  blockExplorers: {
+    default: {
+      name: "MegaExplorer",
+      url: "https://megaexplorer.xyz",
+    },
+  },
+  testnet: true,
+});
+
 export const megaethMainnet = defineChain({
   id: 4326,
   name: "MegaETH Mainnet",
@@ -23,10 +38,12 @@ export const megaethMainnet = defineChain({
   testnet: false,
 });
 
-// 2. Update Wagmi config to use Mainnet
+// Simple config 
 export const wagmiConfig = createConfig({
-  chains: [megaethMainnet],
-  transports: { [megaethMainnet.id]: http() },
+  chains: [megaethTestnet],
+  transports: {
+    [megaethTestnet.id]: http("https://carrot.megaeth.com/rpc"),
+  },
 });
 
 const queryClient = new QueryClient();
@@ -36,18 +53,19 @@ export default function Providers({ children }: { children: React.ReactNode }) {
     <PrivyProvider
       appId={process.env.NEXT_PUBLIC_PRIVY_APP_ID!}
       config={{
-        // 3. Set default and supported chains to Mainnet
         defaultChain: megaethMainnet,
         supportedChains: [megaethMainnet],
         appearance: {
           theme: "dark",
           accentColor: "#000080",
         },
-        loginMethods: ["wallet", "email", "apple", "google", "twitter", "passkey"],
+        loginMethods: ["wallet", "email", "apple", "google", "twitter"],
       }}
     >
       <QueryClientProvider client={queryClient}>
-        <WagmiProvider config={wagmiConfig}>{children}</WagmiProvider>
+        <WagmiProvider config={wagmiConfig}>
+          {children}
+        </WagmiProvider>
       </QueryClientProvider>
     </PrivyProvider>
   );

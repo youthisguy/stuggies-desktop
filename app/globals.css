@@ -7,7 +7,6 @@ div, button, span, p, a, input {
   font-weight: 400;
   letter-spacing: 0.8px;
 }
-
 .win-titlebar-title, .start-btn, .taskbar-clock {
   font-family: 'Orbitron', monospace !important;
   letter-spacing: 1px;
@@ -57,13 +56,28 @@ body {
 
 .desktop-icons {
   position: absolute;
-  top: 14px; left: 14px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  gap: 6px;
-  max-height: calc(100% - 28px);
-  align-content: flex-start;
+  top: 14px;
+  left: 14px;
+
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: repeat(4, auto);
+
+  gap: 19px;
+}
+
+.tight-label .label {
+  margin-top: -10px;
+}
+
+.desktop-icon-img img {
+  display: block;
+  object-fit: contain;
+}
+
+.x-icon {
+  font-size: 32px;
+  line-height: 1;
 }
 
 .desktop-icon {
@@ -82,7 +96,7 @@ body {
 }
 .desktop-icon:hover   { background: rgba(0,0,160,.45); border: 1px dotted rgba(255,255,255,.7); }
 .desktop-icon.active  { background: rgba(0,0,160,.7);  border: 1px dotted #fff; }
-.desktop-icon-img     { font-size: 34px; line-height:1; filter: drop-shadow(0 2px 4px rgba(0,0,0,.9)); }
+.desktop-icon-img     { font-size: 34px; line-height:1; filter: drop-shadow(0 2px 4px rgba(0,0,0,.3)); }
 .desktop-icon .label  {
   font-size: 9px;
   text-align: center;
@@ -163,15 +177,15 @@ body {
 
 .win-content { 
   padding:10px;
-  font-size: 11px;
+  font-size: 17px;
   font-family: 'VT323', 'Share Tech Mono', monospace;
   color: black;
 }
 
 .desktop-icon .label {
-  font-size: 13px !important;
+  font-size: 14px !important;
   font-weight: bold !important;
-  text-shadow: 1px 1px 2px black, 0 0 8px rgba(0,0,0,0.9) !important;
+  text-shadow: 1px 1px 2px black, 0 0 8px rgba(0,0,0,0.2) !important;
   letter-spacing: 0.5px !important;
 }
 
@@ -309,12 +323,12 @@ body {
 .nft-title {
   font-family: 'Orbitron', monospace;
   font-weight: 700;
-  font-size: 11px;
+  font-size: 14px;
   letter-spacing: 1px;
 }
 
 .nft-rarity {
   font-family: 'Share Tech Mono', monospace;
-  font-size: 9px;
+  font-size: 11px;
   font-weight: bold;
 }

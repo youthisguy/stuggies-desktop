@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { useTraitFarmer } from "./hooks/useTraitFarmer";
 import StuggiesSniper from "./component/StuggiesSniper"
+import MintStuggies from "./component/MintStuggies";
 
 interface WinState {
   id: string;
@@ -183,7 +184,7 @@ function QuestContent() {
             {n < 4 && <div style={{ width: 20, height: 2, background: step > n ? "#000080" : "#c0c0c0" }} />}
           </div>
         ))}
-        <span style={{ fontSize: 10, color: "#555", marginLeft: 6 }}>
+        <span style={{ fontSize: 11, color: "#555", marginLeft: 6 }}>
           {step === 1 ? "Connect" : step === 2 ? "Screenshot" : step === 3 ? "Post on X" : "Submit"}
         </span>
       </div>
@@ -262,7 +263,7 @@ const CollectionContent = () => {
         <span style={{ fontSize: 18 }}>🖼️</span>
         <div>
           <div style={{ fontFamily: "'VT323', monospace", fontSize: 16, letterSpacing: 2 }}>STUGGIES NFT GALLERY</div>
-          <div style={{ fontSize: 10, opacity: 0.85 }}>Take a screenshot - use it in the Guardian Quest!</div>
+          <div style={{ fontSize: 11, opacity: 0.85 }}>Take a screenshot - use it in the Guardian Quest!</div>
         </div>
       </div>
 
@@ -317,7 +318,7 @@ const CollectionContent = () => {
       <Sunken style={{ fontSize: 11, lineHeight: 1.6, color: "#333", padding: "6px 10px" }}>
         📸 <strong>Take a Screenshot</strong> then post on X with <strong>#StuggiesGuardian</strong>!
       </Sunken>
-      <div style={{ marginTop: 6, fontSize: 10, color: "#777", borderTop: "1px solid #ccc", paddingTop: 5 }}>
+      <div style={{ marginTop: 6, fontSize: 11, color: "#777", borderTop: "1px solid #ccc", paddingTop: 5 }}>
         {NFT_GALLERY.length} Stuggies shown · 3,333 total · MegaETH
       </div>
     </div>
@@ -331,7 +332,7 @@ const AboutContent = () => (
       <div style={{ fontFamily: "'VT323', monospace", fontSize: 20, letterSpacing: 2, marginBottom: 4 }}>
         🌌 WELCOME TO STOPIA
       </div>
-      <p style={{ fontSize: 11, lineHeight: 1.7, margin: 0, opacity: 0.95 }}>
+      <p style={{ fontSize: 13, lineHeight: 1.7, margin: 0, opacity: 0.95 }}>
         The Stuggies are funny creatures from another world called{" "}
         <strong>Stopia</strong> a place where every Stuggy is born with a
         sparkle of mischief in their eyes. Legends say Stopia was formed when a
@@ -340,7 +341,7 @@ const AboutContent = () => (
       </p>
     </div>
 
-    <div style={{ background: "#f8f8f0", borderTop: "2px solid #808080", borderLeft: "2px solid #808080", borderRight: "2px solid #fff", borderBottom: "2px solid #fff", padding: "8px 10px", marginBottom: 12, fontSize: 11, lineHeight: 1.7, color: "#333" }}>
+    <div style={{ background: "#f8f8f0", borderTop: "2px solid #808080", borderLeft: "2px solid #808080", borderRight: "2px solid #fff", borderBottom: "2px solid #fff", padding: "8px 10px", marginBottom: 12, fontSize: 13, lineHeight: 1.7, color: "#333" }}>
       For centuries the Stuggies lived in harmony, powered by endless fun and
       creativity. But something began to change, the laughter that once echoed
       across Stopia started to fade. The skies dimmed. The confetti turned to
@@ -524,7 +525,7 @@ function WalletButton() {
 
   useEffect(() => {
     if (!address || !isConnected) return;
-    fetch("https://mainnet.megaeth.com/rpc", {
+    fetch("https://carrot.megaeth.com/rpc", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ jsonrpc: "2.0", method: "eth_getBalance", params: [address, "latest"], id: 1 }),
@@ -573,7 +574,7 @@ function WalletButton() {
             </div>
           </div>
           <div style={{ height: 1, background: "#808080", borderBottom: "1px solid #fff", margin: "2px 0" }} />
-          <button style={menuItem} onMouseEnter={hoverOn} onMouseLeave={hoverOff} onClick={() => { setOpen(false); window.open("https://megaeth.blockscout.com/address/" + address, "_blank"); }}>
+          <button style={menuItem} onMouseEnter={hoverOn} onMouseLeave={hoverOff} onClick={() => { setOpen(false); window.open("https://megaeth-testnet-v2.blockscout.com//address/" + address, "_blank"); }}>
             View on Explorer
           </button>
           <div style={{ height: 1, background: "#808080", borderBottom: "1px solid #fff", margin: "2px 0" }} />
@@ -642,7 +643,7 @@ export default function Home() {
     {
       id: "collection",
       label: "NFT Gallery",
-      emoji: <Icon src="/camera.webp" size={68} />,
+      emoji: <Icon src="/camera.webp" size={58} />,
       winConfig: {
         id: "collection",
         title: "Stuggies NFT Gallery",
@@ -653,7 +654,7 @@ export default function Home() {
     {
       id: "about",
       label: "About Stuggies",
-      emoji: <Icon src="/search-removebg-preview.png" size={68} />,
+      emoji: <Icon src="/search-removebg-preview.png" size={58} />,
       winConfig: {
         id: "about",
         title: "About Stuggies",
@@ -661,29 +662,39 @@ export default function Home() {
         content: <AboutContent />,
       },
     },
-    // ── NEW: Stuggies Sniper ────────────────────────────────────────────
     {
-      id: "sniper",
-      label: "Stuggies Sniper",
+     id: "mint",
+        label: "Mint Stuggies",
+        emoji: <Icon src="/nfts/stuggies-logo.jpeg" size={60} />,
+       winConfig: {
+      id: "mint",
+       title: "Mint Stuggies",
+      icon: <Icon src="/nfts/stuggies-logo.jpeg" size={20} />,
+        content: <MintStuggies />,
+          },
+     },
+    // {
+    //   id: "sniper",
+    //   label: "Stuggies Sniper",
  
-      emoji: <Icon src="/gamae_icon-removebg-preview.png" size={70} />,
-      winConfig: {
-        id: "sniper",
-        title: "Stuggies Sniper",
-        icon: <Icon src="/gamae_icon-removebg-preview.png" size={40} />,
-        content: <SniperContent />,
-      },
-    },
+    //   emoji: <Icon src="/gamae_icon-removebg-preview.png" size={60} />,
+    //   winConfig: {
+    //     id: "sniper",
+    //     title: "Stuggies Sniper",
+    //     icon: <Icon src="/gamae_icon-removebg-preview.png" size={20} />,
+    //     content: <SniperContent />,
+    //   },
+    // },
     {
       id: "twitter",
       label: "X / Twitter",
-      emoji: "𝕏",
+      emoji: <span className="x-icon">𝕏</span>,
       href: "https://x.com/TheStuggies",
     },
     {
       id: "discord",
       label: "Stuggies Discord",
-      emoji: <Icon src="/discord-removebg-preview.png" size={40} />,
+      emoji: <Icon src="/discord-removebg-preview.png" size={38} />,
       href: "https://discord.gg/UuRb2cJ3Zn",
     },
   ];
@@ -718,13 +729,24 @@ export default function Home() {
             };
             return (
               <div
-                key={icon.id}
-                className={`desktop-icon${sel === icon.id ? " active" : ""}`}
-                onClick={(e) => { e.stopPropagation(); handleActivate(); }}
-              >
-                <span className="desktop-icon-img">{icon.emoji}</span>
-                <span className="label">{icon.label}</span>
-              </div>
+              key={icon.id}
+              className={`
+                desktop-icon
+                ${sel === icon.id ? " active" : ""}
+                ${
+                  ["about", "quest", "collection", "sniper"].includes(icon.id)
+                    ? "tight-label"
+                    : ""
+                }
+              `}
+              onClick={(e) => {
+                e.stopPropagation();
+                handleActivate();
+              }}
+            >
+              <span className="desktop-icon-img">{icon.emoji}</span>
+              <span className="label">{icon.label}</span>
+            </div>
             );
           })}
         </div>
