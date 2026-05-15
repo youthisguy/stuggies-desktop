@@ -643,10 +643,10 @@ export default function MintStuggies() {
       login();
       return;
     }
-  
+
     setIsMinting(true);
     setTxStatus({ msg: "Preparing transaction...", type: "loading" });
-  
+
     try {
       const wallet = wallets[0];
       const provider = await wallet.getEthereumProvider();
@@ -654,15 +654,15 @@ export default function MintStuggies() {
         chain: megaethMainnet,
         transport: custom(provider),
       });
-  
+
       const iface = new ethers.Interface(ABI);
       let data: string;
       let totalCost: bigint;
-  
+
       // Normalize address
       const rawAddress = user?.wallet?.address || user?.smartWallet?.address;
       const lowerAddress = rawAddress?.toLowerCase();
-  
+
       console.log("🔍 Mint Debug:", {
         phase,
         address: lowerAddress,
@@ -670,52 +670,51 @@ export default function MintStuggies() {
         fcfsData: !!userFCFSData,
         quantity,
       });
-  
+
       if (phase === 1) {
         // ==================== GTD ====================
         if (!userGTDData) throw new Error("Not whitelisted for GTD");
-  
+
         totalCost = gtdPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintGTD", [
           BigInt(quantity),
           BigInt(userGTDData.maxAlloc),
           userGTDData.proof,
         ]);
-      } 
-      else if (phase === 2) {
+      } else if (phase === 2) {
         // ==================== FCFS ====================
         if (!userFCFSData) throw new Error("Not whitelisted for FCFS");
-  
+
         totalCost = fcfsPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintFCFS", [
           BigInt(quantity),
           BigInt(userFCFSData.maxAlloc),
           userFCFSData.proof,
         ]);
-      } 
-      else if (phase === 3) {
+      } else if (phase === 3) {
         totalCost = publicPrice * BigInt(quantity);
         data = iface.encodeFunctionData("mintPublic", [BigInt(quantity)]);
-      } 
-      else {
+      } else {
         throw new Error("Minting is not active");
       }
-  
+
       // ==================== GAS LIMIT ====================
       let gasLimit: bigint;
       if (phase === 1 || phase === 2) {
-        gasLimit = BigInt(450_000 + quantity * 300_000);  
+        gasLimit = BigInt(450_000 + quantity * 300_000);
       } else {
         gasLimit = BigInt(120_000 + quantity * 200_000);
       }
-  
+
       console.log(`⛽ Using gas: ${gasLimit.toString()}`);
-  
+
       setTxStatus({
-        msg: `Sending ${quantity} Stuggy${quantity > 1 ? "s" : ""} — ${fmtEth(totalCost)}`,
+        msg: `Sending ${quantity} Stuggy${quantity > 1 ? "s" : ""} — ${fmtEth(
+          totalCost
+        )}`,
         type: "loading",
       });
-  
+
       const hash = await walletClient.sendTransaction({
         to: CONTRACT_ADDRESS,
         value: totalCost,
@@ -724,22 +723,24 @@ export default function MintStuggies() {
         gasPrice: 1_000_000n,
         account: lowerAddress as `0x${string}`,
       });
-  
+
       setTxStatus({
         msg: `Tx sent: ${hash.slice(0, 12)}… Waiting...`,
         type: "loading",
       });
-  
+
       const publicClient = createPublicClient({
         chain: megaethMainnet,
         transport: http(RPC_URL),
       });
-  
+
       const receipt = await publicClient.waitForTransactionReceipt({ hash });
-  
+
       if (receipt.status === "success") {
         setTxStatus({
-          msg: `✅ Successfully minted ${quantity} Stuggy${quantity > 1 ? "s" : ""}!`,
+          msg: `✅ Successfully minted ${quantity} Stuggy${
+            quantity > 1 ? "s" : ""
+          }!`,
           type: "ok",
         });
         await Promise.all([fetchPublicData(), fetchWalletData()]);
@@ -1093,63 +1094,36 @@ export default function MintStuggies() {
         </div>
       </div>
 
-      {/* Rewards banner */}
-      {authenticated && wallets.length > 0 && (
+      {/* Rewards banner  */}
+      {authenticated && wallets.length > 0 && pendingRewardsAmt > 0n && (
         <div
           style={{
             marginBottom: 8,
-            background: pendingRewardsAmt > 0n ? "#001a00" : "#111",
-            borderTop:
-              pendingRewardsAmt > 0n ? "2px solid #00aa33" : "2px solid #333",
-            borderLeft:
-              pendingRewardsAmt > 0n ? "2px solid #00aa33" : "2px solid #333",
-            borderRight: "2px solid #001a00",
-            borderBottom: "2px solid #001a00",
-            padding: "7px 10px",
+            background: "#001a00",
+            border: "1px solid #00aa33",
+            padding: "6px 10px",
             display: "flex",
             alignItems: "center",
-            gap: 10,
+            justifyContent: "space-between",
           }}
         >
-          <div>
-            <div
-              style={{
-                fontFamily: "'Share Tech Mono', monospace",
-                fontSize: 16,
-                fontWeight: "bold",
-                color: pendingRewardsAmt > 0n ? "#00ff41" : "#444",
-              }}
-            >
-              {pendingRewardsAmt > 0n
-                ? fmtEth(pendingRewardsAmt)
-                : "No rewards yet"}
-            </div>
-            {ownedTokens.length > 0 && (
-              <div
-                style={{
-                  fontFamily: "'Share Tech Mono', monospace",
-                  fontSize: 11,
-                  color: "#555",
-                  marginTop: 1,
-                }}
-              >
-                Accruing across {ownedTokens.length} NFT
-                {ownedTokens.length > 1 ? "s" : ""}
-              </div>
-            )}
-          </div>
-          {pendingRewardsAmt > 0n && (
-            <div style={{ marginLeft: "auto" }}>
-              <W98Btn
-                onClick={handleClaimRewards}
-                disabled={isClaiming}
-                variant="success"
-                style={{ fontSize: 11 }}
-              >
-                {isClaiming ? "⏳ Claiming…" : "CLAIM ETH"}
-              </W98Btn>
-            </div>
-          )}
+          <span
+            style={{
+              fontFamily: "'Share Tech Mono', monospace",
+              fontSize: 14,
+              color: "#00ff41",
+            }}
+          >
+            {fmtEth(pendingRewardsAmt)}
+          </span>
+          <W98Btn
+            onClick={handleClaimRewards}
+            disabled={isClaiming}
+            variant="success"
+            style={{ fontSize: 11 }}
+          >
+            {isClaiming ? "⏳ Claiming…" : "CLAIM ETH"}
+          </W98Btn>
         </div>
       )}
 
@@ -1452,21 +1426,6 @@ export default function MintStuggies() {
                 </div>
               </div>
 
-              {(phase === 1 || phase === 2) && (
-                <div
-                  style={{
-                    fontFamily: "'Share Tech Mono', monospace",
-                    fontSize: 10,
-                    color: "#555",
-                    marginTop: 6,
-                    marginBottom: 2,
-                  }}
-                >
-                  Allocation: {phaseAlloc}/wallet · Minted: {mintedByUser} ·
-                  Available: {maxForUser}
-                </div>
-              )}
-
               <div style={{ marginTop: 10 }}>
                 {!authenticated ? (
                   <W98Btn
@@ -1760,99 +1719,6 @@ export default function MintStuggies() {
             )}
           </div>
 
-          <Raised style={{ marginBottom: 8 }}>
-            <div
-              style={{
-                fontFamily: "'Share Tech Mono', monospace",
-                fontSize: 9,
-                color: "#808080",
-                marginBottom: 6,
-                letterSpacing: 1,
-                textTransform: "uppercase" as const,
-              }}
-            >
-              Burn Distribution (of mint price)
-            </div>
-            <div
-              style={{
-                display: "grid",
-                gridTemplateColumns: "1fr 1fr",
-                gap: 5,
-              }}
-            >
-              {[
-                {
-                  label: "You receive",
-                  pct: "50%",
-                  color: "#006600",
-                  icon: "💰",
-                },
-                {
-                  label: "NFT holders pool",
-                  pct: "30%",
-                  color: "#000080",
-                  icon: "🏦",
-                },
-                { label: "Protocol fee", pct: "10%", color: "#444", icon: "🛠" },
-                {
-                  label: "Buyback wallet",
-                  pct: "10%",
-                  color: "#8b0000",
-                  icon: "🔄",
-                },
-              ].map(({ label, pct, color, icon }) => (
-                <div
-                  key={label}
-                  style={{
-                    background: "#fff",
-                    padding: "5px 8px",
-                    borderTop: "1px solid #808080",
-                    borderLeft: "1px solid #808080",
-                    borderRight: "1px solid #fff",
-                    borderBottom: "1px solid #fff",
-                    display: "flex",
-                    alignItems: "center",
-                    gap: 6,
-                  }}
-                >
-                  <span style={{ fontSize: 14 }}>{icon}</span>
-                  <div>
-                    <div
-                      style={{
-                        fontFamily: "'Share Tech Mono', monospace",
-                        fontSize: 8,
-                        color: "#808080",
-                      }}
-                    >
-                      {label}
-                    </div>
-                    <div
-                      style={{
-                        fontFamily: "'Share Tech Mono', monospace",
-                        fontSize: 14,
-                        fontWeight: "bold",
-                        color,
-                      }}
-                    >
-                      {pct}
-                    </div>
-                  </div>
-                </div>
-              ))}
-            </div>
-            <div
-              style={{
-                fontFamily: "'Share Tech Mono', monospace",
-                fontSize: 9,
-                color: "#555",
-                marginTop: 8,
-                lineHeight: 1.5,
-              }}
-            >
-              💡 30% holder share is distributed to all current holders via{" "}
-              <code>claimRewards()</code> proportionally.
-            </div>
-          </Raised>
 
           {!authenticated ? (
             <Raised
@@ -1881,7 +1747,7 @@ export default function MintStuggies() {
               <div
                 style={{
                   fontFamily: "'Share Tech Mono', monospace",
-                  fontSize: 9,
+                  fontSize: 11,
                   color: "#808080",
                   marginBottom: 6,
                   letterSpacing: 1,
@@ -1948,7 +1814,7 @@ export default function MintStuggies() {
                   <div
                     style={{
                       fontFamily: "'Share Tech Mono', monospace",
-                      fontSize: 9,
+                      fontSize: 11,
                       color: "#808080",
                       marginBottom: 4,
                     }}
@@ -1961,6 +1827,7 @@ export default function MintStuggies() {
                       display: "grid",
                       gridTemplateColumns: "1fr 1fr",
                       gap: 4,
+                      fontSize: 11
                     }}
                   >
                     {[
