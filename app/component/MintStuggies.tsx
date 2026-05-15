@@ -1122,7 +1122,7 @@ export default function MintStuggies() {
             variant="success"
             style={{ fontSize: 11 }}
           >
-            {isClaiming ? "⏳ Claiming…" : "CLAIM ETH"}
+            {isClaiming ? "⏳ Claiming" : "CLAIM ETH"}
           </W98Btn>
         </div>
       )}
@@ -1133,10 +1133,10 @@ export default function MintStuggies() {
           {/* Supply stats */}
           <div
             style={{
-              display: "flex",
+              display: "grid",
+              gridTemplateColumns: "repeat(4, 1fr)",
               gap: 5,
               marginBottom: 8,
-              flexWrap: "wrap" as const,
             }}
           >
             <StatCell
@@ -1159,7 +1159,6 @@ export default function MintStuggies() {
               value={isLoading ? "…" : totalMax.toLocaleString()}
             />
           </div>
-
           <div style={{ marginBottom: 8 }}>
             <div
               style={{
@@ -1719,7 +1718,6 @@ export default function MintStuggies() {
             )}
           </div>
 
-
           {!authenticated ? (
             <Raised
               style={{ textAlign: "center" as const, padding: "20px 12px" }}
@@ -1827,7 +1825,7 @@ export default function MintStuggies() {
                       display: "grid",
                       gridTemplateColumns: "1fr 1fr",
                       gap: 4,
-                      fontSize: 11
+                      fontSize: 11,
                     }}
                   >
                     {[
