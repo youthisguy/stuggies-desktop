@@ -678,17 +678,17 @@ export default function Home() {
         content: <AboutContent />,
       },
     },
-    {
-     id: "mint",
-        label: "Mint Stuggies",
-        emoji: <Icon src="/nfts/stuggies-logo.jpeg" size={60} />,
-       winConfig: {
-      id: "mint",
-       title: "Mint Stuggies",
-      icon: <Icon src="/nfts/stuggies-logo.jpeg" size={20} />,
-        content: <MintStuggies />,
-          },
-     },
+    // {
+    //  id: "mint",
+    //     label: "Mint Stuggies",
+    //     emoji: <Icon src="/nfts/stuggies-logo.jpeg" size={60} />,
+    //    winConfig: {
+    //   id: "mint",
+    //    title: "Mint Stuggies",
+    //   icon: <Icon src="/nfts/stuggies-logo.jpeg" size={20} />,
+    //     content: <MintStuggies />,
+    //       },
+    //  },
     // {
     //   id: "sniper",
     //   label: "Stuggies Sniper",
